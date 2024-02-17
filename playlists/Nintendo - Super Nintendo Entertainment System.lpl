@@ -1,0 +1,451 @@
+{
+  "version": "1.5",
+  "default_core_path": "/retroarch/cores/snes9x_libretro_libnx.nro",
+  "default_core_name": "Nintendo - SNES / SFC (Snes9x)",
+  "base_content_directory": "/retroarch/roms",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "scan_content_dir": "/retroarch/roms/SMC",
+  "scan_file_exts": "smc",
+  "scan_dat_file_path": "",
+  "scan_search_recursively": true,
+  "scan_search_archives": true,
+  "scan_filter_dat_content": false,
+  "items": [
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/ActRaiser (E) [T+Rus1.00 Chief-Net (13.08.2012)].smc",
+      "label": "ActRaiser (E) [T+Rus1.00 Chief-Net (13.08.2012)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Addams Family (U) [T+Rus uBAH009 (01.03.2017)].smc",
+      "label": "Addams Family (U) [T+Rus uBAH009 (01.03.2017)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Alien 3 (U) [T+Rus1.0 MagicTeam (14.07.2011)].smc",
+      "label": "Alien 3 (U) [T+Rus1.0 MagicTeam (14.07.2011)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Alien vs Predator (U) [T+Rus1.1 MagicTeam (18.04.2011)].smc",
+      "label": "Alien vs Predator (U) [T+Rus1.1 MagicTeam (18.04.2011)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Arcana (U) [T+Rus2.1 Chief-Net+MagicTeam (19.03.2011)][a1].smc",
+      "label": "Arcana (U) [T+Rus2.1 Chief-Net+MagicTeam (19.03.2011)][a1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Bahamut Lagoon (J) [T+Rus1.1.2 Chief-Net (05.01.2017)].smc",
+      "label": "Bahamut Lagoon (J) [T+Rus1.1.2 Chief-Net (05.01.2017)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Battletoads & Double Dragon - Ultimate Team (U) [T+Rus0.9h Shedevr (21.11.2004)].smc",
+      "label": "Battletoads & Double Dragon - Ultimate Team (U) [T+Rus0.9h Shedevr (21.11.2004)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Battletoads in Battlemaniacs (U) [T+Rus Shedevr (13.10.2002)].smc",
+      "label": "Battletoads in Battlemaniacs (U) [T+Rus Shedevr (13.10.2002)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/BioMetal (U) [T-Rus0.9 2RTeam (13.02.2000)].smc",
+      "label": "BioMetal (U) [T-Rus0.9 2RTeam (13.02.2000)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Bishoujo Senshi Sailor Moon - Another Story (J) [T+Rus1.5 GrekRus (14.06.2015)].smc",
+      "label": "Bishoujo Senshi Sailor Moon - Another Story (J) [T+Rus1.5 GrekRus (14.06.2015)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Blackthorne (U) [T+Rus Shedevr (12.07.2003)].smc",
+      "label": "Blackthorne (U) [T+Rus Shedevr (12.07.2003)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Breath of Fire II (U) [T-Rus Dreamy_Owl (17.04.2016)].smc",
+      "label": "Breath of Fire II (U) [T-Rus Dreamy_Owl (17.04.2016)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Chrono Trigger (U) [T+Rus Leonis (02.12.2009)].smc",
+      "label": "Chrono Trigger (U) [T+Rus Leonis (02.12.2009)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Clock Tower (J) [T+Rus1.01 Shedevr (28.01.2004)].smc",
+      "label": "Clock Tower (J) [T+Rus1.01 Shedevr (28.01.2004)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Daze Before Christmas (E) [T+Rus1.03 Chief-Net (22.06.2016)].smc",
+      "label": "Daze Before Christmas (E) [T+Rus1.03 Chief-Net (22.06.2016)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/DinoCity (U) [T+Rus0.82 Lin (07.05.2005)].smc",
+      "label": "DinoCity (U) [T+Rus0.82 Lin (07.05.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Donkey Kong Country (U) (V1.2) [T+Rus1.1 Chief-Net (09.01.2015)].smc",
+      "label": "Donkey Kong Country (U) (V1.2) [T+Rus1.1 Chief-Net (09.01.2015)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Dr Mario (J) (NP) [T+Rus Multisoft (19.01.2010)].smc",
+      "label": "Dr Mario (J) (NP) [T+Rus Multisoft (19.01.2010)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Final Fantasy II (U) (V1.1) [T+Rus Borisov (04.06.2010)].smc",
+      "label": "Final Fantasy II (U) (V1.1) [T+Rus Borisov (04.06.2010)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Final Fantasy III (U) (V1.0) [T+Rus 1.0.8 MagicTeam (10.02.2008)].smc",
+      "label": "Final Fantasy III (U) (V1.0) [T+Rus 1.0.8 MagicTeam (10.02.2008)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Final Fantasy V (J) [T+Rus1.11 Shedevr (10.10.2001)][f1].smc",
+      "label": "Final Fantasy V (J) [T+Rus1.11 Shedevr (10.10.2001)][f1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Flashback - Quest for Identity (U) [T+Rus Shedevr (06.12.2002)].smc",
+      "label": "Flashback - Quest for Identity (U) [T+Rus Shedevr (06.12.2002)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Fushigi no Dungeon 2 - Fuurai no Shiren (J) (V1.0) [T-Rus KenshinX (2010)].smc",
+      "label": "Fushigi no Dungeon 2 - Fuurai no Shiren (J) (V1.0) [T-Rus KenshinX (2010)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Go Go Ackman (J) [T-Rus0.8b Shedevr (20.04.2001)].smc",
+      "label": "Go Go Ackman (J) [T-Rus0.8b Shedevr (20.04.2001)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Hameln no Violin Hiki (J) [T+Rus1.00 Chief-Net (31.12.2011)].smc",
+      "label": "Hameln no Violin Hiki (J) [T+Rus1.00 Chief-Net (31.12.2011)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Harvest Moon (E) [T+Rus0.90 Chief-Net (01.01.2010)].smc",
+      "label": "Harvest Moon (E) [T+Rus0.90 Chief-Net (01.01.2010)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Home Alone 2 - Lost in New York (U) [T-Rus uBAH009 (14.06.2017)].smc",
+      "label": "Home Alone 2 - Lost in New York (U) [T-Rus uBAH009 (14.06.2017)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Hook (E) [T+Rus0.8 Lin (24.02.2008)].smc",
+      "label": "Hook (E) [T+Rus0.8 Lin (24.02.2008)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/King Arthur's World (U) [T+Rus1.00 Chief-Net (03.11.2011)].smc",
+      "label": "King Arthur's World (U) [T+Rus1.00 Chief-Net (03.11.2011)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Legend of Zelda - Link to the Past (U) [T+Rus0.98.5 Chief-Net+MagicTeam (18.03.2009)].smc",
+      "label": "Legend of Zelda - Link to the Past (U) [T+Rus0.98.5 Chief-Net+MagicTeam (18.03.2009)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Lethal Weapon (U) [T-Rus uBAH009 (02.12.2016)].smc",
+      "label": "Lethal Weapon (U) [T-Rus uBAH009 (02.12.2016)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Lion King (U) [T+Rus uBAH009 (12.06.2017)].smc",
+      "label": "Lion King (U) [T+Rus uBAH009 (12.06.2017)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Lost Vikings 2 (U) [T+Rus Shedevr (26.09.2004)].smc",
+      "label": "Lost Vikings 2 (U) [T+Rus Shedevr (26.09.2004)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Mega Man X (U) (V1.1) [T+Rus0.99 tmax (09.07.2004)].smc",
+      "label": "Mega Man X (U) (V1.1) [T+Rus0.99 tmax (09.07.2004)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Monstania (J) [T+Rus1.00 Shedevr (03.02.2002)].smc",
+      "label": "Monstania (J) [T+Rus1.00 Shedevr (03.02.2002)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Musya (U) [T+Rus1.0 Lin (28.02.2007)].smc",
+      "label": "Musya (U) [T+Rus1.0 Lin (28.02.2007)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Ninja Gaiden Trilogy (U) [!] [T+Rus Shedevr (04.10.2007)].smc",
+      "label": "Ninja Gaiden Trilogy (U) [!] [T+Rus Shedevr (04.10.2007)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Phantom 2040 (U) [T+Rus1.2 Chief-Net (08.02.2016)].smc",
+      "label": "Phantom 2040 (U) [T+Rus1.2 Chief-Net (08.02.2016)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Pilotwings (U) [T+Rus1.0 Shedevr (15.06.2004)].smc",
+      "label": "Pilotwings (U) [T+Rus1.0 Shedevr (15.06.2004)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Radical Dreamers - Nusumenai Houseki (J) (BS) [T+Rus Mirenately (08.09.2016)].smc",
+      "label": "Radical Dreamers - Nusumenai Houseki (J) (BS) [T+Rus Mirenately (08.09.2016)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Scooby-Doo Mystery (U) [T-Rus uBAH009 (18.10.2016)].smc",
+      "label": "Scooby-Doo Mystery (U) [T-Rus uBAH009 (18.10.2016)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Secret of Mana (U) [T+Rus1.11 Shedevr (24.01.2005)].smc",
+      "label": "Secret of Mana (U) [T+Rus1.11 Shedevr (24.01.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Shin Nekketsu Kouha - Kunio Tachi no Banka (J) [T+Rus0.9_Kind Shedevr (01.05.2003)].smc",
+      "label": "Shin Nekketsu Kouha - Kunio Tachi no Banka (J) [T+Rus0.9_Kind Shedevr (01.05.2003)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Shodai Nekketsu Kouha Kunio-kun (J) (V1.0) [T+Rus1.0 Shedevr (16.04.2007)].smc",
+      "label": "Shodai Nekketsu Kouha Kunio-kun (J) (V1.0) [T+Rus1.0 Shedevr (16.04.2007)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Slayers (J) [T-Rus1.00 bybyc9lc9l+Kujira (28.11.2013)].smc",
+      "label": "Slayers (J) [T-Rus1.00 bybyc9lc9l+Kujira (28.11.2013)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/SpellCraft - Aspects of Valor (U) (Prototype) [T+Rus1.3 Chief-Net (26.03.2015)].smc",
+      "label": "SpellCraft - Aspects of Valor (U) (Prototype) [T+Rus1.3 Chief-Net (26.03.2015)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Star Fox (U) (V1.2) [T+Rus1.01 KenshinX+bybyc9lc9l (02.05.2016)].smc",
+      "label": "Star Fox (U) (V1.2) [T+Rus1.01 KenshinX+bybyc9lc9l (02.05.2016)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Star Fox 2 (J) (Prototype) [T-Rus0.91 KenshinX (02.05.2016)].smc",
+      "label": "Star Fox 2 (J) (Prototype) [T-Rus0.91 KenshinX (02.05.2016)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Star Ocean (J) [T+Rus1.1 bybyc9lc9l&Dizzy (30.07.2013)].smc",
+      "label": "Star Ocean (J) [T+Rus1.1 bybyc9lc9l&Dizzy (30.07.2013)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Tales of Phantasia (J) [T-Rus0.75 rowaasr13 (19.04.2008)].smc",
+      "label": "Tales of Phantasia (J) [T-Rus0.75 rowaasr13 (19.04.2008)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Venom & Spider-Man - Separation Anxiety (U) [T-Rus uBAH009 (01.12.2016)].smc",
+      "label": "Venom & Spider-Man - Separation Anxiety (U) [T-Rus uBAH009 (01.12.2016)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Wolfenstein 3-D (U) [T+Rus gegmopo3 (11.12.2006)].smc",
+      "label": "Wolfenstein 3-D (U) [T+Rus gegmopo3 (11.12.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Wonder Project J - Kikai no Shonen Pino (J) [T+Rus Gektor (23.01.2011)].smc",
+      "label": "Wonder Project J - Kikai no Shonen Pino (J) [T+Rus Gektor (23.01.2011)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMC/ru-RU/Worms (E) [o1][T-Rus MarioSoft (13.06.2003)].smc",
+      "label": "Worms (E) [o1][T-Rus MarioSoft (13.06.2003)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    }
+  ]
+}

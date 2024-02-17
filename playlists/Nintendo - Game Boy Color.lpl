@@ -1,0 +1,291 @@
+{
+  "version": "1.5",
+  "default_core_path": "/retroarch/cores/gambatte_libretro_libnx.nro",
+  "default_core_name": "Nintendo - Game Boy / Color (Gambatte)",
+  "base_content_directory": "/retroarch/roms",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "scan_content_dir": "/retroarch/roms/GBC",
+  "scan_file_exts": "gbc",
+  "scan_dat_file_path": "",
+  "scan_search_recursively": true,
+  "scan_search_archives": true,
+  "scan_filter_dat_content": false,
+  "items": [
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/102 Dalmatians - Puppies to the Rescue (UE) [T+Rus uBAH009+AlecsandroTores (31.10.2017)].gbc",
+      "label": "102 Dalmatians - Puppies to the Rescue (UE) [T+Rus uBAH009+AlecsandroTores (31.10.2017)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/1942 (UE) [T+Rus Greengh0st (28.11.2010)].gbc",
+      "label": "1942 (UE) [T+Rus Greengh0st (28.11.2010)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/Adventures of the Smurfs, The (E) [T+Rus1.00 Chief-Net (31.12.2020)].gbc",
+      "label": "Adventures of the Smurfs, The (E) [T+Rus1.00 Chief-Net (31.12.2020)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/Alfred's Adventure (E) [T+Rus1.1 PSCD (21.02.2017)].gbc",
+      "label": "Alfred's Adventure (E) [T+Rus1.1 PSCD (21.02.2017)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/Alfred's Adventure (E) [T-Rus1.0 PSCD (18.02.2017)].gbc",
+      "label": "Alfred's Adventure (E) [T-Rus1.0 PSCD (18.02.2017)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/Alone in the Dark - The New Nightmare (U) [T-Rus Mifos (24.01.2013)].gbc",
+      "label": "Alone in the Dark - The New Nightmare (U) [T-Rus Mifos (24.01.2013)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/Animorphs (U) [T+Rus1.0 Chief-Net (13.01.2015)].gbc",
+      "label": "Animorphs (U) [T+Rus1.0 Chief-Net (13.01.2015)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/Armorines - Project S.W.A.R.M. (UE) [T+Rus2.01 Ratnik05&Chief-Net (11.01.2017)].gbc",
+      "label": "Armorines - Project S.W.A.R.M. (UE) [T+Rus2.01 Ratnik05&Chief-Net (11.01.2017)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/Asterix - Sur la Trace D'Idefix (E) [T-Rus uBAH009 (23.08.2016)].gbc",
+      "label": "Asterix - Sur la Trace D'Idefix (E) [T-Rus uBAH009 (23.08.2016)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/Bomberman Quest (E) (GB) [T+Rus MagicTeam (10.12.2004)].gbc",
+      "label": "Bomberman Quest (E) (GB) [T+Rus MagicTeam (10.12.2004)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/Crystalis (U) [T+Rus1.1 Chief-Net (03.09.2016)].gbc",
+      "label": "Crystalis (U) [T+Rus1.1 Chief-Net (03.09.2016)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/Daffy Duck - Fowl Play (UE) (GB) [T-Rus DevAng (12.01.2008)].gbc",
+      "label": "Daffy Duck - Fowl Play (UE) (GB) [T-Rus DevAng (12.01.2008)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/Donald Duck - Goin' Quackers (U) [T+Rus -V- (09.06.2008)].gbc",
+      "label": "Donald Duck - Goin' Quackers (U) [T+Rus -V- (09.06.2008)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/Driver - You are the Wheelman (U) [T+Rus1.01 Shedevr (29.07.2001)].gbc",
+      "label": "Driver - You are the Wheelman (U) [T+Rus1.01 Shedevr (29.07.2001)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/Extreme Ghostbusters (E) [T+Rus1.0 PSCD (28.11.2015)].gbc",
+      "label": "Extreme Ghostbusters (E) [T+Rus1.0 PSCD (28.11.2015)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/Heroes of Might and Magic (U) (V1.0) [T+Rus Shedevr (20.01.2005)].gbc",
+      "label": "Heroes of Might and Magic (U) (V1.0) [T+Rus Shedevr (20.01.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/Legend of Zelda, The - Link's Awakening DX (UE) (V1.0) (GB) [T+Rus2.2 Zelda64RUS (06.06.2018)].gbc",
+      "label": "Legend of Zelda, The - Link's Awakening DX (UE) (V1.0) (GB) [T+Rus2.2 Zelda64RUS (06.06.2018)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/Legend of Zelda, The - Oracle of Ages (E) [T+Rus1.0 Zelda64RUS (04.06.2018)].gbc",
+      "label": "Legend of Zelda, The - Oracle of Ages (E) [T+Rus1.0 Zelda64RUS (04.06.2018)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/Legend of Zelda, The - Oracle of Seasons (E) [T+Rus1.0 Zelda64RUS (04.06.2018)].gbc",
+      "label": "Legend of Zelda, The - Oracle of Seasons (E) [T+Rus1.0 Zelda64RUS (04.06.2018)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/Looney Tunes Collector - Martian Alert! (E) [T-Rus0.95 SergeyK (09.01.2004)].gbc",
+      "label": "Looney Tunes Collector - Martian Alert! (E) [T-Rus0.95 SergeyK (09.01.2004)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/Men in Black 2 - The Series (U) [T+Rus1.0 PSCD (15.12.2016)].gbc",
+      "label": "Men in Black 2 - The Series (U) [T+Rus1.0 PSCD (15.12.2016)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/MetaFight EX (J) [T+Rus1.0 Chief-Net (06.04.2015)].gbc",
+      "label": "MetaFight EX (J) [T+Rus1.0 Chief-Net (06.04.2015)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/Metal Gear Solid (U) [T+Rus1.50 Chief-Net (17.11.2020)].gbc",
+      "label": "Metal Gear Solid (U) [T+Rus1.50 Chief-Net (17.11.2020)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/Papyrus (E) [T+Rus1.1 Chief-Net (17.06.2021)].gbc",
+      "label": "Papyrus (E) [T+Rus1.1 Chief-Net (17.06.2021)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/Pokemon - Crystal Version (UE) (V1.1) [T+Rus Shedevr (13.10.2018)].gbc",
+      "label": "Pokemon - Crystal Version (UE) (V1.1) [T+Rus Shedevr (13.10.2018)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/Resident Evil Gaiden (U) [T-Rus0.9 psp-rusgame (16.08.2011)].gbc",
+      "label": "Resident Evil Gaiden (U) [T-Rus0.9 psp-rusgame (16.08.2011)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/Shantae (U) [T+Rus1.05 Chief-Net (16.03.2018)].gbc",
+      "label": "Shantae (U) [T+Rus1.05 Chief-Net (16.03.2018)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/Tiny Toon Adventures - Buster Saves the Day (U) [T-Rus Shedevr (06.07.2000)].gbc",
+      "label": "Tiny Toon Adventures - Buster Saves the Day (U) [T-Rus Shedevr (06.07.2000)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/Tomb Raider - Curse of the Sword (UE) [T+Rus tem(A) (04.06.2004)].gbc",
+      "label": "Tomb Raider - Curse of the Sword (UE) [T+Rus tem(A) (04.06.2004)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/Turok 3 - Shadow of Oblivion (UE) [T+Rus1.0 PSCD (07.12.2015)].gbc",
+      "label": "Turok 3 - Shadow of Oblivion (UE) [T+Rus1.0 PSCD (07.12.2015)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/Winnie the Pooh - Adventures in the 100 Acre Wood (U) [T-Rus Axel (30.04.2003)].gbc",
+      "label": "Winnie the Pooh - Adventures in the 100 Acre Wood (U) [T-Rus Axel (30.04.2003)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/X-Men - Mutant Wars (UE) [T+Rus uBAH009 (15.07.2018)].gbc",
+      "label": "X-Men - Mutant Wars (UE) [T+Rus uBAH009 (15.07.2018)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/X-Men - Wolverine's Rage (U) [T+Rus1.0 PSCD (23.07.2015)].gbc",
+      "label": "X-Men - Wolverine's Rage (U) [T+Rus1.0 PSCD (23.07.2015)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBC/ru-RU/Zebco Fishing! (U) [T+Rus0.99 Chief-Net (31.12.2021)].gbc",
+      "label": "Zebco Fishing! (U) [T+Rus0.99 Chief-Net (31.12.2021)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    }
+  ]
+}

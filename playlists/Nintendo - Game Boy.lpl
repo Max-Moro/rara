@@ -1,0 +1,555 @@
+{
+  "version": "1.5",
+  "default_core_path": "/retroarch/cores/gambatte_libretro_libnx.nro",
+  "default_core_name": "Nintendo - Game Boy / Color (Gambatte)",
+  "base_content_directory": "/retroarch/roms",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "scan_content_dir": "/retroarch/roms/GB",
+  "scan_file_exts": "gb",
+  "scan_dat_file_path": "",
+  "scan_search_recursively": true,
+  "scan_search_archives": true,
+  "scan_filter_dat_content": false,
+  "items": [
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Addams Family, The (U) [T-Rus uBAH009 (08.02.2018)].gb",
+      "label": "Addams Family, The (U) [T-Rus uBAH009 (08.02.2018)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Adventure Island II - Aliens in Paradise (UE) [T+Rus1.1 PSCD (24.07.2016)].gb",
+      "label": "Adventure Island II - Aliens in Paradise (UE) [T+Rus1.1 PSCD (24.07.2016)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Adventures of Rocky and Bullwinkle and Friends, The (U) [b1][T-Rus uBAH009 (12.02.2019)].gb",
+      "label": "Adventures of Rocky and Bullwinkle and Friends, The (U) [b1][T-Rus uBAH009 (12.02.2019)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Alien 3 (J) [T+Rus2.1 PSCD (19.11.2015)].gb",
+      "label": "Alien 3 (J) [T+Rus2.1 PSCD (19.11.2015)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Alien vs Predator (J) [T+Rus Greengh0st (27.10.2012)].gb",
+      "label": "Alien vs Predator (J) [T+Rus Greengh0st (27.10.2012)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Alleyway (W) [T+Rus Cool-Spot (19.08.2010)].gb",
+      "label": "Alleyway (W) [T+Rus Cool-Spot (19.08.2010)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Amazing Spider-Man, The (UE) [T+Rus lupus (06.08.2011)].gb",
+      "label": "Amazing Spider-Man, The (UE) [T+Rus lupus (06.08.2011)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Asterix (E) [T+Rus uBAH009 (29.08.2018)].gb",
+      "label": "Asterix (E) [T+Rus uBAH009 (29.08.2018)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Astro Rabby (J) [T+Rus1.0 Chief-Net (06.10.2009)].gb",
+      "label": "Astro Rabby (J) [T+Rus1.0 Chief-Net (06.10.2009)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Bart Simpson's Escape from Camp Deadly (UE) [T+Rus Gastly (11.09.2005)].gb",
+      "label": "Bart Simpson's Escape from Camp Deadly (UE) [T+Rus Gastly (11.09.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Batman - Return of the Joker (UE) [T-Rus Shedevr (30.04.2002)].gb",
+      "label": "Batman - Return of the Joker (UE) [T-Rus Shedevr (30.04.2002)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Beavis and Butt-head (UE) [T-Rus1.0 A.Romanitsa (04.11.2018)].gb",
+      "label": "Beavis and Butt-head (UE) [T-Rus1.0 A.Romanitsa (04.11.2018)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Blades of Steel (U) [T-Rus uBAH009 (25.12.2018)].gb",
+      "label": "Blades of Steel (U) [T-Rus uBAH009 (25.12.2018)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Bomberman GB (UE) (SGB) [T+Rus1.0 Chief-Net (19.01.2010)].gb",
+      "label": "Bomberman GB (UE) (SGB) [T+Rus1.0 Chief-Net (19.01.2010)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Booby Boys (J) [T+Rus1.0 Chief-Net (23.02.2013)].gb",
+      "label": "Booby Boys (J) [T+Rus1.0 Chief-Net (23.02.2013)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Bugs Bunny Crazy Castle, The (UE) [T+Rus Cool-Spot (16.01.2010)].gb",
+      "label": "Bugs Bunny Crazy Castle, The (UE) [T+Rus Cool-Spot (16.01.2010)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Castle Quest (E) [T+Rus1.12 Chief-Net (01.03.2023)].gb",
+      "label": "Castle Quest (E) [T+Rus1.12 Chief-Net (01.03.2023)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Castlevania - The Adventure (E) [T-Rus SRPFC (19.03.2021)].gb",
+      "label": "Castlevania - The Adventure (E) [T-Rus SRPFC (19.03.2021)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Castlevania - The Adventure (U) [T-Rus1.0 Guyver (09.01.2006)] (SPEED).gb",
+      "label": "Castlevania - The Adventure (U) [T-Rus1.0 Guyver (09.01.2006)] (SPEED)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Castlevania II - Belmont's Revenge (UE) [T+Rus1.01 Chief-Net (23.04.2011)].gb",
+      "label": "Castlevania II - Belmont's Revenge (UE) [T+Rus1.01 Chief-Net (23.04.2011)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Castlevania II - Belmont's Revenge (UE) [T+Rus1.01 Chief-Net (23.04.2011)] (SPEED).gb",
+      "label": "Castlevania II - Belmont's Revenge (UE) [T+Rus1.01 Chief-Net (23.04.2011)] (SPEED)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Chase H.Q. (UE) [T+Rus uBAH009 (03.07.2016)].gb",
+      "label": "Chase H.Q. (UE) [T+Rus uBAH009 (03.07.2016)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Chessmaster, The (UE) (V1.1) [T+Rus1.00 Chief-Net (20.07.2021)].gb",
+      "label": "Chessmaster, The (UE) (V1.1) [T+Rus1.00 Chief-Net (20.07.2021)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Cosmo Tank (U) [T+Rus Guyver (11.06.2010)].gb",
+      "label": "Cosmo Tank (U) [T+Rus Guyver (11.06.2010)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Daffy Duck (E) [T+Rus uBAH009 (20.07.2019)].gb",
+      "label": "Daffy Duck (E) [T+Rus uBAH009 (20.07.2019)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Darkwing Duck (U) [T-Rus uBAH009 (28.07.2019)].gb",
+      "label": "Darkwing Duck (U) [T-Rus uBAH009 (28.07.2019)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Deadeus (W) (v1.3.8) (Unl) [T-Rus1.1 VK007 (31.07.2021)].gb",
+      "label": "Deadeus (W) (v1.3.8) (Unl) [T-Rus1.1 VK007 (31.07.2021)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Double Dragon (UE) [T+Rus1.0 PSCD (17.07.2015)].gb",
+      "label": "Double Dragon (UE) [T+Rus1.0 PSCD (17.07.2015)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Dr. Franken (E) [T-Rus uBAH009 (28.09.2019)].gb",
+      "label": "Dr. Franken (E) [T-Rus uBAH009 (28.09.2019)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/DuckTales (U) [T-Rus uBAH009 (10.07.2019)].gb",
+      "label": "DuckTales (U) [T-Rus uBAH009 (10.07.2019)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/DuckTales 2 (E) [T+Rus0.7 GiSberg (24.10.2014)].gb",
+      "label": "DuckTales 2 (E) [T+Rus0.7 GiSberg (24.10.2014)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Final Fantasy Adventure (U) [T+Rus Chief-Net (31.10.2011)].gb",
+      "label": "Final Fantasy Adventure (U) [T+Rus Chief-Net (31.10.2011)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Fish Dude (U) [T-Rus Fish (07.12.2003)].gb",
+      "label": "Fish Dude (U) [T-Rus Fish (07.12.2003)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Flash, The (UE) [T-Rus uBAH009 (28.05.2016)].gb",
+      "label": "Flash, The (UE) [T-Rus uBAH009 (28.05.2016)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Flintstones, The - King Rock Treasure Island (UE) [T-Rus uBAH009 (08.01.2019)].gb",
+      "label": "Flintstones, The - King Rock Treasure Island (UE) [T-Rus uBAH009 (08.01.2019)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Home Alone (UE) [T-Rus uBAH009 (14.11.2018)].gb",
+      "label": "Home Alone (UE) [T-Rus uBAH009 (14.11.2018)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Kid Dracula (UE) [T-Rus uBAH009 (12.11.2018)].gb",
+      "label": "Kid Dracula (UE) [T-Rus uBAH009 (12.11.2018)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Kid Icarus - Of Myths and Monsters (UE) [T+Rus1.0 Chief-Net (04.03.2023)].gb",
+      "label": "Kid Icarus - Of Myths and Monsters (UE) [T+Rus1.0 Chief-Net (04.03.2023)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Kung-Fu Master (UE) [T+Rus Cool-Spot (16.01.2010)].gb",
+      "label": "Kung-Fu Master (UE) [T+Rus Cool-Spot (16.01.2010)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Legend of Zelda, The - Link's Awakening (UE) (V1.0) [T+Rus1.1 Zelda64RUS (06.06.2018)].gb",
+      "label": "Legend of Zelda, The - Link's Awakening (UE) (V1.0) [T+Rus1.1 Zelda64RUS (06.06.2018)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Lethal Weapon (UE) [T+Rus1.0 PSCD (21.07.2015)].gb",
+      "label": "Lethal Weapon (UE) [T+Rus1.0 PSCD (21.07.2015)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Little Master - Raikuban no Densetsu (J) [T+Rus1.00 Chief-Net (17.03.2019)].gb",
+      "label": "Little Master - Raikuban no Densetsu (J) [T+Rus1.00 Chief-Net (17.03.2019)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Masakari Densetsu - Kintarou Action Hen (J) [T+Rus0.99 Chief-Net (31.12.2021)].gb",
+      "label": "Masakari Densetsu - Kintarou Action Hen (J) [T+Rus0.99 Chief-Net (31.12.2021)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Mega Man - Dr. Wily's Revenge (U) [T+Rus1.0 PSCD (02.10.2014)].gb",
+      "label": "Mega Man - Dr. Wily's Revenge (U) [T+Rus1.0 PSCD (02.10.2014)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Mega Man II (U) [T+Rus1.0 PSCD (04.01.2015)].gb",
+      "label": "Mega Man II (U) [T+Rus1.0 PSCD (04.01.2015)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Mega Man III (U) [T+Rus1.0 PSCD (31.12.2015)].gb",
+      "label": "Mega Man III (U) [T+Rus1.0 PSCD (31.12.2015)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Mega Man IV (U) [T+Rus1.0 PSCD (24.01.2016)].gb",
+      "label": "Mega Man IV (U) [T+Rus1.0 PSCD (24.01.2016)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Metroid II - Return of Samus (W) [h3][T-Rus Ratnik05 (16.10.2012)].gb",
+      "label": "Metroid II - Return of Samus (W) [h3][T-Rus Ratnik05 (16.10.2012)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Mickey's Dangerous Chase (U) [T+Rus1.01 BHLady (08.05.2007)].gb",
+      "label": "Mickey's Dangerous Chase (U) [T+Rus1.01 BHLady (08.05.2007)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Mickey Mouse (J) [T+Rus Cool-Spot (16.01.2010)].gb",
+      "label": "Mickey Mouse (J) [T+Rus Cool-Spot (16.01.2010)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Nekketsu Kouha Kunio-kun - Bangai Rantou Hen (J) [T+Rus Cool-Spot (17.08.2010)].gb",
+      "label": "Nekketsu Kouha Kunio-kun - Bangai Rantou Hen (J) [T+Rus Cool-Spot (17.08.2010)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Ninja Taro (U) [T+Rus1.0 Chief-Net (17.06.2007)].gb",
+      "label": "Ninja Taro (U) [T+Rus1.0 Chief-Net (17.06.2007)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Pokemon - Blue Version (UE) (SGB) [T-Rus 2RTeam (12.01.2004)].gb",
+      "label": "Pokemon - Blue Version (UE) (SGB) [T-Rus 2RTeam (12.01.2004)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Pokemon - Red Version (UE) (SGB) [T-Rus 2RTeam (12.01.2004)].gb",
+      "label": "Pokemon - Red Version (UE) (SGB) [T-Rus 2RTeam (12.01.2004)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Pop Up (E) [T+Rus Cool-Spot (15.05.2011)].gb",
+      "label": "Pop Up (E) [T+Rus Cool-Spot (15.05.2011)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/R-Type (J) [T+Rus PSCD (01.05.2014)].gb",
+      "label": "R-Type (J) [T+Rus PSCD (01.05.2014)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/RoboCop 2 (UE) [T+Rus uBAH009 (01.07.2016)].gb",
+      "label": "RoboCop 2 (UE) [T+Rus uBAH009 (01.07.2016)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Spider-Man & X-Men - Arcade's Revenge (UE) [T+Rus1.0 PSCD (08.12.2016)].gb",
+      "label": "Spider-Man & X-Men - Arcade's Revenge (UE) [T+Rus1.0 PSCD (08.12.2016)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Spider-Man 2 (UE) [T+Rus uBAH009 (25.01.2017)].gb",
+      "label": "Spider-Man 2 (UE) [T+Rus uBAH009 (25.01.2017)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Super Mario Land (W) (V1.1) [T-Rus lupus (12.01.2010)].gb",
+      "label": "Super Mario Land (W) (V1.1) [T-Rus lupus (12.01.2010)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Super Mario Land 2 - 6 Golden Coins (UE) (V1.2) [T+Rus1.0 PSCD (18.09.2015)].gb",
+      "label": "Super Mario Land 2 - 6 Golden Coins (UE) (V1.2) [T+Rus1.0 PSCD (18.09.2015)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Super Mario Land 2 - 6 Golden Coins (UE) (V1.2) [T+Rus1.0 PSCD (18.09.2015)] (COLOR).gb",
+      "label": "Super Mario Land 2 - 6 Golden Coins (UE) (V1.2) [T+Rus1.0 PSCD (18.09.2015)] (COLOR)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Taiyou no Tenshi Marlowe - Ohanabatake wa Dai-panic (J) [T+Rus1.00 Chief-Net (07.03.2014)].gb",
+      "label": "Taiyou no Tenshi Marlowe - Ohanabatake wa Dai-panic (J) [T+Rus1.00 Chief-Net (07.03.2014)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Teenage Mutant Ninja Turtles III - Radical Rescue (U) (V1.0) [T+Rus1.0 Chief-Net (09.05.2020)].gb",
+      "label": "Teenage Mutant Ninja Turtles III - Radical Rescue (U) (V1.0) [T+Rus1.0 Chief-Net (09.05.2020)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Tiny Toon Adventures (J) [T-Rus uBAH009 (03.04.2019)].gb",
+      "label": "Tiny Toon Adventures (J) [T-Rus uBAH009 (03.04.2019)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/True Lies (UE) [T-Rus uBAH009 (18.01.2019)].gb",
+      "label": "True Lies (UE) [T-Rus uBAH009 (18.01.2019)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GB/ru-RU/Who Framed Roger Rabbit (U) [T+Rus1.0 PSCD (02.03.2018)].gb",
+      "label": "Who Framed Roger Rabbit (U) [T+Rus1.0 PSCD (02.03.2018)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    }
+  ]
+}

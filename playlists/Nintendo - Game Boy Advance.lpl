@@ -1,0 +1,3163 @@
+{
+  "version": "1.5",
+  "default_core_path": "/retroarch/cores/mgba_libretro_libnx.nro",
+  "default_core_name": "Nintendo - Game Boy Advance (mGBA)",
+  "base_content_directory": "/retroarch/roms",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "scan_content_dir": "/retroarch/roms/GBA",
+  "scan_file_exts": "gba",
+  "scan_dat_file_path": "",
+  "scan_search_recursively": true,
+  "scan_search_archives": true,
+  "scan_filter_dat_content": false,
+  "items": [
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/007 - Everything Or Nothing (UE) [T-Rus Vector].zip#007 - Everything Or Nothing (UE) [T-Rus Vector].gba",
+      "label": "007 - Everything Or Nothing (UE) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/007 - NightFire (UE) [T-Rus Pirate].zip#007 - NightFire (UE) [T-Rus Pirate].gba",
+      "label": "007 - NightFire (UE) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Ace Combat Advance (UE) [T-Rus Pirate].zip#Ace Combat Advance (UE) [T-Rus Pirate].gba",
+      "label": "Ace Combat Advance (UE) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Action Man - Robot Atak (E) [T+Rus1.0 Djinn(MagicGame) (09.02.2009)].zip#Action Man - Robot Atak (E) [T+Rus1.0 Djinn(MagicGame) (09.02.2009)].gba",
+      "label": "Action Man - Robot Atak (E) [T+Rus1.0 Djinn(MagicGame) (09.02.2009)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Aero the Acro-Bat - Rascal Rival Revenge (U) [T+Rus Kudos].zip#Aero the Acro-Bat - Rascal Rival Revenge (U) [T+Rus Kudos].gba",
+      "label": "Aero the Acro-Bat - Rascal Rival Revenge (U) [T+Rus Kudos]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Agent Hugo - Roborumble (E) [T-Rus Pirate].zip#Agent Hugo - Roborumble (E) [T-Rus Pirate].gba",
+      "label": "Agent Hugo - Roborumble (E) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Aladdin (U) [T-Rus MagicGame].zip#Aladdin (U) [T-Rus MagicGame].gba",
+      "label": "Aladdin (U) [T-Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Alex Rider - Stormbreaker (U) [T+Rus1.2 Djinny(MagicGame) (20.10.2006)].zip#Alex Rider - Stormbreaker (U) [T+Rus1.2 Djinny(MagicGame) (20.10.2006)].gba",
+      "label": "Alex Rider - Stormbreaker (U) [T+Rus1.2 Djinny(MagicGame) (20.10.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Alien Hominid (E) [T-Rus Pirate].zip#Alien Hominid (E) [T-Rus Pirate].gba",
+      "label": "Alien Hominid (E) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Altered Beast - Guardian of the Realms (U) [T+Rus1.0 PSCD (22.11.2016)].zip#Altered Beast - Guardian of the Realms (U) [T+Rus1.0 PSCD (22.11.2016)].gba",
+      "label": "Altered Beast - Guardian of the Realms (U) [T+Rus1.0 PSCD (22.11.2016)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/American Dragon - Jake Long - Rise of the Huntsclan (UE) [T-Rus Vector].zip#American Dragon - Jake Long - Rise of the Huntsclan (UE) [T-Rus Vector].gba",
+      "label": "American Dragon - Jake Long - Rise of the Huntsclan (UE) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/American Idol (U) [T+Rus Alliance (09.07.2005)].zip#American Idol (U) [T+Rus Alliance (09.07.2005)].gba",
+      "label": "American Idol (U) [T+Rus Alliance (09.07.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/American Sk8land, Tony Hawk's (U) [T-Rus UniGame].zip#American Sk8land, Tony Hawk's (U) [T-Rus UniGame].gba",
+      "label": "American Sk8land, Tony Hawk's (U) [T-Rus UniGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/American Tail - Fievel's Gold Rush (U) [T+Rus Kudos].zip#American Tail - Fievel's Gold Rush (U) [T+Rus Kudos].gba",
+      "label": "American Tail - Fievel's Gold Rush (U) [T+Rus Kudos]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Another World (W) (V2.1) (Unl) [T-Rus CrashGame].zip#Another World (W) (V2.1) (Unl) [T-Rus CrashGame].gba",
+      "label": "Another World (W) (V2.1) (Unl) [T-Rus CrashGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Ant Bully (U) [T+Rus1.3 Djinn(MagicGame) (17.10.2006)].zip#Ant Bully (U) [T+Rus1.3 Djinn(MagicGame) (17.10.2006)].gba",
+      "label": "Ant Bully (U) [T+Rus1.3 Djinn(MagicGame) (17.10.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Arctic Tale (U) [T-Rus Pirate].zip#Arctic Tale (U) [T-Rus Pirate].gba",
+      "label": "Arctic Tale (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Army Men Advance (UE) [T+Rus Kudos].zip#Army Men Advance (UE) [T+Rus Kudos].gba",
+      "label": "Army Men Advance (UE) [T+Rus Kudos]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Around the World in 80 Days (U) [T-Rus SergeyK(MagicGame)].zip#Around the World in 80 Days (U) [T-Rus SergeyK(MagicGame)].gba",
+      "label": "Around the World in 80 Days (U) [T-Rus SergeyK(MagicGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Arthur and the Minimoys (E) [T+Rus Pirate].zip#Arthur and the Minimoys (E) [T+Rus Pirate].gba",
+      "label": "Arthur and the Minimoys (E) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Asterix & Obelix XXL (E) [T+Rus MagicGame].zip#Asterix & Obelix XXL (E) [T+Rus MagicGame].gba",
+      "label": "Asterix & Obelix XXL (E) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Atlantis - Lost Empire (E) [T-Rus Pirate].zip#Atlantis - Lost Empire (E) [T-Rus Pirate].gba",
+      "label": "Atlantis - Lost Empire (E) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/ATV - Thunder Ridge Riders (U) [T-Rus Vector].zip#ATV - Thunder Ridge Riders (U) [T-Rus Vector].gba",
+      "label": "ATV - Thunder Ridge Riders (U) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Avatar - Last Airbender (U) [T-Rus Pirate].zip#Avatar - Last Airbender (U) [T-Rus Pirate].gba",
+      "label": "Avatar - Last Airbender (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Avatar - Last Airbender - Burning Earth (U) [T-Rus Pirate].zip#Avatar - Last Airbender - Burning Earth (U) [T-Rus Pirate].gba",
+      "label": "Avatar - Last Airbender - Burning Earth (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Avatar - Legend of Aang (E) [T+Rus1.0 Chief-Net (14.02.2010)].zip#Avatar - Legend of Aang (E) [T+Rus1.0 Chief-Net (14.02.2010)].gba",
+      "label": "Avatar - Legend of Aang (E) [T+Rus1.0 Chief-Net (14.02.2010)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Back to Stone (U) [T-Rus Pirate].zip#Back to Stone (U) [T-Rus Pirate].gba",
+      "label": "Back to Stone (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Backyard Sports - Basketball 2007 (U) [T+Rus Vector].zip#Backyard Sports - Basketball 2007 (U) [T+Rus Vector].gba",
+      "label": "Backyard Sports - Basketball 2007 (U) [T+Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Baldur's Gate - Dark Alliance (E) [T-Rus Pirate].zip#Baldur's Gate - Dark Alliance (E) [T-Rus Pirate].gba",
+      "label": "Baldur's Gate - Dark Alliance (E) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Ballistic - Ecks vs Sever (U) [T-Rus Pirate].zip#Ballistic - Ecks vs Sever (U) [T-Rus Pirate].gba",
+      "label": "Ballistic - Ecks vs Sever (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Barbie - Princess and the Pauper (U) [T+Rus2.0 Djinn(MagicGame) (26.01.2006)].zip#Barbie - Princess and the Pauper (U) [T+Rus2.0 Djinn(MagicGame) (26.01.2006)].gba",
+      "label": "Barbie - Princess and the Pauper (U) [T+Rus2.0 Djinn(MagicGame) (26.01.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Barbie and the Magic of Pegasus (U) [T+Rus1.3 Djinn(MagicGame) (26.01.2006)].zip#Barbie and the Magic of Pegasus (U) [T+Rus1.3 Djinn(MagicGame) (26.01.2006)].gba",
+      "label": "Barbie and the Magic of Pegasus (U) [T+Rus1.3 Djinn(MagicGame) (26.01.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Barbie Horse Adventures (E) [T-Rus Vector].zip#Barbie Horse Adventures (E) [T-Rus Vector].gba",
+      "label": "Barbie Horse Adventures (E) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Barbie in the 12 Dancing Princesses (E) [T+Rus1.0 Djinn(MagicGame) (17.06.2007)].zip#Barbie in the 12 Dancing Princesses (E) [T+Rus1.0 Djinn(MagicGame) (17.06.2007)].gba",
+      "label": "Barbie in the 12 Dancing Princesses (E) [T+Rus1.0 Djinn(MagicGame) (17.06.2007)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Barnyard (U) [T+Rus1.3 Djinn(MagicGame) (17.10.2006)].zip#Barnyard (U) [T+Rus1.3 Djinn(MagicGame) (17.10.2006)].gba",
+      "label": "Barnyard (U) [T+Rus1.3 Djinn(MagicGame) (17.10.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Batman - Rise of Sin Tzu (U) [T-Rus SergeyK(MagicGame)].zip#Batman - Rise of Sin Tzu (U) [T-Rus SergeyK(MagicGame)].gba",
+      "label": "Batman - Rise of Sin Tzu (U) [T-Rus SergeyK(MagicGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Batman - Vengeance (U) [T+Rus MagicGame].zip#Batman - Vengeance (U) [T+Rus MagicGame].gba",
+      "label": "Batman - Vengeance (U) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Batman Begins (UE) [T-Rus Pirate].zip#Batman Begins (UE) [T-Rus Pirate].gba",
+      "label": "Batman Begins (UE) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Bee Game (U) [T-Rus Pirate].zip#Bee Game (U) [T-Rus Pirate].gba",
+      "label": "Bee Game (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Best Friends - Hunde & Katzen (G) [T-Rus Pirate].zip#Best Friends - Hunde & Katzen (G) [T-Rus Pirate].gba",
+      "label": "Best Friends - Hunde & Katzen (G) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Bibi und Tina - Ferien auf dem Martinshof (G) [T-Rus Vector].zip#Bibi und Tina - Ferien auf dem Martinshof (G) [T-Rus Vector].gba",
+      "label": "Bibi und Tina - Ferien auf dem Martinshof (G) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Biene Maja - Klatschmohnwiese in Gefahr (G) [T-Rus Vector].zip#Biene Maja - Klatschmohnwiese in Gefahr (G) [T-Rus Vector].gba",
+      "label": "Biene Maja - Klatschmohnwiese in Gefahr (G) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Big Mutha Truckers (U) [T-Rus Pirate].zip#Big Mutha Truckers (U) [T-Rus Pirate].gba",
+      "label": "Big Mutha Truckers (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Bionicle (U) [T+Rus MagicGame].zip#Bionicle (U) [T+Rus MagicGame].gba",
+      "label": "Bionicle (U) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Bionicle - Matoran Adventures (UE) [T+Rus SergeyK(MagicGame)].zip#Bionicle - Matoran Adventures (UE) [T+Rus SergeyK(MagicGame)].gba",
+      "label": "Bionicle - Matoran Adventures (UE) [T+Rus SergeyK(MagicGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Bionicle - Maze of Shadows (E) (V1.0) [T-Rus Pirate].zip#Bionicle - Maze of Shadows (E) (V1.0) [T-Rus Pirate].gba",
+      "label": "Bionicle - Maze of Shadows (E) (V1.0) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Bionicle Heroes (U) [T+Rus1.0 Djinn(MagicGame) (25.07.2007)].zip#Bionicle Heroes (U) [T+Rus1.0 Djinn(MagicGame) (25.07.2007)].gba",
+      "label": "Bionicle Heroes (U) [T+Rus1.0 Djinn(MagicGame) (25.07.2007)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Bratz - Babyz (E) [T+Rus MagicGame].zip#Bratz - Babyz (E) [T+Rus MagicGame].gba",
+      "label": "Bratz - Babyz (E) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Bratz - Forever Diamondz (U) [T+Rus Pirate].zip#Bratz - Forever Diamondz (U) [T+Rus Pirate].gba",
+      "label": "Bratz - Forever Diamondz (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Bratz the Movie (U) [T+Rus MagicGame].zip#Bratz the Movie (U) [T+Rus MagicGame].gba",
+      "label": "Bratz the Movie (U) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Breath of Fire (U) [T+Rus Shedevr (23.05.2004)].zip#Breath of Fire (U) [T+Rus Shedevr (23.05.2004)].gba",
+      "label": "Breath of Fire (U) [T+Rus Shedevr (23.05.2004)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Broken Sword - Shadow of the Templars (U) [T+Rus1.00 Shedevr (13.09.2006)].zip#Broken Sword - Shadow of the Templars (U) [T+Rus1.00 Shedevr (13.09.2006)].gba",
+      "label": "Broken Sword - Shadow of the Templars (U) [T+Rus1.00 Shedevr (13.09.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Brother Bear (U) [T+Rus Shedevr(MagicGame)].zip#Brother Bear (U) [T+Rus Shedevr(MagicGame)].gba",
+      "label": "Brother Bear (U) [T+Rus Shedevr(MagicGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Cabbage Patch Kids - Patch Puppy Rescue (E) [T-Rus Pirate].zip#Cabbage Patch Kids - Patch Puppy Rescue (E) [T-Rus Pirate].gba",
+      "label": "Cabbage Patch Kids - Patch Puppy Rescue (E) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Cars (UE) [T+Rus MagicGame].zip#Cars (UE) [T+Rus MagicGame].gba",
+      "label": "Cars (UE) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Cars - Mater-National Championship (U) [T+Rus1.0 Djinn(MagicGame) (21.01.2008)].zip#Cars - Mater-National Championship (U) [T+Rus1.0 Djinn(MagicGame) (21.01.2008)].gba",
+      "label": "Cars - Mater-National Championship (U) [T+Rus1.0 Djinn(MagicGame) (21.01.2008)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Casper (E) [T-Rus Pirate].zip#Casper (E) [T-Rus Pirate].gba",
+      "label": "Casper (E) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Castlevania - Aria of Sorrow (U) [T+Rus Shedevr (16.03.2012)].zip#Castlevania - Aria of Sorrow (U) [T+Rus Shedevr (16.03.2012)].gba",
+      "label": "Castlevania - Aria of Sorrow (U) [T+Rus Shedevr (16.03.2012)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Castlevania - Circle of the Moon (U) [T+Rus1.00 MagicTeam (31.12.2009)].zip#Castlevania - Circle of the Moon (U) [T+Rus1.00 MagicTeam (31.12.2009)].gba",
+      "label": "Castlevania - Circle of the Moon (U) [T+Rus1.00 MagicTeam (31.12.2009)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Castlevania - Harmony of Dissonance (E) [T+Rus1.2 Chief-Net (03.05.2011)].zip#Castlevania - Harmony of Dissonance (E) [T+Rus1.2 Chief-Net (03.05.2011)].gba",
+      "label": "Castlevania - Harmony of Dissonance (E) [T+Rus1.2 Chief-Net (03.05.2011)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Catz (E) [T-Rus Pirate].zip#Catz (E) [T-Rus Pirate].gba",
+      "label": "Catz (E) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Charlie and the Chocolate Factory (E) [T+Rus MagicGame].zip#Charlie and the Chocolate Factory (E) [T+Rus MagicGame].gba",
+      "label": "Charlie and the Chocolate Factory (E) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Cheetah Girls (U) [T-Rus Vector].zip#Cheetah Girls (U) [T-Rus Vector].gba",
+      "label": "Cheetah Girls (U) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Chessmaster (U) [T+Rus MagicGame].zip#Chessmaster (U) [T+Rus MagicGame].gba",
+      "label": "Chessmaster (U) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Chicken Little (UE) [T+Rus1.2 Djinn(MagicGame) (17.01.2006)].zip#Chicken Little (UE) [T+Rus1.2 Djinn(MagicGame) (17.01.2006)].gba",
+      "label": "Chicken Little (UE) [T+Rus1.2 Djinn(MagicGame) (17.01.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Chicken Shoot 2 (U) [T+Rus Vector].zip#Chicken Shoot 2 (U) [T+Rus Vector].gba",
+      "label": "Chicken Shoot 2 (U) [T+Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Chronicles of Narnia - Lion, Witch and Wardrobe (UE) [T+Rus MagicGame].zip#Chronicles of Narnia - Lion, Witch and Wardrobe (UE) [T+Rus MagicGame].gba",
+      "label": "Chronicles of Narnia - Lion, Witch and Wardrobe (UE) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Cinderella - Magical Dreams (U) [T+Rus Djinn(MagicGame) (23.06.2010)].zip#Cinderella - Magical Dreams (U) [T+Rus Djinn(MagicGame) (23.06.2010)].gba",
+      "label": "Cinderella - Magical Dreams (U) [T+Rus Djinn(MagicGame) (23.06.2010)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Colin McRae Rally 2.0 (E) [T-Rus Pirate].zip#Colin McRae Rally 2.0 (E) [T-Rus Pirate].gba",
+      "label": "Colin McRae Rally 2.0 (E) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Comix Zone (E) [T-Rus NewGame].zip#Comix Zone (E) [T-Rus NewGame].gba",
+      "label": "Comix Zone (E) [T-Rus NewGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Contra Advance - Alien Wars EX (E) [T-Rus Pirate].zip#Contra Advance - Alien Wars EX (E) [T-Rus Pirate].gba",
+      "label": "Contra Advance - Alien Wars EX (E) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Crash Bandicoot - Huge Adventure (U) [T+Rus Djinn(MagicGame) (13.07.2005)].zip#Crash Bandicoot - Huge Adventure (U) [T+Rus Djinn(MagicGame) (13.07.2005)].gba",
+      "label": "Crash Bandicoot - Huge Adventure (U) [T+Rus Djinn(MagicGame) (13.07.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Crash Bandicoot 2 - N-Tranced (U) [T+Rus Djinn(MagicGame) (13.07.2005)].zip#Crash Bandicoot 2 - N-Tranced (U) [T+Rus Djinn(MagicGame) (13.07.2005)].gba",
+      "label": "Crash Bandicoot 2 - N-Tranced (U) [T+Rus Djinn(MagicGame) (13.07.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Crash Bandicoot Fusion (E) [T-Rus UniGame].zip#Crash Bandicoot Fusion (E) [T-Rus UniGame].gba",
+      "label": "Crash Bandicoot Fusion (E) [T-Rus UniGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Crash Bandicoot Purple - Ripto's Rampage (U) (V1.0) [T+Rus Djinn(MagicGame) (13.07.2005)].zip#Crash Bandicoot Purple - Ripto's Rampage (U) (V1.0) [T+Rus Djinn(MagicGame) (13.07.2005)].gba",
+      "label": "Crash Bandicoot Purple - Ripto's Rampage (U) (V1.0) [T+Rus Djinn(MagicGame) (13.07.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Crash Nitro Kart (U) [T-Rus Djinn(MagicGame) (13.07.2005)].zip#Crash Nitro Kart (U) [T-Rus Djinn(MagicGame) (13.07.2005)].gba",
+      "label": "Crash Nitro Kart (U) [T-Rus Djinn(MagicGame) (13.07.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Crash of the Titans (U) [T+Rus1.1 Djinn(MagicGame) (15.10.2007)].zip#Crash of the Titans (U) [T+Rus1.1 Djinn(MagicGame) (15.10.2007)].gba",
+      "label": "Crash of the Titans (U) [T+Rus1.1 Djinn(MagicGame) (15.10.2007)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Crazy Frog Racer (E) [T-Rus Pirate].zip#Crazy Frog Racer (E) [T-Rus Pirate].gba",
+      "label": "Crazy Frog Racer (E) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Crazy Taxi - Catch a Ride (U) [T+Rus Pirate].zip#Crazy Taxi - Catch a Ride (U) [T+Rus Pirate].gba",
+      "label": "Crazy Taxi - Catch a Ride (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Cross Town Heroes (E) [T-Rus Pirate].zip#Cross Town Heroes (E) [T-Rus Pirate].gba",
+      "label": "Cross Town Heroes (E) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/CT Special Forces (E) [T-Rus Pirate].zip#CT Special Forces (E) [T-Rus Pirate].gba",
+      "label": "CT Special Forces (E) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/CT Special Forces - Bioterror (E) [T-Rus Pirate].zip#CT Special Forces - Bioterror (E) [T-Rus Pirate].gba",
+      "label": "CT Special Forces - Bioterror (E) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Curious George (E) [T+Rus Pirate] (v1).zip#Curious George (E) [T+Rus Pirate] (v1).gba",
+      "label": "Curious George (E) [T+Rus Pirate] (v1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Dead to Rights (U) [T-Rus Pirate].zip#Dead to Rights (U) [T-Rus Pirate].gba",
+      "label": "Dead to Rights (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Dinotopia - Timestone Pirates (UE) [T-Rus Pirate].zip#Dinotopia - Timestone Pirates (UE) [T-Rus Pirate].gba",
+      "label": "Dinotopia - Timestone Pirates (UE) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Disney Princess - Royal Adventure (U) [T-Rus Pirate].zip#Disney Princess - Royal Adventure (U) [T-Rus Pirate].gba",
+      "label": "Disney Princess - Royal Adventure (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Donald Duck Advance (U) [T+Rus1.0 Djinn(MagicGame) (21.11.2007)].zip#Donald Duck Advance (U) [T+Rus1.0 Djinn(MagicGame) (21.11.2007)].gba",
+      "label": "Donald Duck Advance (U) [T+Rus1.0 Djinn(MagicGame) (21.11.2007)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Donkey Kong Country (U) [T+Rus MagicGame].zip#Donkey Kong Country (U) [T+Rus MagicGame].gba",
+      "label": "Donkey Kong Country (U) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Donkey Kong Country 2 (UA) [T+Rus MagicGame].zip#Donkey Kong Country 2 (UA) [T+Rus MagicGame].gba",
+      "label": "Donkey Kong Country 2 (UA) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Donkey Kong Country 3 (UA) [T+Rus MagicGame].zip#Donkey Kong Country 3 (UA) [T+Rus MagicGame].gba",
+      "label": "Donkey Kong Country 3 (UA) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Doom (UE) [hI][T+Rus1.1 MagicTeam (16.11.2006)].zip#Doom (UE) [hI][T+Rus1.1 MagicTeam (16.11.2006)].gba",
+      "label": "Doom (UE) [hI][T+Rus1.1 MagicTeam (16.11.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Doom II (U) [T+Rus2.2 MagicTeam (10.02.2009)].zip#Doom II (U) [T+Rus2.2 MagicTeam (10.02.2009)].gba",
+      "label": "Doom II (U) [T+Rus2.2 MagicTeam (10.02.2009)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Dora the Explorer - Dora's World Adventure! (U) [T+Rus Pirate].zip#Dora the Explorer - Dora's World Adventure! (U) [T+Rus Pirate].gba",
+      "label": "Dora the Explorer - Dora's World Adventure! (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Double Dragon Advance (U) [T+Rus Pirate].zip#Double Dragon Advance (U) [T+Rus Pirate].gba",
+      "label": "Double Dragon Advance (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Downforce (E) [T-Rus Pirate].zip#Downforce (E) [T-Rus Pirate].gba",
+      "label": "Downforce (E) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Downhill Jam, Tony Hawk's (U) [T-Rus Vector].zip#Downhill Jam, Tony Hawk's (U) [T-Rus Vector].gba",
+      "label": "Downhill Jam, Tony Hawk's (U) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Dragon's Rock (E) [T+Rus Pirate].zip#Dragon's Rock (E) [T+Rus Pirate].gba",
+      "label": "Dragon's Rock (E) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Dragon Ball - Advanced Adventure (E) [T+Rus Vector].zip#Dragon Ball - Advanced Adventure (E) [T+Rus Vector].gba",
+      "label": "Dragon Ball - Advanced Adventure (E) [T+Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Drill Dozer (U) [T+Rus1.0 MagicTeam (31.12.2011)].zip#Drill Dozer (U) [T+Rus1.0 MagicTeam (31.12.2011)].gba",
+      "label": "Drill Dozer (U) [T+Rus1.0 MagicTeam (31.12.2011)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Driv3r (U) [T+Rus SergeyK(MagicGame)].zip#Driv3r (U) [T+Rus SergeyK(MagicGame)].gba",
+      "label": "Driv3r (U) [T+Rus SergeyK(MagicGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Driver 2 Advance (U) [T+Rus HoRRoR(MagicGame)].zip#Driver 2 Advance (U) [T+Rus HoRRoR(MagicGame)].gba",
+      "label": "Driver 2 Advance (U) [T+Rus HoRRoR(MagicGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Dr Muto (E) [T-Rus Kudos].zip#Dr Muto (E) [T-Rus Kudos].gba",
+      "label": "Dr Muto (E) [T-Rus Kudos]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Duke Nukem Advance (U) [T-Rus Pirate].zip#Duke Nukem Advance (U) [T-Rus Pirate].gba",
+      "label": "Duke Nukem Advance (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Earthworm Jim 2 (E) [T-Rus NewGame].zip#Earthworm Jim 2 (E) [T-Rus NewGame].gba",
+      "label": "Earthworm Jim 2 (E) [T-Rus NewGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Ed, Edd n Eddy - Jawbreakers! (U) (v1.1) [T+Rus Vector].zip#Ed, Edd n Eddy - Jawbreakers! (U) (v1.1) [T+Rus Vector].gba",
+      "label": "Ed, Edd n Eddy - Jawbreakers! (U) (v1.1) [T+Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Enchanted - Once Upon Andalasia (U) [T+Rus1.0 Djinn(MagicGame) (03.12.2007)].zip#Enchanted - Once Upon Andalasia (U) [T+Rus1.0 Djinn(MagicGame) (03.12.2007)].gba",
+      "label": "Enchanted - Once Upon Andalasia (U) [T+Rus1.0 Djinn(MagicGame) (03.12.2007)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Eragon (E) [T+Rus MagicGame].zip#Eragon (E) [T+Rus MagicGame].gba",
+      "label": "Eragon (E) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/European Super League (E) [T-Rus Pirate].zip#European Super League (E) [T-Rus Pirate].gba",
+      "label": "European Super League (E) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Extreme Ghostbusters - Code Ecto-1 (U) [T+Rus HoRRoR+Tigran(MagicGame)].zip#Extreme Ghostbusters - Code Ecto-1 (U) [T+Rus HoRRoR+Tigran(MagicGame)].gba",
+      "label": "Extreme Ghostbusters - Code Ecto-1 (U) [T+Rus HoRRoR+Tigran(MagicGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/F24 Stealth Fighter (U) [T-Rus Pirate].zip#F24 Stealth Fighter (U) [T-Rus Pirate].gba",
+      "label": "F24 Stealth Fighter (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/FIFA 08 [p1][T-Rus MagicGame].zip#FIFA 08 [p1][T-Rus MagicGame].gba",
+      "label": "FIFA 08 [p1][T-Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/FIFA 09 [p1][T-Rus MagicGame].zip#FIFA 09 [p1][T-Rus MagicGame].gba",
+      "label": "FIFA 09 [p1][T-Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/FIFA Soccer 07 (UE) [T-Rus Pirate].zip#FIFA Soccer 07 (UE) [T-Rus Pirate].gba",
+      "label": "FIFA Soccer 07 (UE) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/FIFA World Cup - Germany 2006 (UE) [T-Rus Pirate].zip#FIFA World Cup - Germany 2006 (UE) [T-Rus Pirate].gba",
+      "label": "FIFA World Cup - Germany 2006 (UE) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Final Fantasy V Advance (U) [T+Rus1.0 ConsolGames (20.10.2009)].zip#Final Fantasy V Advance (U) [T+Rus1.0 ConsolGames (20.10.2009)].gba",
+      "label": "Final Fantasy V Advance (U) [T+Rus1.0 ConsolGames (20.10.2009)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Final Fantasy VI Advance (U) [T-Rus dema (13.11.2011)].zip#Final Fantasy VI Advance (U) [T-Rus dema (13.11.2011)].gba",
+      "label": "Final Fantasy VI Advance (U) [T-Rus dema (13.11.2011)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Finding Nemo (UE) [T+Rus Shedevr (08.12.2003)].zip#Finding Nemo (UE) [T+Rus Shedevr (08.12.2003)].gba",
+      "label": "Finding Nemo (UE) [T+Rus Shedevr (08.12.2003)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Finding Nemo - Continuing Adventures (E) [T-Rus Pirate].zip#Finding Nemo - Continuing Adventures (E) [T-Rus Pirate].gba",
+      "label": "Finding Nemo - Continuing Adventures (E) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Flashback Legends (F) (Prototype) [T+Rus_Beta psp-rusgame (09.10.2011)].zip#Flashback Legends (F) (Prototype) [T+Rus_Beta psp-rusgame (09.10.2011)].gba",
+      "label": "Flashback Legends (F) (Prototype) [T+Rus_Beta psp-rusgame (09.10.2011)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Flintstones - Big Trouble in Bedrock (U) [T+Rus Pirate].zip#Flintstones - Big Trouble in Bedrock (U) [T+Rus Pirate].gba",
+      "label": "Flintstones - Big Trouble in Bedrock (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Flushed Away (U) [T-Rus UniGame].zip#Flushed Away (U) [T-Rus UniGame].gba",
+      "label": "Flushed Away (U) [T-Rus UniGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Foster's Home for Imaginary Friends (U) [T-Rus Pirate].zip#Foster's Home for Imaginary Friends (U) [T-Rus Pirate].gba",
+      "label": "Foster's Home for Imaginary Friends (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Franklin's Great Adventures (U) [T+Rus1.00 Chief-Net (16.07.2010)].zip#Franklin's Great Adventures (U) [T+Rus1.00 Chief-Net (16.07.2010)].gba",
+      "label": "Franklin's Great Adventures (U) [T+Rus1.00 Chief-Net (16.07.2010)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Freestyle BMX 3, Dave Mirra (UE) [T-Rus Pirate].zip#Freestyle BMX 3, Dave Mirra (UE) [T-Rus Pirate].gba",
+      "label": "Freestyle BMX 3, Dave Mirra (UE) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Freestyle Scooter, Razor (U) [T-Rus Pirate].zip#Freestyle Scooter, Razor (U) [T-Rus Pirate].gba",
+      "label": "Freestyle Scooter, Razor (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Frogger Advance - Great Quest (E) [T-Rus Pirate].zip#Frogger Advance - Great Quest (E) [T-Rus Pirate].gba",
+      "label": "Frogger Advance - Great Quest (E) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Garfield - Search for Pooky (U) [T+Rus2.0 Djinn(MagicGame) (13.01.2006)].zip#Garfield - Search for Pooky (U) [T+Rus2.0 Djinn(MagicGame) (13.01.2006)].gba",
+      "label": "Garfield - Search for Pooky (U) [T+Rus2.0 Djinn(MagicGame) (13.01.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Garfield and His Nine Lives (U) [T+Rus1.1 Djinn(MagicGame) (26.07.2006)].zip#Garfield and His Nine Lives (U) [T+Rus1.1 Djinn(MagicGame) (26.07.2006)].gba",
+      "label": "Garfield and His Nine Lives (U) [T+Rus1.1 Djinn(MagicGame) (26.07.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Gekido Advance - Kintaro's Revenge (U) [T+Rus Shedevr (13.05.2005)].zip#Gekido Advance - Kintaro's Revenge (U) [T+Rus Shedevr (13.05.2005)].gba",
+      "label": "Gekido Advance - Kintaro's Revenge (U) [T+Rus Shedevr (13.05.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Ghost Rider (UE) [T+Rus MagicGame].zip#Ghost Rider (UE) [T+Rus MagicGame].gba",
+      "label": "Ghost Rider (UE) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Golden Sun (UE) [T+Rus0.5 MagicTeam (28.12.2008)].zip#Golden Sun (UE) [T+Rus0.5 MagicTeam (28.12.2008)].gba",
+      "label": "Golden Sun (UE) [T+Rus0.5 MagicTeam (28.12.2008)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Grand Theft Auto (U) [T+Rus MagicGame].zip#Grand Theft Auto (U) [T+Rus MagicGame].gba",
+      "label": "Grand Theft Auto (U) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Gremlins - Stripe vs Gizmo (U) [T+Rus1.0 Djinn(MagicGame) (10.09.2008)].zip#Gremlins - Stripe vs Gizmo (U) [T+Rus1.0 Djinn(MagicGame) (10.09.2008)].gba",
+      "label": "Gremlins - Stripe vs Gizmo (U) [T+Rus1.0 Djinn(MagicGame) (10.09.2008)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Grim Adventures of Billy & Mandy (U) [T-Rus Vector].zip#Grim Adventures of Billy & Mandy (U) [T-Rus Vector].gba",
+      "label": "Grim Adventures of Billy & Mandy (U) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/GT Advance 2 - Rally Racing (E) [T+Rus MagicGame].zip#GT Advance 2 - Rally Racing (E) [T+Rus MagicGame].gba",
+      "label": "GT Advance 2 - Rally Racing (E) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/GT Advance 3 - Pro Concept Racing (E) [T-Rus Pirate].zip#GT Advance 3 - Pro Concept Racing (E) [T-Rus Pirate].gba",
+      "label": "GT Advance 3 - Pro Concept Racing (E) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Gunstar Super Heroes (U) [T+Rus Kudos].zip#Gunstar Super Heroes (U) [T+Rus Kudos].gba",
+      "label": "Gunstar Super Heroes (U) [T+Rus Kudos]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Happy Feet (U) [T+Rus1.2 Djinn(MagicGame) (13.02.2007)].zip#Happy Feet (U) [T+Rus1.2 Djinn(MagicGame) (13.02.2007)].gba",
+      "label": "Happy Feet (U) [T+Rus1.2 Djinn(MagicGame) (13.02.2007)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Harlem Globetrotters - World Tour (U) [T-Rus Vector].zip#Harlem Globetrotters - World Tour (U) [T-Rus Vector].gba",
+      "label": "Harlem Globetrotters - World Tour (U) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Harry Potter and the Chamber of Secrets (UE) [T+Rus1.4 Djinn(MagicGame) (18.01.2013)].zip#Harry Potter and the Chamber of Secrets (UE) [T+Rus1.4 Djinn(MagicGame) (18.01.2013)].gba",
+      "label": "Harry Potter and the Chamber of Secrets (UE) [T+Rus1.4 Djinn(MagicGame) (18.01.2013)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Harry Potter and the Order of the Phoenix (UE) [T-Rus MagicGame].zip#Harry Potter and the Order of the Phoenix (UE) [T-Rus MagicGame].gba",
+      "label": "Harry Potter and the Order of the Phoenix (UE) [T-Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Harry Potter and the Prisoner of Azkaban (UE) [T-Rus UniGame].zip#Harry Potter and the Prisoner of Azkaban (UE) [T-Rus UniGame].gba",
+      "label": "Harry Potter and the Prisoner of Azkaban (UE) [T-Rus UniGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Harry Potter and the Sorcerer's Stone (UE) [T+Rus1.2 Djinn(MagicGame) (19.07.2006)].zip#Harry Potter and the Sorcerer's Stone (UE) [T+Rus1.2 Djinn(MagicGame) (19.07.2006)].gba",
+      "label": "Harry Potter and the Sorcerer's Stone (UE) [T+Rus1.2 Djinn(MagicGame) (19.07.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Heidi (E) [T+Rus Pirate].zip#Heidi (E) [T+Rus Pirate].gba",
+      "label": "Heidi (E) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Hello Kitty - Happy Party Pals (E) [T-Rus Pirate].zip#Hello Kitty - Happy Party Pals (E) [T-Rus Pirate].gba",
+      "label": "Hello Kitty - Happy Party Pals (E) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Herbie - Fully Loaded (U) [T-Rus Pirate].zip#Herbie - Fully Loaded (U) [T-Rus Pirate].gba",
+      "label": "Herbie - Fully Loaded (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Hey Arnold! the Movie (U) [T+Rus1.1 Djinn(MagicGame) (24.03.2008)].zip#Hey Arnold! the Movie (U) [T+Rus1.1 Djinn(MagicGame) (24.03.2008)].gba",
+      "label": "Hey Arnold! the Movie (U) [T+Rus1.1 Djinn(MagicGame) (24.03.2008)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/High School Musical - Livin' the Dream (U) [T-Rus MagicGame].zip#High School Musical - Livin' the Dream (U) [T-Rus MagicGame].gba",
+      "label": "High School Musical - Livin' the Dream (U) [T-Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Hi Hi Puffy AmiYumi - Kaznapped! (U) [T-Rus Pirate].zip#Hi Hi Puffy AmiYumi - Kaznapped! (U) [T-Rus Pirate].gba",
+      "label": "Hi Hi Puffy AmiYumi - Kaznapped! (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Hobbit - Prelude to the Lord of the Rings (U) [T-Rus Pirate] (v1).zip#Hobbit - Prelude to the Lord of the Rings (U) [T-Rus Pirate] (v1).gba",
+      "label": "Hobbit - Prelude to the Lord of the Rings (U) [T-Rus Pirate] (v1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Home on the Range (U) [T+Rus1.1 Djinn(MagicGame) (11.11.2005)].zip#Home on the Range (U) [T+Rus1.1 Djinn(MagicGame) (11.11.2005)].gba",
+      "label": "Home on the Range (U) [T+Rus1.1 Djinn(MagicGame) (11.11.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Hot Potato! (E) [T-Rus Pirate].zip#Hot Potato! (E) [T-Rus Pirate].gba",
+      "label": "Hot Potato! (E) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Hot Wheels - All Out (U) [T-Rus Vector].zip#Hot Wheels - All Out (U) [T-Rus Vector].gba",
+      "label": "Hot Wheels - All Out (U) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Hot Wheels - Stunt Track Challenge (UE) [T-Rus Pirate].zip#Hot Wheels - Stunt Track Challenge (UE) [T-Rus Pirate].gba",
+      "label": "Hot Wheels - Stunt Track Challenge (UE) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Hot Wheels - Velocity X (E) [T-Rus Vector].zip#Hot Wheels - Velocity X (E) [T-Rus Vector].gba",
+      "label": "Hot Wheels - Velocity X (E) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Hugo - Bukkazoom! (E) [hl][T-Rus Pirate].zip#Hugo - Bukkazoom! (E) [hl][T-Rus Pirate].gba",
+      "label": "Hugo - Bukkazoom! (E) [hl][T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Hugo - Evil Mirror (E) [T-Rus Pirate].zip#Hugo - Evil Mirror (E) [T-Rus Pirate].gba",
+      "label": "Hugo - Evil Mirror (E) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Ice Age (U) [T+Rus HoRRoR(MagicGame)].zip#Ice Age (U) [T+Rus HoRRoR(MagicGame)].gba",
+      "label": "Ice Age (U) [T+Rus HoRRoR(MagicGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Ice Age 2 - Meltdown (U) [T+Rus1.1 Djinn(MagicGame) (30.06.2006)].zip#Ice Age 2 - Meltdown (U) [T+Rus1.1 Djinn(MagicGame) (30.06.2006)].gba",
+      "label": "Ice Age 2 - Meltdown (U) [T+Rus1.1 Djinn(MagicGame) (30.06.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Ice Nine (UE) [T-Rus Kudos].zip#Ice Nine (UE) [T-Rus Kudos].gba",
+      "label": "Ice Nine (UE) [T-Rus Kudos]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Incredible Hulk (E) [T-Rus Pirate].zip#Incredible Hulk (E) [T-Rus Pirate].gba",
+      "label": "Incredible Hulk (E) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Incredibles - Rise of the Underminer (UE) [T+Rus SergeyK(MagicGame)].zip#Incredibles - Rise of the Underminer (UE) [T+Rus SergeyK(MagicGame)].gba",
+      "label": "Incredibles - Rise of the Underminer (UE) [T+Rus SergeyK(MagicGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Inspector Gadget - Advance Mission (U) [T+Rus1.0 Djinn(MagicGame) (01.03.2009)].zip#Inspector Gadget - Advance Mission (U) [T+Rus1.0 Djinn(MagicGame) (01.03.2009)].gba",
+      "label": "Inspector Gadget - Advance Mission (U) [T+Rus1.0 Djinn(MagicGame) (01.03.2009)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Invincible Iron Man (UE) [T+Rus SergeyK(MagicGame)].zip#Invincible Iron Man (UE) [T+Rus SergeyK(MagicGame)].gba",
+      "label": "Invincible Iron Man (UE) [T+Rus SergeyK(MagicGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Jazz Jackrabbit (UE) [T+Rus Pirate].zip#Jazz Jackrabbit (UE) [T+Rus Pirate].gba",
+      "label": "Jazz Jackrabbit (UE) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Jimmy Neutron Boy Genius (E) [T+Rus MagicGame].zip#Jimmy Neutron Boy Genius (E) [T+Rus MagicGame].gba",
+      "label": "Jimmy Neutron Boy Genius (E) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Jimmy Neutron Boy Genius vs Jimmy Negatron, Adventures of (UE) [T+Rus MagicGame].zip#Jimmy Neutron Boy Genius vs Jimmy Negatron, Adventures of (UE) [T+Rus MagicGame].gba",
+      "label": "Jimmy Neutron Boy Genius vs Jimmy Negatron, Adventures of (UE) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Juka and the Monophonic Menace (E) [T+Rus Pirate].zip#Juka and the Monophonic Menace (E) [T+Rus Pirate].gba",
+      "label": "Juka and the Monophonic Menace (E) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Jurassic Park III - Dino Attack (E) [T-Rus Pirate].zip#Jurassic Park III - Dino Attack (E) [T-Rus Pirate].gba",
+      "label": "Jurassic Park III - Dino Attack (E) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Justice League Heroes - Flash (U) [T+Rus HoRRoR+Tigran(MagicGame) (18.10.2006)].zip#Justice League Heroes - Flash (U) [T+Rus HoRRoR+Tigran(MagicGame) (18.10.2006)].gba",
+      "label": "Justice League Heroes - Flash (U) [T+Rus HoRRoR+Tigran(MagicGame) (18.10.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Kid Paddle (E) [T-Rus Vector].zip#Kid Paddle (E) [T-Rus Vector].gba",
+      "label": "Kid Paddle (E) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Kill.Switch (U) [T+Rus HoRRoR(MagicGame)].zip#Kill.Switch (U) [T+Rus HoRRoR(MagicGame)].gba",
+      "label": "Kill.Switch (U) [T+Rus HoRRoR(MagicGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Kim Possible - Revenge of Monkey Fist (U) [T-Rus Pirate].zip#Kim Possible - Revenge of Monkey Fist (U) [T-Rus Pirate].gba",
+      "label": "Kim Possible - Revenge of Monkey Fist (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Kim Possible 2 - Drakken's Demise (U) [T+Rus1.1 PSCD (27.03.2015)].zip#Kim Possible 2 - Drakken's Demise (U) [T+Rus1.1 PSCD (27.03.2015)].gba",
+      "label": "Kim Possible 2 - Drakken's Demise (U) [T+Rus1.1 PSCD (27.03.2015)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/King Kong - Official Game of the Movie (E) [T+Rus VirtualKiller(MagicGame) (15.03.2006)].zip#King Kong - Official Game of the Movie (E) [T+Rus VirtualKiller(MagicGame) (15.03.2006)].gba",
+      "label": "King Kong - Official Game of the Movie (E) [T+Rus VirtualKiller(MagicGame) (15.03.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/King of Fighters EX - NeoBlood (U) (V1.1) [T-Rus Vector].zip#King of Fighters EX - NeoBlood (U) (V1.1) [T-Rus Vector].gba",
+      "label": "King of Fighters EX - NeoBlood (U) (V1.1) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Knights' Kingdom (U) [T+Rus HoRRoR+Tigran(MagicGame) (13.03.2007)].zip#Knights' Kingdom (U) [T+Rus HoRRoR+Tigran(MagicGame) (13.03.2007)].gba",
+      "label": "Knights' Kingdom (U) [T+Rus HoRRoR+Tigran(MagicGame) (13.03.2007)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Knights' Kingdom (U) [T-Rus Pirate].zip#Knights' Kingdom (U) [T-Rus Pirate].gba",
+      "label": "Knights' Kingdom (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Kong - King of Atlantis (E) [T-Rus Pirate].zip#Kong - King of Atlantis (E) [T-Rus Pirate].gba",
+      "label": "Kong - King of Atlantis (E) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Lara Croft Tomb Raider - Legend (U) [T+Rus1.1 Djinn(MagicGame) (10.04.2007)].zip#Lara Croft Tomb Raider - Legend (U) [T+Rus1.1 Djinn(MagicGame) (10.04.2007)].gba",
+      "label": "Lara Croft Tomb Raider - Legend (U) [T+Rus1.1 Djinn(MagicGame) (10.04.2007)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Lara Croft Tomb Raider - Prophecy (U) [T+Rus Djinn(MagicGame) (29.09.2005)].zip#Lara Croft Tomb Raider - Prophecy (U) [T+Rus Djinn(MagicGame) (29.09.2005)].gba",
+      "label": "Lara Croft Tomb Raider - Prophecy (U) [T+Rus Djinn(MagicGame) (29.09.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Legend of Spyro - Eternal Night (U) [T+Rus MagicGame].zip#Legend of Spyro - Eternal Night (U) [T+Rus MagicGame].gba",
+      "label": "Legend of Spyro - Eternal Night (U) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Legend of Spyro - New Beginning (U) [T+Rus HoRRoR+Tigran(MagicGame)].zip#Legend of Spyro - New Beginning (U) [T+Rus HoRRoR+Tigran(MagicGame)].gba",
+      "label": "Legend of Spyro - New Beginning (U) [T+Rus HoRRoR+Tigran(MagicGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Legend of Zelda - Minish Cap (U) [T+Rus1.0 ZELDA64RUS (19.07.2013)].zip#Legend of Zelda - Minish Cap (U) [T+Rus1.0 ZELDA64RUS (19.07.2013)].gba",
+      "label": "Legend of Zelda - Minish Cap (U) [T+Rus1.0 ZELDA64RUS (19.07.2013)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/LEGO Bionicle (E) [T+Rus Pirate].zip#LEGO Bionicle (E) [T+Rus Pirate].gba",
+      "label": "LEGO Bionicle (E) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/LEGO Star Wars II - Original Trilogy (E) [T+Rus SergeyK(MagicGame)].zip#LEGO Star Wars II - Original Trilogy (E) [T+Rus SergeyK(MagicGame)].gba",
+      "label": "LEGO Star Wars II - Original Trilogy (E) [T+Rus SergeyK(MagicGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Let's Ride! - Sunshine Stables (U) [T-Rus Pirate].zip#Let's Ride! - Sunshine Stables (U) [T-Rus Pirate].gba",
+      "label": "Let's Ride! - Sunshine Stables (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Lilo & Stitch (U) [T+Rus SergeyK(MagicGame)].zip#Lilo & Stitch (U) [T+Rus SergeyK(MagicGame)].gba",
+      "label": "Lilo & Stitch (U) [T+Rus SergeyK(MagicGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Lilo & Stitch 2 - Haemsterviel Havoc (U) [T+Rus SergeyK(MagicGame)].zip#Lilo & Stitch 2 - Haemsterviel Havoc (U) [T+Rus SergeyK(MagicGame)].gba",
+      "label": "Lilo & Stitch 2 - Haemsterviel Havoc (U) [T+Rus SergeyK(MagicGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Lion King 1.5 (U) [T+Rus Shedevr (08.12.2003)].zip#Lion King 1.5 (U) [T+Rus Shedevr (08.12.2003)].gba",
+      "label": "Lion King 1.5 (U) [T+Rus Shedevr (08.12.2003)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Little Einsteins (U) [T-Rus Pirate].zip#Little Einsteins (U) [T-Rus Pirate].gba",
+      "label": "Little Einsteins (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Little Mermaid - Magic in Two Kingdoms (UE) [T+Rus1.1 Djinn(MagicGame) (03.11.2006)].zip#Little Mermaid - Magic in Two Kingdoms (UE) [T+Rus1.1 Djinn(MagicGame) (03.11.2006)].gba",
+      "label": "Little Mermaid - Magic in Two Kingdoms (UE) [T+Rus1.1 Djinn(MagicGame) (03.11.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Looney Tunes - Back in Action (UE) [T+Rus UniGame].zip#Looney Tunes - Back in Action (UE) [T+Rus UniGame].gba",
+      "label": "Looney Tunes - Back in Action (UE) [T+Rus UniGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Lord of the Rings - Fellowship of the Ring (U) [T+Rus MagicGame].zip#Lord of the Rings - Fellowship of the Ring (U) [T+Rus MagicGame].gba",
+      "label": "Lord of the Rings - Fellowship of the Ring (U) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Lord of the Rings - Return of the King (UE) [T+Rus MagicGame].zip#Lord of the Rings - Return of the King (UE) [T+Rus MagicGame].gba",
+      "label": "Lord of the Rings - Return of the King (UE) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Lord of the Rings - Third Age (UE) [T-Rus Pirate].zip#Lord of the Rings - Third Age (UE) [T-Rus Pirate].gba",
+      "label": "Lord of the Rings - Third Age (UE) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Lord of the Rings - Two Towers (UE) [T+Rus MagicGame].zip#Lord of the Rings - Two Towers (UE) [T+Rus MagicGame].gba",
+      "label": "Lord of the Rings - Two Towers (UE) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Lost Vikings (U) [T+Rus Shedevr (23.01.2004)].zip#Lost Vikings (U) [T+Rus Shedevr (23.01.2004)].gba",
+      "label": "Lost Vikings (U) [T+Rus Shedevr (23.01.2004)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Lucky Luke - Wanted! (E) [T+Rus Kudos].zip#Lucky Luke - Wanted! (E) [T+Rus Kudos].gba",
+      "label": "Lucky Luke - Wanted! (E) [T+Rus Kudos]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Madagascar (U) [T+Rus1.2 Djinn(MagicGame) (30.08.2005)].zip#Madagascar (U) [T+Rus1.2 Djinn(MagicGame) (30.08.2005)].gba",
+      "label": "Madagascar (U) [T+Rus1.2 Djinn(MagicGame) (30.08.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Madagascar - Operation Penguin (U) [T+Rus1.1 Djinn(MagicGame) (31.10.2005)].zip#Madagascar - Operation Penguin (U) [T+Rus1.1 Djinn(MagicGame) (31.10.2005)].gba",
+      "label": "Madagascar - Operation Penguin (U) [T+Rus1.1 Djinn(MagicGame) (31.10.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/March of the Penguins (U) [T-Rus Vector].zip#March of the Penguins (U) [T-Rus Vector].gba",
+      "label": "March of the Penguins (U) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Mario vs Donkey Kong (UA) [T-Rus NewGame].zip#Mario vs Donkey Kong (UA) [T-Rus NewGame].gba",
+      "label": "Mario vs Donkey Kong (UA) [T-Rus NewGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Marvel - Ultimate Alliance (U) [T+Rus HoRRoR+Tigran(MagicGame) (26.02.2007)].zip#Marvel - Ultimate Alliance (U) [T+Rus HoRRoR+Tigran(MagicGame) (26.02.2007)].gba",
+      "label": "Marvel - Ultimate Alliance (U) [T+Rus HoRRoR+Tigran(MagicGame) (26.02.2007)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Max Payne (U) [T+Rus1.01 Shedevr (01.10.2005)].zip#Max Payne (U) [T+Rus1.01 Shedevr (01.10.2005)].gba",
+      "label": "Max Payne (U) [T+Rus1.01 Shedevr (01.10.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Mazes of Fate (U) [T-Rus UniGame].zip#Mazes of Fate (U) [T-Rus UniGame].gba",
+      "label": "Mazes of Fate (U) [T-Rus UniGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Medal of Honor - Infiltrator (UE) [T-Rus Vector].zip#Medal of Honor - Infiltrator (UE) [T-Rus Vector].gba",
+      "label": "Medal of Honor - Infiltrator (UE) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Medal of Honor - Underground (U) [T-Rus Vector].zip#Medal of Honor - Underground (U) [T-Rus Vector].gba",
+      "label": "Medal of Honor - Underground (U) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Meet the Robinsons (U) [T+Rus1.2 Djinn(MagicGame) (02.04.2007)].zip#Meet the Robinsons (U) [T+Rus1.2 Djinn(MagicGame) (02.04.2007)].gba",
+      "label": "Meet the Robinsons (U) [T+Rus1.2 Djinn(MagicGame) (02.04.2007)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Mega Man Zero (UE) [T+Rus1.01 Shedevr (23.09.2008)].zip#Mega Man Zero (UE) [T+Rus1.01 Shedevr (23.09.2008)].gba",
+      "label": "Mega Man Zero (UE) [T+Rus1.01 Shedevr (23.09.2008)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Mega Man Zero 2 (U) [T+Rus Shedevr (25.02.2010)].zip#Mega Man Zero 2 (U) [T+Rus Shedevr (25.02.2010)].gba",
+      "label": "Mega Man Zero 2 (U) [T+Rus Shedevr (25.02.2010)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Mega Man Zero 3 (U) [T+Rus1.4 ZeroTeam (16.01.2017)].zip#Mega Man Zero 3 (U) [T+Rus1.4 ZeroTeam (16.01.2017)].gba",
+      "label": "Mega Man Zero 3 (U) [T+Rus1.4 ZeroTeam (16.01.2017)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Metal Slug Advance (U) [T+Rus0.98 SergeyK(MagicGame)].zip#Metal Slug Advance (U) [T+Rus0.98 SergeyK(MagicGame)].gba",
+      "label": "Metal Slug Advance (U) [T+Rus0.98 SergeyK(MagicGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Metroid - Zero Mission (U) [T+Rus1.0 Shedevr (04.08.2010)].zip#Metroid - Zero Mission (U) [T+Rus1.0 Shedevr (04.08.2010)].gba",
+      "label": "Metroid - Zero Mission (U) [T+Rus1.0 Shedevr (04.08.2010)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Metroid Fusion (UA) [T+Rus Shedevr (18.11.2006)].zip#Metroid Fusion (UA) [T+Rus Shedevr (18.11.2006)].gba",
+      "label": "Metroid Fusion (UA) [T+Rus Shedevr (18.11.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Mission Impossible - Operation Surma (U) [T-Rus Pirate].zip#Mission Impossible - Operation Surma (U) [T-Rus Pirate].gba",
+      "label": "Mission Impossible - Operation Surma (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Monster Force (U) [T+Rus1.2 Djinn(MagicGame) (01.08.2006)].zip#Monster Force (U) [T+Rus1.2 Djinn(MagicGame) (01.08.2006)].gba",
+      "label": "Monster Force (U) [T+Rus1.2 Djinn(MagicGame) (01.08.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Monster House (U) [T+Rus1.2 Djinn(MagicGame) (18.09.2017)].zip#Monster House (U) [T+Rus1.2 Djinn(MagicGame) (18.09.2017)].gba",
+      "label": "Monster House (U) [T+Rus1.2 Djinn(MagicGame) (18.09.2017)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Monsters Inc (UE) [T+Rus MagicGame].zip#Monsters Inc (UE) [T+Rus MagicGame].gba",
+      "label": "Monsters Inc (UE) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Monster Trucks Mayhem (E) [T+Rus Vector].zip#Monster Trucks Mayhem (E) [T+Rus Vector].gba",
+      "label": "Monster Trucks Mayhem (E) [T+Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Mortal Kombat - Deadly Alliance (U) [T-Rus Pirate].zip#Mortal Kombat - Deadly Alliance (U) [T-Rus Pirate].gba",
+      "label": "Mortal Kombat - Deadly Alliance (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Mortal Kombat - Tournament Edition (U) [T-Rus Vector].zip#Mortal Kombat - Tournament Edition (U) [T-Rus Vector].gba",
+      "label": "Mortal Kombat - Tournament Edition (U) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Mortal Kombat Advance (U) [T+Rus SergeyK(MagicGame)].zip#Mortal Kombat Advance (U) [T+Rus SergeyK(MagicGame)].gba",
+      "label": "Mortal Kombat Advance (U) [T+Rus SergeyK(MagicGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Motoracer Advance (U) [T+Rus Pirate].zip#Motoracer Advance (U) [T+Rus Pirate].gba",
+      "label": "Motoracer Advance (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/My Animal Centre in Africa (E) [T-Rus Vector].zip#My Animal Centre in Africa (E) [T-Rus Vector].gba",
+      "label": "My Animal Centre in Africa (E) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/My Little Pony - Crystal Princess - Runaway Rainbow (U) [T-Rus Pirate].zip#My Little Pony - Crystal Princess - Runaway Rainbow (U) [T-Rus Pirate].gba",
+      "label": "My Little Pony - Crystal Princess - Runaway Rainbow (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Nancy Drew - Message in a Haunted Mansion (U) [T-Rus Pirate].zip#Nancy Drew - Message in a Haunted Mansion (U) [T-Rus Pirate].gba",
+      "label": "Nancy Drew - Message in a Haunted Mansion (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Naruto - Ninja Council (U) [T+Rus1.01 MagicTeam (09.10.2010)].zip#Naruto - Ninja Council (U) [T+Rus1.01 MagicTeam (09.10.2010)].gba",
+      "label": "Naruto - Ninja Council (U) [T+Rus1.01 MagicTeam (09.10.2010)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Naruto - Ninja Council 2 (U) [T+Rus1.01 MagicTeam (09.07.2011)].zip#Naruto - Ninja Council 2 (U) [T+Rus1.01 MagicTeam (09.07.2011)].gba",
+      "label": "Naruto - Ninja Council 2 (U) [T+Rus1.01 MagicTeam (09.07.2011)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/NBA Jam 2009 [p1][T+Rus MagicGame].zip#NBA Jam 2009 [p1][T+Rus MagicGame].gba",
+      "label": "NBA Jam 2009 [p1][T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Need for Speed - Carbon - Own the City (UE) [T+Rus1.5 Djinn(MagicGame) (25.01.2007)].zip#Need for Speed - Carbon - Own the City (UE) [T+Rus1.5 Djinn(MagicGame) (25.01.2007)].gba",
+      "label": "Need for Speed - Carbon - Own the City (UE) [T+Rus1.5 Djinn(MagicGame) (25.01.2007)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Need for Speed - Most Wanted (UE) [T+Rus VirtualKiller(MagicGame) (13.09.2006)].zip#Need for Speed - Most Wanted (UE) [T+Rus VirtualKiller(MagicGame) (13.09.2006)].gba",
+      "label": "Need for Speed - Most Wanted (UE) [T+Rus VirtualKiller(MagicGame) (13.09.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Need for Speed - Porsche Unleashed (U) [T+Rus VirtualKiller(MagicGame) (01.11.2005)].zip#Need for Speed - Porsche Unleashed (U) [T+Rus VirtualKiller(MagicGame) (01.11.2005)].gba",
+      "label": "Need for Speed - Porsche Unleashed (U) [T+Rus VirtualKiller(MagicGame) (01.11.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Need for Speed - Underground (UE) [T+Rus VirtualKiller(MagicGame) (23.09.2005)][h1].zip#Need for Speed - Underground (UE) [T+Rus VirtualKiller(MagicGame) (23.09.2005)][h1].gba",
+      "label": "Need for Speed - Underground (UE) [T+Rus VirtualKiller(MagicGame) (23.09.2005)][h1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Need for Speed - Underground 2 (UE) [T+Rus VirtualKiller(MagicGame) (11.05.2006)].zip#Need for Speed - Underground 2 (UE) [T+Rus VirtualKiller(MagicGame) (11.05.2006)].gba",
+      "label": "Need for Speed - Underground 2 (UE) [T+Rus VirtualKiller(MagicGame) (11.05.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/NHL2009 [p1][T-Rus Pirate].zip#NHL2009 [p1][T-Rus Pirate].gba",
+      "label": "NHL2009 [p1][T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Nightmare Before Christmas - Pumpkin King, Tim Burton's (UE) [T+Rus MagicGame].zip#Nightmare Before Christmas - Pumpkin King, Tim Burton's (UE) [T+Rus MagicGame].gba",
+      "label": "Nightmare Before Christmas - Pumpkin King, Tim Burton's (UE) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Oddworld - Munch's Oddysee (UE) [T+Rus Kudos].zip#Oddworld - Munch's Oddysee (UE) [T+Rus Kudos].gba",
+      "label": "Oddworld - Munch's Oddysee (UE) [T+Rus Kudos]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/One Piece (U) [T-Rus Vector].zip#One Piece (U) [T-Rus Vector].gba",
+      "label": "One Piece (U) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Open Season (U) [T+Rus1.4 Djinn(MagicGame) (17.10.2006)].zip#Open Season (U) [T+Rus1.4 Djinn(MagicGame) (17.10.2006)].gba",
+      "label": "Open Season (U) [T+Rus1.4 Djinn(MagicGame) (17.10.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Over the Hedge (U) [T+Rus1.4 Djinn(MagicGame) (19.07.2006)].zip#Over the Hedge (U) [T+Rus1.4 Djinn(MagicGame) (19.07.2006)].gba",
+      "label": "Over the Hedge (U) [T+Rus1.4 Djinn(MagicGame) (19.07.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Over the Hedge - Hammy Goes Nuts! (U) [T-Rus Pirate].zip#Over the Hedge - Hammy Goes Nuts! (U) [T-Rus Pirate].gba",
+      "label": "Over the Hedge - Hammy Goes Nuts! (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Pac-Man World 2 (U) [T-Rus Pirate].zip#Pac-Man World 2 (U) [T-Rus Pirate].gba",
+      "label": "Pac-Man World 2 (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Paws & Claws - Pet Resort (U) [T-Rus Pirate].zip#Paws & Claws - Pet Resort (U) [T-Rus Pirate].gba",
+      "label": "Paws & Claws - Pet Resort (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Payback (E) [T+Rus MagicGame].zip#Payback (E) [T+Rus MagicGame].gba",
+      "label": "Payback (E) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Peter Pan - Return to Neverland (U) [T+Rus Kudos].zip#Peter Pan - Return to Neverland (U) [T+Rus Kudos].gba",
+      "label": "Peter Pan - Return to Neverland (U) [T+Rus Kudos]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Petz Vet (U) [T-Rus UniGame].zip#Petz Vet (U) [T-Rus UniGame].gba",
+      "label": "Petz Vet (U) [T-Rus UniGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Pferd & Pony - Lass Uns Reiten 2 (G) [T-Rus Pirate].zip#Pferd & Pony - Lass Uns Reiten 2 (G) [T-Rus Pirate].gba",
+      "label": "Pferd & Pony - Lass Uns Reiten 2 (G) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Pferd & Pony - Mein Gestuet (G) [T-Rus Pirate].zip#Pferd & Pony - Mein Gestuet (G) [T-Rus Pirate].gba",
+      "label": "Pferd & Pony - Mein Gestuet (G) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Phil of the Future (U) [T-Rus Vector].zip#Phil of the Future (U) [T-Rus Vector].gba",
+      "label": "Phil of the Future (U) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Piglet's Big Game (U) [T-Rus Pirate].zip#Piglet's Big Game (U) [T-Rus Pirate].gba",
+      "label": "Piglet's Big Game (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Pink Panther - Pinkadelic Pursuit (U) [T+Rus Vector].zip#Pink Panther - Pinkadelic Pursuit (U) [T+Rus Vector].gba",
+      "label": "Pink Panther - Pinkadelic Pursuit (U) [T+Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Pinky and the Brain - Master Plan (E) [T+Rus Pirate].zip#Pinky and the Brain - Master Plan (E) [T+Rus Pirate].gba",
+      "label": "Pinky and the Brain - Master Plan (E) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Pirates of the Caribbean - Curse of the Black Pearl (U) [T+Rus HoRRoR(MagicGame)].zip#Pirates of the Caribbean - Curse of the Black Pearl (U) [T+Rus HoRRoR(MagicGame)].gba",
+      "label": "Pirates of the Caribbean - Curse of the Black Pearl (U) [T+Rus HoRRoR(MagicGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Pirates of the Caribbean - Dead Man's Chest (UE) [T+Rus MagicGame].zip#Pirates of the Caribbean - Dead Man's Chest (UE) [T+Rus MagicGame].gba",
+      "label": "Pirates of the Caribbean - Dead Man's Chest (UE) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Pitfall - Lost Expedition (U) [T-Rus Pirate].zip#Pitfall - Lost Expedition (U) [T-Rus Pirate].gba",
+      "label": "Pitfall - Lost Expedition (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Pokemon - Emerald Version (UE) [T+Rus0.9.0_beta kozzztya (08.07.2015)].zip#Pokemon - Emerald Version (UE) [T+Rus0.9.0_beta kozzztya (08.07.2015)].gba",
+      "label": "Pokemon - Emerald Version (UE) [T+Rus0.9.0_beta kozzztya (08.07.2015)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Pokemon - FireRed Version (U) [T+Rus Shedevr (03.06.2012)].zip#Pokemon - FireRed Version (U) [T+Rus Shedevr (03.06.2012)].gba",
+      "label": "Pokemon - FireRed Version (U) [T+Rus Shedevr (03.06.2012)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Pokemon - LeafGreen Version (U) (V1.0) [T+Rus Shedevr (03.06.2012)].zip#Pokemon - LeafGreen Version (U) (V1.0) [T+Rus Shedevr (03.06.2012)].gba",
+      "label": "Pokemon - LeafGreen Version (U) (V1.0) [T+Rus Shedevr (03.06.2012)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Pokemon - Sapphire Version (U) (V1.0) [T+Rus MagicGame].zip#Pokemon - Sapphire Version (U) (V1.0) [T+Rus MagicGame].gba",
+      "label": "Pokemon - Sapphire Version (U) (V1.0) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Pokemon Mystery Dungeon - Red Rescue Team (UA) [T-Rus Pirate] (v1).zip#Pokemon Mystery Dungeon - Red Rescue Team (UA) [T-Rus Pirate] (v1).gba",
+      "label": "Pokemon Mystery Dungeon - Red Rescue Team (UA) [T-Rus Pirate] (v1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Polar Express (UE) [T-Rus Pirate].zip#Polar Express (UE) [T-Rus Pirate].gba",
+      "label": "Polar Express (UE) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Power Rangers - Ninja Storm (U) [T+Rus VirtualKiller(MagicGame) (04.09.2006)].zip#Power Rangers - Ninja Storm (U) [T+Rus VirtualKiller(MagicGame) (04.09.2006)].gba",
+      "label": "Power Rangers - Ninja Storm (U) [T+Rus VirtualKiller(MagicGame) (04.09.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Power Rangers - Time Force (UE) [T+Rus Virtual Killer(MagicGame)].zip#Power Rangers - Time Force (UE) [T+Rus Virtual Killer(MagicGame)].gba",
+      "label": "Power Rangers - Time Force (UE) [T+Rus Virtual Killer(MagicGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Power Rangers - Wild Force (UE) [T+Rus VirtualKiller(MagicGame) (17.09.2006)][h1].zip#Power Rangers - Wild Force (UE) [T+Rus VirtualKiller(MagicGame) (17.09.2006)][h1].gba",
+      "label": "Power Rangers - Wild Force (UE) [T+Rus VirtualKiller(MagicGame) (17.09.2006)][h1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Prehistorik Man (UE) [T-Rus Pirate].zip#Prehistorik Man (UE) [T-Rus Pirate].gba",
+      "label": "Prehistorik Man (UE) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Prince of Persia - Sands of Time (U) [T+Rus1.0 Djinn(MagicGame) (10.09.2005)].zip#Prince of Persia - Sands of Time (U) [T+Rus1.0 Djinn(MagicGame) (10.09.2005)].gba",
+      "label": "Prince of Persia - Sands of Time (U) [T+Rus1.0 Djinn(MagicGame) (10.09.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Princess Natasha - Student, Secret Agent, Princess (U) [T-Rus Vector].zip#Princess Natasha - Student, Secret Agent, Princess (U) [T-Rus Vector].gba",
+      "label": "Princess Natasha - Student, Secret Agent, Princess (U) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Racing Fever (E) [T-Rus Vector].zip#Racing Fever (E) [T-Rus Vector].gba",
+      "label": "Racing Fever (E) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Ratatouille (U) [T+Rus1.1 Djinn(MagicGame) (10.07.2007)].zip#Ratatouille (U) [T+Rus1.1 Djinn(MagicGame) (10.07.2007)].gba",
+      "label": "Ratatouille (U) [T+Rus1.1 Djinn(MagicGame) (10.07.2007)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Rayman - Raving Rabbids (U) [T-Rus UniGame].zip#Rayman - Raving Rabbids (U) [T-Rus UniGame].gba",
+      "label": "Rayman - Raving Rabbids (U) [T-Rus UniGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Rayman 3 (U) [T+Rus1.5 Djinn(MagicGame) (20.02.2007)].zip#Rayman 3 (U) [T+Rus1.5 Djinn(MagicGame) (20.02.2007)].gba",
+      "label": "Rayman 3 (U) [T+Rus1.5 Djinn(MagicGame) (20.02.2007)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Rayman Advance (U) [T+Rus1.2 Djinn(MagicGame) (24.08.2005)].zip#Rayman Advance (U) [T+Rus1.2 Djinn(MagicGame) (24.08.2005)].gba",
+      "label": "Rayman Advance (U) [T+Rus1.2 Djinn(MagicGame) (24.08.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Rebelstar - Tactical Command (U) [T-Rus Pirate] (v1).zip#Rebelstar - Tactical Command (U) [T-Rus Pirate] (v1).gba",
+      "label": "Rebelstar - Tactical Command (U) [T-Rus Pirate] (v1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Revenge of Shinobi (U) [T+Rus Pirate].zip#Revenge of Shinobi (U) [T+Rus Pirate].gba",
+      "label": "Revenge of Shinobi (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Revenge of the Smurfs (E) [T+Rus Kudos].zip#Revenge of the Smurfs (E) [T+Rus Kudos].gba",
+      "label": "Revenge of the Smurfs (E) [T+Rus Kudos]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Road Rash - Jailbreak (U) [T+Rus MagicGame].zip#Road Rash - Jailbreak (U) [T+Rus MagicGame].gba",
+      "label": "Road Rash - Jailbreak (U) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Robots (E) [T+Rus Pirate].zip#Robots (E) [T+Rus Pirate].gba",
+      "label": "Robots (E) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Rock'em Sock'em Robots (U) [T-Rus Vector].zip#Rock'em Sock'em Robots (U) [T-Rus Vector].gba",
+      "label": "Rock'em Sock'em Robots (U) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Rock 'N Roll Racing (U) [T+Rus Kudos].zip#Rock 'N Roll Racing (U) [T+Rus Kudos].gba",
+      "label": "Rock 'N Roll Racing (U) [T+Rus Kudos]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Rugrats - Castle Capers (UE) [T+Rus Pirate].zip#Rugrats - Castle Capers (UE) [T+Rus Pirate].gba",
+      "label": "Rugrats - Castle Capers (UE) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Sabrina the Teenage Witch - Potion Commotion (U) [T+Rus Pirate].zip#Sabrina the Teenage Witch - Potion Commotion (U) [T+Rus Pirate].gba",
+      "label": "Sabrina the Teenage Witch - Potion Commotion (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Samurai Deeper Kyo (U) [T+Rus1.1 Djinn(MagicGame) (18.04.2008)].zip#Samurai Deeper Kyo (U) [T+Rus1.1 Djinn(MagicGame) (18.04.2008)].gba",
+      "label": "Samurai Deeper Kyo (U) [T+Rus1.1 Djinn(MagicGame) (18.04.2008)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Samurai Jack - Amulet of Time (UE) [hI][T+Rus NewGame].zip#Samurai Jack - Amulet of Time (UE) [hI][T+Rus NewGame].gba",
+      "label": "Samurai Jack - Amulet of Time (UE) [hI][T+Rus NewGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Santa Clause 3 - Escape Clause (U) [T+Rus Horror+Tigran(MagicGame) (12.03.2007)].zip#Santa Clause 3 - Escape Clause (U) [T+Rus Horror+Tigran(MagicGame) (12.03.2007)].gba",
+      "label": "Santa Clause 3 - Escape Clause (U) [T+Rus Horror+Tigran(MagicGame) (12.03.2007)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Scooby-Doo! - Mystery Mayhem (U) [T+Rus Pirate] (v1).zip#Scooby-Doo! - Mystery Mayhem (U) [T+Rus Pirate] (v1).gba",
+      "label": "Scooby-Doo! - Mystery Mayhem (U) [T+Rus Pirate] (v1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Scooby-Doo 2 - Monsters Unleashed (UE) [T+Rus1.7 Djinn(MagicGame) (07.09.2005)].zip#Scooby-Doo 2 - Monsters Unleashed (UE) [T+Rus1.7 Djinn(MagicGame) (07.09.2005)].gba",
+      "label": "Scooby-Doo 2 - Monsters Unleashed (UE) [T+Rus1.7 Djinn(MagicGame) (07.09.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Scorpion King - Sword of Osiris (U) [T+Rus SergeyK(MagicGame)].zip#Scorpion King - Sword of Osiris (U) [T+Rus SergeyK(MagicGame)].gba",
+      "label": "Scorpion King - Sword of Osiris (U) [T+Rus SergeyK(MagicGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Secret Agent Barbie - Royal Jewels Mission (E) [T-Rus Vector].zip#Secret Agent Barbie - Royal Jewels Mission (E) [T-Rus Vector].gba",
+      "label": "Secret Agent Barbie - Royal Jewels Mission (E) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Serious Sam Advance (U) [T+Rus MagicGame].zip#Serious Sam Advance (U) [T+Rus MagicGame].gba",
+      "label": "Serious Sam Advance (U) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Shaman King - Master of Spirits (U) [T+Rus MagicGame].zip#Shaman King - Master of Spirits (U) [T+Rus MagicGame].gba",
+      "label": "Shaman King - Master of Spirits (U) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Shaman King - Master of Spirits 2 (U) [T+Rus MagicGame].zip#Shaman King - Master of Spirits 2 (U) [T+Rus MagicGame].gba",
+      "label": "Shaman King - Master of Spirits 2 (U) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Shark Tale (UE) [T+Rus Shedevr(MagicGame)].zip#Shark Tale (UE) [T+Rus Shedevr(MagicGame)].gba",
+      "label": "Shark Tale (UE) [T+Rus Shedevr(MagicGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Shrek - Hassle at the Castle (U) [T+Rus1.0 Djinn(MagicGame) (09.02.2008)].zip#Shrek - Hassle at the Castle (U) [T+Rus1.0 Djinn(MagicGame) (09.02.2008)].gba",
+      "label": "Shrek - Hassle at the Castle (U) [T+Rus1.0 Djinn(MagicGame) (09.02.2008)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Shrek - Reekin' Havoc (U) [T+Rus1.1 Djinn(MagicGame) (28.02.2008)].zip#Shrek - Reekin' Havoc (U) [T+Rus1.1 Djinn(MagicGame) (28.02.2008)].gba",
+      "label": "Shrek - Reekin' Havoc (U) [T+Rus1.1 Djinn(MagicGame) (28.02.2008)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Shrek - Smash n' Crash Racing (U) [T-Rus Vector].zip#Shrek - Smash n' Crash Racing (U) [T-Rus Vector].gba",
+      "label": "Shrek - Smash n' Crash Racing (U) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Shrek - Super Slam (U) [T+Rus1.2 Djinn(MagicGame) (13.05.2006)].zip#Shrek - Super Slam (U) [T+Rus1.2 Djinn(MagicGame) (13.05.2006)].gba",
+      "label": "Shrek - Super Slam (U) [T+Rus1.2 Djinn(MagicGame) (13.05.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Shrek - Swamp Kart Speedway (UE) [T-Rus Pirate].zip#Shrek - Swamp Kart Speedway (UE) [T-Rus Pirate].gba",
+      "label": "Shrek - Swamp Kart Speedway (UE) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Shrek 2 (UE) [T+Rus Shedevr (MagicGame)].zip#Shrek 2 (UE) [T+Rus Shedevr (MagicGame)].gba",
+      "label": "Shrek 2 (UE) [T+Rus Shedevr (MagicGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Shrek 2 - Beg for Mercy (UE) [T+Rus1.1 Djinn(MagicGame) (16.12.2005)].zip#Shrek 2 - Beg for Mercy (UE) [T+Rus1.1 Djinn(MagicGame) (16.12.2005)].gba",
+      "label": "Shrek 2 - Beg for Mercy (UE) [T+Rus1.1 Djinn(MagicGame) (16.12.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Shrek the Third (U) [T+Rus1.1 Djinn(MagicGame) (28.05.2007)].zip#Shrek the Third (U) [T+Rus1.1 Djinn(MagicGame) (28.05.2007)].gba",
+      "label": "Shrek the Third (U) [T+Rus1.1 Djinn(MagicGame) (28.05.2007)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/SimCity 2000 (E) [T-Rus Vector].zip#SimCity 2000 (E) [T-Rus Vector].gba",
+      "label": "SimCity 2000 (E) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Simpsons - Road Rage (UE) [T+Rus1.1 Djinn(MagicGame) (31.08.2007)].zip#Simpsons - Road Rage (UE) [T+Rus1.1 Djinn(MagicGame) (31.08.2007)].gba",
+      "label": "Simpsons - Road Rage (UE) [T+Rus1.1 Djinn(MagicGame) (31.08.2007)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Sims - Bustin' Out (UE) (V1.0) [T+Rus Pirate].zip#Sims - Bustin' Out (UE) (V1.0) [T+Rus Pirate].gba",
+      "label": "Sims - Bustin' Out (UE) (V1.0) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Sims 2 (UE) [T+Rus Pirate] (v1).zip#Sims 2 (UE) [T+Rus Pirate] (v1).gba",
+      "label": "Sims 2 (UE) [T+Rus Pirate] (v1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Sky Dancers - They Magically Fly! (E) [T-Rus Vector].zip#Sky Dancers - They Magically Fly! (E) [T-Rus Vector].gba",
+      "label": "Sky Dancers - They Magically Fly! (E) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/SOCHI 2014 [p1][T+Rus Kudos].zip#SOCHI 2014 [p1][T+Rus Kudos].gba",
+      "label": "SOCHI 2014 [p1][T+Rus Kudos]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Sonic Advance (U) [T+Rus MagicGame].zip#Sonic Advance (U) [T+Rus MagicGame].gba",
+      "label": "Sonic Advance (U) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Sonic Advance 2 (U) [T+Rus MagicGame].zip#Sonic Advance 2 (U) [T+Rus MagicGame].gba",
+      "label": "Sonic Advance 2 (U) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Sonic Advance 3 (U) [T-Rus MagicGame].zip#Sonic Advance 3 (U) [T-Rus MagicGame].gba",
+      "label": "Sonic Advance 3 (U) [T-Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Sonic Battle (E) [T+Rus SonicSCANF (18.06.2012)].zip#Sonic Battle (E) [T+Rus SonicSCANF (18.06.2012)].gba",
+      "label": "Sonic Battle (E) [T+Rus SonicSCANF (18.06.2012)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Sonic the Hedgehog - Genesis (U) [T+Rus MagicGame].zip#Sonic the Hedgehog - Genesis (U) [T+Rus MagicGame].gba",
+      "label": "Sonic the Hedgehog - Genesis (U) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Sound of Thunder (U) [T+Rus Pirate].zip#Sound of Thunder (U) [T+Rus Pirate].gba",
+      "label": "Sound of Thunder (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Spider-Man (UE) [T-Rus SergeyK(MagicGame)].zip#Spider-Man (UE) [T-Rus SergeyK(MagicGame)].gba",
+      "label": "Spider-Man (UE) [T-Rus SergeyK(MagicGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Spider-Man - Battle for New York (U) [T+Rus 1.2 Djinn(MagicGame) (05.01.2007)].zip#Spider-Man - Battle for New York (U) [T+Rus 1.2 Djinn(MagicGame) (05.01.2007)].gba",
+      "label": "Spider-Man - Battle for New York (U) [T+Rus 1.2 Djinn(MagicGame) (05.01.2007)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Spider-Man - Mysterio's Menace (UE) [T-Rus Pirate].zip#Spider-Man - Mysterio's Menace (UE) [T-Rus Pirate].gba",
+      "label": "Spider-Man - Mysterio's Menace (UE) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Spider-Man 2 (UE) [T+Rus SergeyK(MagicGame)].zip#Spider-Man 2 (UE) [T+Rus SergeyK(MagicGame)].gba",
+      "label": "Spider-Man 2 (UE) [T+Rus SergeyK(MagicGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Spider-Man 3 (U) [T+Rus1.2 Djinn(MagicGame) (10.05.2007)].zip#Spider-Man 3 (U) [T+Rus1.2 Djinn(MagicGame) (10.05.2007)].gba",
+      "label": "Spider-Man 3 (U) [T+Rus1.2 Djinn(MagicGame) (10.05.2007)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Splinter Cell, Tom Clancy's (U) [T+Rus SergeyK(MagicGame)].zip#Splinter Cell, Tom Clancy's (U) [T+Rus SergeyK(MagicGame)].gba",
+      "label": "Splinter Cell, Tom Clancy's (U) [T+Rus SergeyK(MagicGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Splinter Cell - Pandora Tomorrow, Tom Clancy's (U) [T-Rus SergeyK(MagicGame)].zip#Splinter Cell - Pandora Tomorrow, Tom Clancy's (U) [T-Rus SergeyK(MagicGame)].gba",
+      "label": "Splinter Cell - Pandora Tomorrow, Tom Clancy's (U) [T-Rus SergeyK(MagicGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/SpongeBob's Atlantis SquarePantis (U) [T+Rus1.0 Djinn(MagicGame) (14.11.2007)].zip#SpongeBob's Atlantis SquarePantis (U) [T+Rus1.0 Djinn(MagicGame) (14.11.2007)].gba",
+      "label": "SpongeBob's Atlantis SquarePantis (U) [T+Rus1.0 Djinn(MagicGame) (14.11.2007)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/SpongeBob SquarePants - Battle for Bikini Bottom (U) [T-Rus Pirate].zip#SpongeBob SquarePants - Battle for Bikini Bottom (U) [T-Rus Pirate].gba",
+      "label": "SpongeBob SquarePants - Battle for Bikini Bottom (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/SpongeBob SquarePants - Creature from the Krusty Krab (U) [T+Rus1.2 Djinn(MagicGame) (14.11.2006)].zip#SpongeBob SquarePants - Creature from the Krusty Krab (U) [T+Rus1.2 Djinn(MagicGame) (14.11.2006)].gba",
+      "label": "SpongeBob SquarePants - Creature from the Krusty Krab (U) [T+Rus1.2 Djinn(MagicGame) (14.11.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/SpongeBob SquarePants - Lights, Camera, Pants! (U) [T-Rus RusFlag].zip#SpongeBob SquarePants - Lights, Camera, Pants! (U) [T-Rus RusFlag].gba",
+      "label": "SpongeBob SquarePants - Lights, Camera, Pants! (U) [T-Rus RusFlag]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/SpongeBob SquarePants - Revenge of the Flying Dutchman (UE) [T+Rus1.1 Djinn(MagicGame) (09.08.2007)].zip#SpongeBob SquarePants - Revenge of the Flying Dutchman (UE) [T+Rus1.1 Djinn(MagicGame) (09.08.2007)].gba",
+      "label": "SpongeBob SquarePants - Revenge of the Flying Dutchman (UE) [T+Rus1.1 Djinn(MagicGame) (09.08.2007)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/SpongeBob SquarePants - SuperSponge (UE) [T+Rus SergeyK(MagicGame)].zip#SpongeBob SquarePants - SuperSponge (UE) [T+Rus SergeyK(MagicGame)].gba",
+      "label": "SpongeBob SquarePants - SuperSponge (UE) [T+Rus SergeyK(MagicGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/SpongeBob SquarePants and Friends - Unite! (E) [T-Rus Pirate].zip#SpongeBob SquarePants and Friends - Unite! (E) [T-Rus Pirate].gba",
+      "label": "SpongeBob SquarePants and Friends - Unite! (E) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Spy Kids 3-D - Game Over (U) [T+Rus Pirate].zip#Spy Kids 3-D - Game Over (U) [T+Rus Pirate].gba",
+      "label": "Spy Kids 3-D - Game Over (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Spy Kids Challenger (U) [T+Rus Pirate].zip#Spy Kids Challenger (U) [T+Rus Pirate].gba",
+      "label": "Spy Kids Challenger (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Spyro - Season of Ice (E) [T-Rus Vector].zip#Spyro - Season of Ice (E) [T-Rus Vector].gba",
+      "label": "Spyro - Season of Ice (E) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Spyro 2 - Season of Flame (E) [T-Rus Vector].zip#Spyro 2 - Season of Flame (E) [T-Rus Vector].gba",
+      "label": "Spyro 2 - Season of Flame (E) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Spyro Orange - Cortex Conspiracy (U) (V1.0) [T+Rus1.1 Djinn(MagicGame) (12.10.2005)].zip#Spyro Orange - Cortex Conspiracy (U) (V1.0) [T+Rus1.1 Djinn(MagicGame) (12.10.2005)].gba",
+      "label": "Spyro Orange - Cortex Conspiracy (U) (V1.0) [T+Rus1.1 Djinn(MagicGame) (12.10.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Starsky & Hutch (U) [T+Rus Kudos].zip#Starsky & Hutch (U) [T+Rus Kudos].gba",
+      "label": "Starsky & Hutch (U) [T+Rus Kudos]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Star Wars - Episode II - Attack of the Clones (U) [T-Rus Pirate].zip#Star Wars - Episode II - Attack of the Clones (U) [T-Rus Pirate].gba",
+      "label": "Star Wars - Episode II - Attack of the Clones (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Star Wars - Episode III - Revenge of the Sith (E) [T+Rus0.99 SergeyK(MagicGame)].zip#Star Wars - Episode III - Revenge of the Sith (E) [T+Rus0.99 SergeyK(MagicGame)].gba",
+      "label": "Star Wars - Episode III - Revenge of the Sith (E) [T+Rus0.99 SergeyK(MagicGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Star Wars - Flight of the Falcon (E) [T-Rus Pirate].zip#Star Wars - Flight of the Falcon (E) [T-Rus Pirate].gba",
+      "label": "Star Wars - Flight of the Falcon (E) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Star Wars Trilogy - Apprentice of the Force (U) [T-Rus MagicGame].zip#Star Wars Trilogy - Apprentice of the Force (U) [T-Rus MagicGame].gba",
+      "label": "Star Wars Trilogy - Apprentice of the Force (U) [T-Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Street Racing Syndicate (U) [T+Rus Pirate].zip#Street Racing Syndicate (U) [T+Rus Pirate].gba",
+      "label": "Street Racing Syndicate (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Stuart Little 2 (UE) [T-Rus NewGame].zip#Stuart Little 2 (UE) [T-Rus NewGame].gba",
+      "label": "Stuart Little 2 (UE) [T-Rus NewGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Super Hornet FA 18F (U) [T-Rus Pirate].zip#Super Hornet FA 18F (U) [T-Rus Pirate].gba",
+      "label": "Super Hornet FA 18F (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Superman - Countdown to Apokolips (U) [T+Rus Kudos].zip#Superman - Countdown to Apokolips (U) [T+Rus Kudos].gba",
+      "label": "Superman - Countdown to Apokolips (U) [T+Rus Kudos]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Superman Returns - Fortress of Solitude (UE) [T-Rus Vector].zip#Superman Returns - Fortress of Solitude (UE) [T-Rus Vector].gba",
+      "label": "Superman Returns - Fortress of Solitude (UE) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Super Mario Advance (UE) [T+Rus1.1 Djinn(MagicGame) (02.05.2007)].zip#Super Mario Advance (UE) [T+Rus1.1 Djinn(MagicGame) (02.05.2007)].gba",
+      "label": "Super Mario Advance (UE) [T+Rus1.1 Djinn(MagicGame) (02.05.2007)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Super Mario Advance 2 - Super Mario World (UA) [T-Rus NewGame].zip#Super Mario Advance 2 - Super Mario World (UA) [T-Rus NewGame].gba",
+      "label": "Super Mario Advance 2 - Super Mario World (UA) [T-Rus NewGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Super Mario Advance 3 - Yoshi's Island (U) [T-Rus Pirate].zip#Super Mario Advance 3 - Yoshi's Island (U) [T-Rus Pirate].gba",
+      "label": "Super Mario Advance 3 - Yoshi's Island (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Super Mario Advance 4 - Super Mario Bros 3 (UA) (V1.0) [T-Rus Pirate].zip#Super Mario Advance 4 - Super Mario Bros 3 (UA) (V1.0) [T-Rus Pirate].gba",
+      "label": "Super Mario Advance 4 - Super Mario Bros 3 (UA) (V1.0) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Surf's Up (U) [T+Rus1.1 Djinn(MagicGame) (07.06.2007)].zip#Surf's Up (U) [T+Rus1.1 Djinn(MagicGame) (07.06.2007)].gba",
+      "label": "Surf's Up (U) [T+Rus1.1 Djinn(MagicGame) (07.06.2007)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Tak - Great Juju Challenge (UE) [T-Rus Pirate].zip#Tak - Great Juju Challenge (UE) [T-Rus Pirate].gba",
+      "label": "Tak - Great Juju Challenge (UE) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Tarzan - Return to the Jungle (UE) [T+Rus MagicGame].zip#Tarzan - Return to the Jungle (UE) [T+Rus MagicGame].gba",
+      "label": "Tarzan - Return to the Jungle (UE) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Taxi 3 (F) [T+Rus1.0 Djinn(MagicGame) (02.10.2007)].zip#Taxi 3 (F) [T+Rus1.0 Djinn(MagicGame) (02.10.2007)].gba",
+      "label": "Taxi 3 (F) [T+Rus1.0 Djinn(MagicGame) (02.10.2007)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Teenage Mutant Ninja Turtles (U) [T+Rus1.7 MagicTeam (05.01.2007)].zip#Teenage Mutant Ninja Turtles (U) [T+Rus1.7 MagicTeam (05.01.2007)].gba",
+      "label": "Teenage Mutant Ninja Turtles (U) [T+Rus1.7 MagicTeam (05.01.2007)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Teenage Mutant Ninja Turtles 2 - Battle Nexus (U) [T+Rus1.3 MagicTeam (05.01.2007)].zip#Teenage Mutant Ninja Turtles 2 - Battle Nexus (U) [T+Rus1.3 MagicTeam (05.01.2007)].gba",
+      "label": "Teenage Mutant Ninja Turtles 2 - Battle Nexus (U) [T+Rus1.3 MagicTeam (05.01.2007)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Teen Titans 2 (U) [T+Rus Kudos].zip#Teen Titans 2 (U) [T+Rus Kudos].gba",
+      "label": "Teen Titans 2 (U) [T+Rus Kudos]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Tekken Advance (U) [T+Rus SergeyK(MagicGame)].zip#Tekken Advance (U) [T+Rus SergeyK(MagicGame)].gba",
+      "label": "Tekken Advance (U) [T+Rus SergeyK(MagicGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Terminator 3 - Rise of the Machines (U) [T-Rus SergeyK(MagicGame)].zip#Terminator 3 - Rise of the Machines (U) [T-Rus SergeyK(MagicGame)].gba",
+      "label": "Terminator 3 - Rise of the Machines (U) [T-Rus SergeyK(MagicGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/That's So Raven 2 - Supernatural Style (U) [T-Rus Vector].zip#That's So Raven 2 - Supernatural Style (U) [T-Rus Vector].gba",
+      "label": "That's So Raven 2 - Supernatural Style (U) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Tiny Toon Adventures - Buster's Bad Dream (E) [T-Rus Pirate].zip#Tiny Toon Adventures - Buster's Bad Dream (E) [T-Rus Pirate].gba",
+      "label": "Tiny Toon Adventures - Buster's Bad Dream (E) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Tiny Toon Adventures - Wacky Stackers (U) [T-Rus Vector].zip#Tiny Toon Adventures - Wacky Stackers (U) [T-Rus Vector].gba",
+      "label": "Tiny Toon Adventures - Wacky Stackers (U) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/TMNT (U) [T+Rus1.3 Magic Team (31.12.2008)].zip#TMNT (U) [T+Rus1.3 Magic Team (31.12.2008)].gba",
+      "label": "TMNT (U) [T+Rus1.3 Magic Team (31.12.2008)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/TOCA World Touring Cars (E) [T-Rus Pirate].zip#TOCA World Touring Cars (E) [T-Rus Pirate].gba",
+      "label": "TOCA World Touring Cars (E) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Tokyo Xtreme Racer Advance (E) [T-Rus Vector].zip#Tokyo Xtreme Racer Advance (E) [T-Rus Vector].gba",
+      "label": "Tokyo Xtreme Racer Advance (E) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Tom and Jerry - Magic Ring (U) [T+Rus MagicGame].zip#Tom and Jerry - Magic Ring (U) [T+Rus MagicGame].gba",
+      "label": "Tom and Jerry - Magic Ring (U) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Tom and Jerry in Infurnal Escape (U) [T+Rus MagicGame].zip#Tom and Jerry in Infurnal Escape (U) [T+Rus MagicGame].gba",
+      "label": "Tom and Jerry in Infurnal Escape (U) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Tom and Jerry Tales (U) [T-Rus UniGame].zip#Tom and Jerry Tales (U) [T-Rus UniGame].gba",
+      "label": "Tom and Jerry Tales (U) [T-Rus UniGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Tonka - On the Job (U) [T-Rus Pirate].zip#Tonka - On the Job (U) [T-Rus Pirate].gba",
+      "label": "Tonka - On the Job (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Top Gun - Combat Zones (U) [T+Rus Pirate].zip#Top Gun - Combat Zones (U) [T+Rus Pirate].gba",
+      "label": "Top Gun - Combat Zones (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Totally Spies! (U) [T+Rus HoRRoR+Tigran(MagicGame) (09.01.2008)].zip#Totally Spies! (U) [T+Rus HoRRoR+Tigran(MagicGame) (09.01.2008)].gba",
+      "label": "Totally Spies! (U) [T+Rus HoRRoR+Tigran(MagicGame) (09.01.2008)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Totally Spies! 2 - Undercover (U) [T+Rus HoRRoR+Tigran(MagicGame) (01.10.2007)].zip#Totally Spies! 2 - Undercover (U) [T+Rus HoRRoR+Tigran(MagicGame) (01.10.2007)].gba",
+      "label": "Totally Spies! 2 - Undercover (U) [T+Rus HoRRoR+Tigran(MagicGame) (01.10.2007)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Treasure Planet (E) (V1.0) [T-Rus Vector].zip#Treasure Planet (E) (V1.0) [T-Rus Vector].gba",
+      "label": "Treasure Planet (E) (V1.0) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Turok - Evolution (E) [T-Rus Vector].zip#Turok - Evolution (E) [T-Rus Vector].gba",
+      "label": "Turok - Evolution (E) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Ty the Tasmanian Tiger 2 - Bush Rescue (UE) [T-Rus Vector].zip#Ty the Tasmanian Tiger 2 - Bush Rescue (UE) [T-Rus Vector].gba",
+      "label": "Ty the Tasmanian Tiger 2 - Bush Rescue (UE) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Ty the Tasmanian Tiger 3 - Night of the Quinkan (U) [T-Rus Vector].zip#Ty the Tasmanian Tiger 3 - Night of the Quinkan (U) [T-Rus Vector].gba",
+      "label": "Ty the Tasmanian Tiger 3 - Night of the Quinkan (U) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Ultimate Brain Games (UE) [T-Rus Pirate].zip#Ultimate Brain Games (UE) [T-Rus Pirate].gba",
+      "label": "Ultimate Brain Games (UE) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Ultimate Spider-Man (U) [T+Rus Djinn(MagicGame) (03.10.2005)].zip#Ultimate Spider-Man (U) [T+Rus Djinn(MagicGame) (03.10.2005)].gba",
+      "label": "Ultimate Spider-Man (U) [T+Rus Djinn(MagicGame) (03.10.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Underground, Tony Hawk's (UE) [T-Rus Pirate].zip#Underground, Tony Hawk's (UE) [T-Rus Pirate].gba",
+      "label": "Underground, Tony Hawk's (UE) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Uno 52 (U) [T+Rus CrashGame].zip#Uno 52 (U) [T+Rus CrashGame].gba",
+      "label": "Uno 52 (U) [T+Rus CrashGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Urbz - Sims in the City (UE) [T-Rus Pirate].zip#Urbz - Sims in the City (UE) [T-Rus Pirate].gba",
+      "label": "Urbz - Sims in the City (UE) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Van Helsing (U) [T-Rus Kupo (24.02.2009)].zip#Van Helsing (U) [T-Rus Kupo (24.02.2009)].gba",
+      "label": "Van Helsing (U) [T-Rus Kupo (24.02.2009)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/VeggieTales - LarryBoy and the Bad Apple (U) [T-Rus Vector].zip#VeggieTales - LarryBoy and the Bad Apple (U) [T-Rus Vector].gba",
+      "label": "VeggieTales - LarryBoy and the Bad Apple (U) [T-Rus Vector]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Wild (UE) [T+Rus1.1 Djinn(MagicGame) (30.06.2006)].zip#Wild (UE) [T+Rus1.1 Djinn(MagicGame) (30.06.2006)].gba",
+      "label": "Wild (UE) [T+Rus1.1 Djinn(MagicGame) (30.06.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Wild Thornberrys - Chimp Chase (UE) [T+Rus Kudos].zip#Wild Thornberrys - Chimp Chase (UE) [T+Rus Kudos].gba",
+      "label": "Wild Thornberrys - Chimp Chase (UE) [T+Rus Kudos]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Wing Commander - Prophecy (U) [T-Rus Pirate].zip#Wing Commander - Prophecy (U) [T-Rus Pirate].gba",
+      "label": "Wing Commander - Prophecy (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Winnie the Pooh's Rumbly Tumbly Adventure (U) [T+Rus1.0 Djinn(MagicGame) (22.11.2008)].zip#Winnie the Pooh's Rumbly Tumbly Adventure (U) [T+Rus1.0 Djinn(MagicGame) (22.11.2008)].gba",
+      "label": "Winnie the Pooh's Rumbly Tumbly Adventure (U) [T+Rus1.0 Djinn(MagicGame) (22.11.2008)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/WinX Club - Quest for the Codex (U) [T-Rus Pirate].zip#WinX Club - Quest for the Codex (U) [T-Rus Pirate].gba",
+      "label": "WinX Club - Quest for the Codex (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/WITCH (E) [T+Rus1.3 Djinn(MagicGame) (05.09.2006)].zip#WITCH (E) [T+Rus1.3 Djinn(MagicGame) (05.09.2006)].gba",
+      "label": "WITCH (E) [T+Rus1.3 Djinn(MagicGame) (05.09.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Wolfenstein 3D (UE) [T-Rus Pirate].zip#Wolfenstein 3D (UE) [T-Rus Pirate].gba",
+      "label": "Wolfenstein 3D (UE) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Worms Blast (E) [T+Rus Pirate].zip#Worms Blast (E) [T+Rus Pirate].gba",
+      "label": "Worms Blast (E) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Worms World Party (U) [T+Rus1.2 Djinn(MagicGame) (06.05.2006)].zip#Worms World Party (U) [T+Rus1.2 Djinn(MagicGame) (06.05.2006)].gba",
+      "label": "Worms World Party (U) [T+Rus1.2 Djinn(MagicGame) (06.05.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/X-Men - Official Game (U) [T+Rus1.4 Djinn(MagicGame) (04.09.2006)].zip#X-Men - Official Game (U) [T+Rus1.4 Djinn(MagicGame) (04.09.2006)].gba",
+      "label": "X-Men - Official Game (U) [T+Rus1.4 Djinn(MagicGame) (04.09.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/X-Men - Reign of Apocalypse (UE) [T+Rus Pirate].zip#X-Men - Reign of Apocalypse (UE) [T+Rus Pirate].gba",
+      "label": "X-Men - Reign of Apocalypse (UE) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/X2 - Wolverine's Revenge (UE) [T-Rus SergeyK(MagicGame)].zip#X2 - Wolverine's Revenge (UE) [T-Rus SergeyK(MagicGame)].gba",
+      "label": "X2 - Wolverine's Revenge (UE) [T-Rus SergeyK(MagicGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/xXx (UE) [T+Rus Djinn(MagicGame) (18.09.2005)].zip#xXx (UE) [T+Rus Djinn(MagicGame) (18.09.2005)].gba",
+      "label": "xXx (UE) [T+Rus Djinn(MagicGame) (18.09.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GBA/ru-RU/Zoey 101 (U) [T-Rus Pirate].zip#Zoey 101 (U) [T-Rus Pirate].gba",
+      "label": "Zoey 101 (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Advance.lpl"
+    }
+  ]
+}

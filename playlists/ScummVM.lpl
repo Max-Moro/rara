@@ -1,0 +1,309 @@
+{
+  "version": "1.5",
+  "default_core_path": "/retroarch/cores/scummvm_libretro_libnx.nro",
+  "default_core_name": "ScummVM",
+  "base_content_directory": "/retroarch/roms",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/BargonAt/BargonAt.scummvm",
+      "label": "Bargon Attack",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/BASS/BASS.scummvm",
+      "label": "Beneath a Steel Sky",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/BC/BC.scummvm",
+      "label": "Black Cauldron",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/Curse/Curse.scummvm",
+      "label": "The Curse of Monkey Island",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/DIG/DIG.scummvm",
+      "label": "The Dig",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/DISCWLD/DISCWLD.scummvm",
+      "label": "Discworld",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/DRASCULA/DRASCULA.scummvm",
+      "label": "Drascula - The Vampire Strikes Back",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/EQ2RUS/EQ2RUS.scummvm",
+      "label": "EcoQuest 2 - Lost Secret of the Rainforest",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/FotAQ/FotAQ.scummvm",
+      "label": "Flight of the Amazon Queen",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/GOB1/GOB1.scummvm",
+      "label": "Gobliiins",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/INDY/INDY.scummvm",
+      "label": "Indiana Jones and the Fate of Atlantis",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/INDY3/INDY3.scummvm",
+      "label": "Indiana Jones and the Last Crusade - The Graphic Adventure",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/ITE/ITE.scummvm",
+      "label": "Inherit the Earth - Quest for the Orb",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/kq1e_rus/kq1e_rus.scummvm",
+      "label": "King's Quest",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/KQ2/KQ2.scummvm",
+      "label": "King's Quest II - Romancing the Throne",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/KQ3/KQ3.scummvm",
+      "label": "King's Quest III - To Heir Is Human",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/KQ4/KQ4.scummvm",
+      "label": "King's Quest IV - The Perils of Rosella",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/kq5/kq5.scummvm",
+      "label": "King's Quest V - AMTHGY",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/LOOM/LOOM.scummvm",
+      "label": "Loom",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/LOTT/LOTT.scummvm",
+      "label": "Lure of the Temptress",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/LSL1/LSL1.scummvm",
+      "label": "Leisure Suit Larry 1 - In the Land of the Lounge Lizards",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/Maniac/Maniac.scummvm",
+      "label": "Maniac Mansion",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/PQ1/PQ1.scummvm",
+      "label": "Police Quest - In Pursuit of the Death Angel",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/PQ3/PQ3.scummvm",
+      "label": "Police Quest 3 - The Kindred",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/QFG1/QFG1.scummvm",
+      "label": "Quest for Glory I - So You Want to Be a Hero",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/SCREAM/SCREAM.scummvm",
+      "label": "I Have No Mouth, and I Must Scream",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/SIMON/SIMON.scummvm",
+      "label": "Simon the Sorcerer",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/Simon2/Simon2.scummvm",
+      "label": "Simon the Sorcerer II - The Lion, the Wizard and the Wardrobe",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/Soltys/Soltys.scummvm",
+      "label": "Soltys",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/SOMI/SOMI.scummvm",
+      "label": "Secret of Monkey Island",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/SQ1/SQ1.scummvm",
+      "label": "Space Quest I - Roger Wilco in the Sarien Encounter",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/SQ2/SQ2.scummvm",
+      "label": "Space Quest II - Vohaul's Revenge",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/SQ3RUS/SQ3RUS.scummvm",
+      "label": "Space Quest III - The Pirates of Pestulon",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/TEEN/TEEN.scummvm",
+      "label": "Teenagent",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/TUCKER/TUCKER.scummvm",
+      "label": "Bud Tucker in Double Trouble",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/Woodruff/Woodruff.scummvm",
+      "label": "Woodruff and the Schnibble of Azimuth",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SVM/ru-RU/ZAK/ZAK.scummvm",
+      "label": "Zak McKracken and the Alien Mindbenders",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "ScummVM.lpl"
+    }
+  ]
+}

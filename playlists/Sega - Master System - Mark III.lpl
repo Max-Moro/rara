@@ -1,0 +1,83 @@
+{
+  "version": "1.5",
+  "default_core_path": "/retroarch/cores/genesis_plus_gx_libretro_libnx.nro",
+  "default_core_name": "Genesis Plus DX",
+  "base_content_directory": "/retroarch/roms",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "scan_content_dir": "/retroarch/roms/SMS",
+  "scan_file_exts": "sms",
+  "scan_dat_file_path": "",
+  "scan_search_recursively": true,
+  "scan_search_archives": true,
+  "scan_filter_dat_content": false,
+  "items": [
+    {
+      "path": "/retroarch/roms/SMS/ru-RU/Aladdin (EB) [T+Rus2.0 ALLiGaToR&Chief-Net (06.10.2015)].sms",
+      "label": "Aladdin (EB) [T+Rus2.0 ALLiGaToR&Chief-Net (06.10.2015)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMS/ru-RU/Alien 3 (EB) [T+Rus1.0 PSCD (17.03.2015)].sms",
+      "label": "Alien 3 (EB) [T+Rus1.0 PSCD (17.03.2015)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMS/ru-RU/Ecco the Dolphin (EB) [T+Rus1.00 Chief-Net (09.05.2016)].sms",
+      "label": "Ecco the Dolphin (EB) [T+Rus1.00 Chief-Net (09.05.2016)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMS/ru-RU/King's Quest Quest for the Crown (RUS).sms",
+      "label": "King's Quest Quest for the Crown (RUS)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMS/ru-RU/Phantasy Star (J) [T+Rus1.02 Chief-Net (06.05.2015)].sms",
+      "label": "Phantasy Star (J) [T+Rus1.02 Chief-Net (06.05.2015)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMS/ru-RU/Psychic World (EB) [T+Rus1.00 Chief-Net (07.05.2016)].sms",
+      "label": "Psychic World (EB) [T+Rus1.00 Chief-Net (07.05.2016)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMS/ru-RU/Terminator (E) [T+Rus1.02 Chief-Net (24.02.2015)].sms",
+      "label": "Terminator (E) [T+Rus1.02 Chief-Net (24.02.2015)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/retroarch/roms/SMS/ru-RU/Tom & Jerry (EB) [T+Rus1.01 Chief-Net (28.01.2011)].sms",
+      "label": "Tom & Jerry (EB) [T+Rus1.01 Chief-Net (28.01.2011)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    }
+  ]
+}

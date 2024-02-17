@@ -1,0 +1,2587 @@
+{
+  "version": "1.5",
+  "default_core_path": "/retroarch/cores/genesis_plus_gx_libretro_libnx.nro",
+  "default_core_name": "Genesis Plus DX",
+  "base_content_directory": "/retroarch/roms",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "scan_content_dir": "/retroarch/roms/GEN",
+  "scan_file_exts": "md",
+  "scan_dat_file_path": "",
+  "scan_search_recursively": true,
+  "scan_search_archives": true,
+  "scan_filter_dat_content": false,
+  "items": [
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Aaahh!!! Real Monsters (U) [T-Rus uBAH009 (01.02.2019)].md",
+      "label": "Aaahh!!! Real Monsters (U) [T-Rus uBAH009 (01.02.2019)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Addams Family, The (UE) [T-Rus SergeyK(NewGame) (04.07.2003)][p1].md",
+      "label": "Addams Family, The (UE) [T-Rus SergeyK(NewGame) (04.07.2003)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Addams Family Values (E) [T+Rus SergeyK&Pirate (21.11.2004)].md",
+      "label": "Addams Family Values (E) [T+Rus SergeyK&Pirate (21.11.2004)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Adventures of Batman & Robin, The (U) [T+Rus Pirate].md",
+      "label": "Adventures of Batman & Robin, The (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Aerobiz Supersonic (U) [T--Rus Pirate(Glorysun)][p1].md",
+      "label": "Aerobiz Supersonic (U) [T--Rus Pirate(Glorysun)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Aero the Acro-Bat 2 (E) [T+Rus Pirate].md",
+      "label": "Aero the Acro-Bat 2 (E) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/After Burner II (UE) [T+Rus Pedro (01.05.2011)].md",
+      "label": "After Burner II (UE) [T+Rus Pedro (01.05.2011)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Aladdin (U) [T+Rus SergeyK(NewGame) (25.02.2002)].md",
+      "label": "Aladdin (U) [T+Rus SergeyK(NewGame) (25.02.2002)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Alien 3 (UE) (REV00) [T+Rus Pirate (03.01.2005)].md",
+      "label": "Alien 3 (UE) (REV00) [T+Rus Pirate (03.01.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Alien Soldier (E) [T+Rus bybyc9lc9l (28.10.2011)].md",
+      "label": "Alien Soldier (E) [T+Rus bybyc9lc9l (28.10.2011)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Alien Storm (W) [T+Rus Pirate].md",
+      "label": "Alien Storm (W) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Altered Beast (UE) [T+Rus Pirate].md",
+      "label": "Altered Beast (UE) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Animaniacs (E) [T+Rus SergeyK(NewGame) (01.11.2003)][p1].md",
+      "label": "Animaniacs (E) [T+Rus SergeyK(NewGame) (01.11.2003)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Another World (E) [T+Rus Shedevr (16.05.2004)].md",
+      "label": "Another World (E) [T+Rus Shedevr (16.05.2004)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Arcade's Revenge (UE) [T+Rus Pirate].md",
+      "label": "Arcade's Revenge (UE) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Arcus Odyssey (U) [T+Rus1.1 Chief-Net (20.01.2016)].md",
+      "label": "Arcus Odyssey (U) [T+Rus1.1 Chief-Net (20.01.2016)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Ariel the Little Mermaid (UE) [T+Rus SergeyK(NewGame) (24.05.2004)][p1].md",
+      "label": "Ariel the Little Mermaid (UE) [T+Rus SergeyK(NewGame) (24.05.2004)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Art of Fighting (U) [T-Rus uBAH009 (25.06.2019)].md",
+      "label": "Art of Fighting (U) [T-Rus uBAH009 (25.06.2019)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Asterix and the Great Rescue (U) [T+Rus Shedevr (22.02.2004)].md",
+      "label": "Asterix and the Great Rescue (U) [T+Rus Shedevr (22.02.2004)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Asterix and the Power of the Gods (E) [T+Rus SergeyK(NewGame) (27.01.2003)].md",
+      "label": "Asterix and the Power of the Gods (E) [T+Rus SergeyK(NewGame) (27.01.2003)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Back to the Future Part III (U) [T+Rus0.95 Shedevr (17.07.2002)].md",
+      "label": "Back to the Future Part III (U) [T+Rus0.95 Shedevr (17.07.2002)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Back to the Future Part III (U) [T+Rus0.95 Shedevr (17.07.2002)] (BRIGHT).md",
+      "label": "Back to the Future Part III (U) [T+Rus0.95 Shedevr (17.07.2002)] (BRIGHT)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Barbie Super Model (U) [T+Rus Pirate].md",
+      "label": "Barbie Super Model (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Bare Knuckle II (J) (Beta) [T+Rus Cool-Spot (13.04.2010)].md",
+      "label": "Bare Knuckle II (J) (Beta) [T+Rus Cool-Spot (13.04.2010)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Bare Knuckle III (J) [T-Rus uBAH009 (24.06.2019)].md",
+      "label": "Bare Knuckle III (J) [T-Rus uBAH009 (24.06.2019)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Barver Battle Saga - Taikong Zhanshi (T) (Unl) [T+Rus Str@nger (03.02.2020)].md",
+      "label": "Barver Battle Saga - Taikong Zhanshi (T) (Unl) [T+Rus Str@nger (03.02.2020)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Bass Masters Classic (U) [T+Rus MagicGame (19.05.2005)].md",
+      "label": "Bass Masters Classic (U) [T+Rus MagicGame (19.05.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Batman - Revenge of the Joker (U) [T+Rus Pirate].md",
+      "label": "Batman - Revenge of the Joker (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Batman - The Video Game (U) [T+Rus Pirate].md",
+      "label": "Batman - The Video Game (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Batman Forever (W) [b1][T+Rus SergeyK(NewGame) (15.11.2002)][p1].md",
+      "label": "Batman Forever (W) [b1][T+Rus SergeyK(NewGame) (15.11.2002)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Batman Returns (W) [T+Rus SergeyK(V-Trans) (12.12.2004)][p1].md",
+      "label": "Batman Returns (W) [T+Rus SergeyK(V-Trans) (12.12.2004)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Battle Mania Daiginjou (JK) [T-Rus uBAH009 (16.01.2019)].md",
+      "label": "Battle Mania Daiginjou (JK) [T-Rus uBAH009 (16.01.2019)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Battle Squadron (UE) (V1.0) [T+Rus0.1b Dr.MefistO (02.12.2010)].md",
+      "label": "Battle Squadron (UE) (V1.0) [T+Rus0.1b Dr.MefistO (02.12.2010)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Battletech - A Game of Armored Combat (U) [T+Rus Shedevr (03.04.2001)].md",
+      "label": "Battletech - A Game of Armored Combat (U) [T+Rus Shedevr (03.04.2001)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Battletoads & Double Dragon (U) [T+Rus NewGame (30.05.2003)][p1].md",
+      "label": "Battletoads & Double Dragon (U) [T+Rus NewGame (30.05.2003)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Battletoads (W) [T+Rus SergeyK(NewGame) (28.10.2003)][p1].md",
+      "label": "Battletoads (W) [T+Rus SergeyK(NewGame) (28.10.2003)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Beauty and the Beast - Belle's Quest (U) [T+Rus SergeyK(NewGame) (07.06.2004)][p1].md",
+      "label": "Beauty and the Beast - Belle's Quest (U) [T+Rus SergeyK(NewGame) (07.06.2004)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Beauty and the Beast - Roar of the Beast (U) [T+Rus Pirate (09.05.2003)].md",
+      "label": "Beauty and the Beast - Roar of the Beast (U) [T+Rus Pirate (09.05.2003)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Beavis and Butt-Head (U) [T+Rus Zhirikov(NewGame) (10.08.2003)][p1].md",
+      "label": "Beavis and Butt-Head (U) [T+Rus Zhirikov(NewGame) (10.08.2003)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Best of the Best - Championship Karate (E) (Proto) [T+Rus Pirate].md",
+      "label": "Best of the Best - Championship Karate (E) (Proto) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Beyond Oasis (U) [T+Rus1.03 Shedevr(Nick.oDIMM) (16.11.2003)].md",
+      "label": "Beyond Oasis (U) [T+Rus1.03 Shedevr(Nick.oDIMM) (16.11.2003)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Beyond Zero Tolerance (U) (Proto-1995.06.23) [o2][T+Rus SergeyK(NewGame) (25.04.2003)].md",
+      "label": "Beyond Zero Tolerance (U) (Proto-1995.06.23) [o2][T+Rus SergeyK(NewGame) (25.04.2003)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Blades of Vengeance (UE) [T+Rus1.00 Chief-Net (19.09.2014)].md",
+      "label": "Blades of Vengeance (UE) [T+Rus1.00 Chief-Net (19.09.2014)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Blockout (W) [T+Rus Pirate].md",
+      "label": "Blockout (W) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Bloodshot (E) [T+Rus SergeyK (02.07.2003)][p1].md",
+      "label": "Bloodshot (E) [T+Rus SergeyK (02.07.2003)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Body Count (E) [T+Rus Pirate].md",
+      "label": "Body Count (E) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Bomber (W) (Unl) [T+Rus Kudos].md",
+      "label": "Bomber (W) (Unl) [T+Rus Kudos]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Bone Marrow (PD) (Demo) (Rus) [!].md",
+      "label": "Bone Marrow (PD) (Demo) (Rus) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Boogerman - A Pick and Flick Adventure (U) [T+Rus SergeyK(NewGame) (28.10.2003)].md",
+      "label": "Boogerman - A Pick and Flick Adventure (U) [T+Rus SergeyK(NewGame) (28.10.2003)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Bubba 'N' Stix (E) [T+Rus SergeyK&Pirate (27.11.2004)].md",
+      "label": "Bubba 'N' Stix (E) [T+Rus SergeyK&Pirate (27.11.2004)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Bubsy II (UE) [T+Rus MagicGame (10.06.2005)].md",
+      "label": "Bubsy II (UE) [T+Rus MagicGame (10.06.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Bubsy in - Claws Encounters of the Furred Kind (UE) [T+Rus MagicGame].md",
+      "label": "Bubsy in - Claws Encounters of the Furred Kind (UE) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Bugs Bunny in Double Trouble (U) [T+Rus Shedevr(NewGame)].md",
+      "label": "Bugs Bunny in Double Trouble (U) [T+Rus Shedevr(NewGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Cadash (UK) [T+Rus Pirate].md",
+      "label": "Cadash (UK) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Caliber.50 (U) [T+Rus Pirate].md",
+      "label": "Caliber.50 (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Cannon Fodder (E) [T+Rus SergeyK(NewGame) (08.03.2004)][p1].md",
+      "label": "Cannon Fodder (E) [T+Rus SergeyK(NewGame) (08.03.2004)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Captain America and the Avengers (U) [T+Rus MagicGame].md",
+      "label": "Captain America and the Avengers (U) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Castle of Illusion Starring Mickey Mouse (UE) [T+Rus MagicGame].md",
+      "label": "Castle of Illusion Starring Mickey Mouse (UE) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Castlevania - Bloodlines (U) [T+Rus SergeyK(NewGame) (27.11.2003)][p1] (PAL).md",
+      "label": "Castlevania - Bloodlines (U) [T+Rus SergeyK(NewGame) (27.11.2003)][p1] (PAL)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Chakan (UE) [T+Rus Pirate].md",
+      "label": "Chakan (UE) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Championship Pool (U) [T+Rus Pirate][p1].md",
+      "label": "Championship Pool (U) [T+Rus Pirate][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Championship Pro-Am (U) [T+Rus Pirate].md",
+      "label": "Championship Pro-Am (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Chaos Engine, The (E) [b1][T+Rus Shedevr(NewGame)][p1].md",
+      "label": "Chaos Engine, The (E) [b1][T+Rus Shedevr(NewGame)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Chase H.Q. II (U) [T+Rus Pirate].md",
+      "label": "Chase H.Q. II (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Cheese Cat-Astrophe Starring Speedy Gonzales (E) [T+Rus SergeyK&Pirate (29.11.2004)].md",
+      "label": "Cheese Cat-Astrophe Starring Speedy Gonzales (E) [T+Rus SergeyK&Pirate (29.11.2004)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Chess (R) (Unl) [T+Rus NewGame].md",
+      "label": "Chess (R) (Unl) [T+Rus NewGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Chong Chong Weiji - A Bug's Life (T) (Unl) [T+Rus MagicGame].md",
+      "label": "Chong Chong Weiji - A Bug's Life (T) (Unl) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Cliffhanger (U) [T+Rus SergeyK(NewGame) (11.07.2003)][p1].md",
+      "label": "Cliffhanger (U) [T+Rus SergeyK(NewGame) (11.07.2003)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Clue (U) [T+Rus MagicGame].md",
+      "label": "Clue (U) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Combat Cars (UE) [T+Rus Pirate (12.08.2004)].md",
+      "label": "Combat Cars (UE) [T+Rus Pirate (12.08.2004)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Comix Zone (U) [T-Rus0.9 Shedevr (03.05.2001)].md",
+      "label": "Comix Zone (U) [T-Rus0.9 Shedevr (03.05.2001)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Contra - Hard Corps (UK) [T-Rus Shedevr(NewGame)].md",
+      "label": "Contra - Hard Corps (UK) [T-Rus Shedevr(NewGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Cool Spot (U) [T+Rus Pirate].md",
+      "label": "Cool Spot (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Cosmic Spacehead (UE) (REV00) [T+Rus1.0 Chief-Net (23.02.2018)].md",
+      "label": "Cosmic Spacehead (UE) (REV00) [T+Rus1.0 Chief-Net (23.02.2018)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Cosmic Spacehead (UE) (REV00) [T+Rus1.0 Chief-Net (23.02.2018)] (CHEAT).md",
+      "label": "Cosmic Spacehead (UE) (REV00) [T+Rus1.0 Chief-Net (23.02.2018)] (CHEAT)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Crude Buster (J) [T+Rus MagicTeam].md",
+      "label": "Crude Buster (J) [T+Rus MagicTeam]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Crusader of Centy (U) [T+Rus Shedevr&Pirate].md",
+      "label": "Crusader of Centy (U) [T+Rus Shedevr&Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/CutThroat Island (UE) [T+Rus SergeyK(NewGame) (27.02.2002)][p1].md",
+      "label": "CutThroat Island (UE) [T+Rus SergeyK(NewGame) (27.02.2002)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Cyber-Cop (U) [T+Rus Shedevr (27.06.2003)].md",
+      "label": "Cyber-Cop (U) [T+Rus Shedevr (27.06.2003)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Cyborg Justice (UE) [T+Rus Pirate].md",
+      "label": "Cyborg Justice (UE) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Daffy Duck in Hollywood (E) [T+Rus SergeyK(NewGame) (19.01.2003)][p1].md",
+      "label": "Daffy Duck in Hollywood (E) [T+Rus SergeyK(NewGame) (19.01.2003)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Daze Before Christmas (A) [T+Rus1.1 Chief-Net (21.06.2016)].md",
+      "label": "Daze Before Christmas (A) [T+Rus1.1 Chief-Net (21.06.2016)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Death and Return of Superman, The (U) [T-Rus SergeyK(NewGame) (14.12.2004)][p1].md",
+      "label": "Death and Return of Superman, The (U) [T-Rus SergeyK(NewGame) (14.12.2004)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/DEcapAttack (UEK) [T-Rus1.0 free.gen (20.05.2020)].md",
+      "label": "DEcapAttack (UEK) [T-Rus1.0 free.gen (20.05.2020)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Demolition Man (UE) [T+Rus Pirate (18.01.2005)].md",
+      "label": "Demolition Man (UE) [T+Rus Pirate (18.01.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Desert Demolition Starring Road Runner and Wile E. Coyote (UE) [T+Rus NewGame].md",
+      "label": "Desert Demolition Starring Road Runner and Wile E. Coyote (UE) [T+Rus NewGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Desert Strike - Return to the Gulf (UE) [T+Rus SergeyK(NewGame) (28.03.2002)].md",
+      "label": "Desert Strike - Return to the Gulf (UE) [T+Rus SergeyK(NewGame) (28.03.2002)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Dick Tracy (W) [T+Rus MagicGame].md",
+      "label": "Dick Tracy (W) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Dinosaur's Tale, A (U) [T-Rus uBAH009 (24.03.2019)].md",
+      "label": "Dinosaur's Tale, A (U) [T-Rus uBAH009 (24.03.2019)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/DJ Boy (J) [T+Rus Pirate].md",
+      "label": "DJ Boy (J) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Domine o Territorio (B) (Unl) [T+Rus Sharpnull (08.09.2020)].md",
+      "label": "Domine o Territorio (B) (Unl) [T+Rus Sharpnull (08.09.2020)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Donald in Maui Mallard (E) [b1][T+Rus SergeyK(NewGame) (25.05.2003)].md",
+      "label": "Donald in Maui Mallard (E) [b1][T+Rus SergeyK(NewGame) (25.05.2003)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Doom Troopers (U) [T+Rus NewGame].md",
+      "label": "Doom Troopers (U) [T+Rus NewGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Double Dragon (UE) (Unl) [T+Rus Pirate][f1].md",
+      "label": "Double Dragon (UE) (Unl) [T+Rus Pirate][f1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Double Dragon 3 - The Arcade Game (UE) [T+Rus Pirate].md",
+      "label": "Double Dragon 3 - The Arcade Game (UE) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Double Dragon II - The Revenge (J) [T+Rus Pirate&TN (04.02.2016)].md",
+      "label": "Double Dragon II - The Revenge (J) [T+Rus Pirate&TN (04.02.2016)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Dragon - The Bruce Lee Story (U) [T+Rus2.0 Shedevr (16.11.2002)].md",
+      "label": "Dragon - The Bruce Lee Story (U) [T+Rus2.0 Shedevr (16.11.2002)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Duke Nukem 3D (B) [T+Rus Shedevr].md",
+      "label": "Duke Nukem 3D (B) [T+Rus Shedevr]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Dune - The Battle for Arrakis (U) [S+Rus Shedevr(NewGame)&Lipetsk (02.08.2011)].md",
+      "label": "Dune - The Battle for Arrakis (U) [S+Rus Shedevr(NewGame)&Lipetsk (02.08.2011)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Dune II - The Battle for Arrakis (E) [S+Rus Shedevr&3DSchumacher (23.07.2011)].md",
+      "label": "Dune II - The Battle for Arrakis (E) [S+Rus Shedevr&3DSchumacher (23.07.2011)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Dynamite Duke (W) (V1.0) [T+Rus MagicGame].md",
+      "label": "Dynamite Duke (W) (V1.0) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/EA Hockey (E) [T+Rus SergeyK(NewGame) (06.04.2002)].md",
+      "label": "EA Hockey (E) [T+Rus SergeyK(NewGame) (06.04.2002)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Earnest Evans (U) [T+Rus Pirate].md",
+      "label": "Earnest Evans (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Earthworm Jim (U) [T+Rus SergeyK(NewGame) (02.03.2004)][p1].md",
+      "label": "Earthworm Jim (U) [T+Rus SergeyK(NewGame) (02.03.2004)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Earthworm Jim 2 (U) [T+Rus SergeyK(NewGame) (07.01.2002)].md",
+      "label": "Earthworm Jim 2 (U) [T+Rus SergeyK(NewGame) (07.01.2002)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Ecco - The Tides of Time (U) [T+Rus SergeyK(NewGame) (24.07.2003)].md",
+      "label": "Ecco - The Tides of Time (U) [T+Rus SergeyK(NewGame) (24.07.2003)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Ecco Jr. (UA) [T+Rus SergeyK(NewGame) (03.03.2002)].md",
+      "label": "Ecco Jr. (UA) [T+Rus SergeyK(NewGame) (03.03.2002)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Ecco the Dolphin (UEK) (REV00) [T+Rus SergeyK(NewGame) (06.02.2002)][p1].md",
+      "label": "Ecco the Dolphin (UEK) (REV00) [T+Rus SergeyK(NewGame) (06.02.2002)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/ESWAT - City under Siege (UE) [T+Rus MagicGame].md",
+      "label": "ESWAT - City under Siege (UE) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Evander Holyfield's 'Real Deal' Boxing (W) [T+Rus MagicGame].md",
+      "label": "Evander Holyfield's 'Real Deal' Boxing (W) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/F1 (E) [T+Rus MagicGame].md",
+      "label": "F1 (E) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Fantasia (W) (REV01) [T+Rus SergeyK&Pirate (30.11.2004)].md",
+      "label": "Fantasia (W) (REV01) [T+Rus SergeyK&Pirate (30.11.2004)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Fantastic Dizzy (UE) [T+Rus MagicGame].md",
+      "label": "Fantastic Dizzy (UE) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Fatal Labyrinth (UE) [T+Rus Chief-Net (22.05.2009)].md",
+      "label": "Fatal Labyrinth (UE) [T+Rus Chief-Net (22.05.2009)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Fighting Masters (U) [T-Rus Pirate].md",
+      "label": "Fighting Masters (U) [T-Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Fire Shark (U) [T+Rus Pirate].md",
+      "label": "Fire Shark (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Flashback (E) [b1][T+Rus STARBUZI (02.03.2015)][p1].md",
+      "label": "Flashback (E) [b1][T+Rus STARBUZI (02.03.2015)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Flintstones, The (U) (Taito) [T+Rus NewGame (08.12.2001)][p1].md",
+      "label": "Flintstones, The (U) (Taito) [T+Rus NewGame (08.12.2001)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Fun Car Rally (U) (Beta) [T+Rus Pirate (19.12.2003)].md",
+      "label": "Fun Car Rally (U) (Beta) [T+Rus Pirate (19.12.2003)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Gargoyles (U) [T+Rus SergeyK(NewGame) (04.07.2002)][p1] (PAL).md",
+      "label": "Gargoyles (U) [T+Rus SergeyK(NewGame) (04.07.2002)][p1] (PAL)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Garry Kitchen's Super Battletank - War in the Gulf (U) [T+Rus SergeyK(NewGame) (04.02.2003)].md",
+      "label": "Garry Kitchen's Super Battletank - War in the Gulf (U) [T+Rus SergeyK(NewGame) (04.02.2003)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Gemfire (U) [T+Rus MagicGame].md",
+      "label": "Gemfire (U) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/General Chaos (UE) [T+Rus Shedevr (03.01.2006)].md",
+      "label": "General Chaos (UE) [T+Rus Shedevr (03.01.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Generations Lost (UE) [T+Rus Shinigami (12.10.2008)].md",
+      "label": "Generations Lost (UE) [T+Rus Shinigami (12.10.2008)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Genghis Khan II - Clan of the Gray Wolf (U) [T-Rus bit16.info (12.06.2008)].md",
+      "label": "Genghis Khan II - Clan of the Gray Wolf (U) [T-Rus bit16.info (12.06.2008)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Ghostbusters (UE) [T+Rus SergeyK&Pirate (29.11.2004)].md",
+      "label": "Ghostbusters (UE) [T+Rus SergeyK&Pirate (29.11.2004)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Ghouls'n Ghosts (W) (REV02) [T+Rus Pirate].md",
+      "label": "Ghouls'n Ghosts (W) (REV02) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Gleylancer (J) [T+Rus1.14 Chief-Net (26.01.2014)].md",
+      "label": "Gleylancer (J) [T+Rus1.14 Chief-Net (26.01.2014)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Gods (U) [T+Rus Pirate].md",
+      "label": "Gods (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Golden Axe (W) (REV01) [T+Rus Pirate].md",
+      "label": "Golden Axe (W) (REV01) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Golden Axe II (W) [T+Rus Pirate].md",
+      "label": "Golden Axe II (W) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Golden Axe III (J) [T+Rus SergeyK(NewGame) (14.11.2003)][p1].md",
+      "label": "Golden Axe III (J) [T+Rus SergeyK(NewGame) (14.11.2003)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Goofy's Hysterical History Tour (U) [T+Rus SergeyK&Pirate (10.01.2005)].md",
+      "label": "Goofy's Hysterical History Tour (U) [T+Rus SergeyK&Pirate (10.01.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Granada (JU) (REV01) [T+Rus Pirate].md",
+      "label": "Granada (JU) (REV01) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Greendog - The Beached Surfer Dude! (UE) [T+Rus Pirate].md",
+      "label": "Greendog - The Beached Surfer Dude! (UE) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Heavy Nova (U) [T+Rus1.00 Chief-Net (23.02.2018)].md",
+      "label": "Heavy Nova (U) [T+Rus1.00 Chief-Net (23.02.2018)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Home Alone 2 - Lost in New York (U) [T+Rus MagicGame].md",
+      "label": "Home Alone 2 - Lost in New York (U) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Hook (U) [T+Rus SergeyK(NewGame)].md",
+      "label": "Hook (U) [T+Rus SergeyK(NewGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Incredible Crash Dummies, The (UE) [T+Rus Pirate].md",
+      "label": "Incredible Crash Dummies, The (UE) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Incredible Hulk, The (UE) [T+Rus Pirate].md",
+      "label": "Incredible Hulk, The (UE) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Indiana Jones and the Last Crusade (U) [T-Rus uBAH009 (15.11.2016)].md",
+      "label": "Indiana Jones and the Last Crusade (U) [T-Rus uBAH009 (15.11.2016)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Insector X (JK) [T+Rus Pirate].md",
+      "label": "Insector X (JK) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Ishido - The Way of Stones (U) (Unl) [T+Rus1.01 Chief-Net (12.12.2016)].md",
+      "label": "Ishido - The Way of Stones (U) (Unl) [T+Rus1.01 Chief-Net (12.12.2016)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/James Bond 007 - The Duel (E) [T+Rus MagicGame].md",
+      "label": "James Bond 007 - The Duel (E) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/James Pond - Underwater Agent (UE) [T+Rus2.0 Chief-Net (19.02.2023)].md",
+      "label": "James Pond - Underwater Agent (UE) [T+Rus2.0 Chief-Net (19.02.2023)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Jewel Master (UE) [T+Rus2.00 Chief-Net (30.08.2016)].md",
+      "label": "Jewel Master (UE) [T+Rus2.00 Chief-Net (30.08.2016)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Joe & Mac (U) [T+Rus SergeyK(NewGame) (25.09.2002)][p1].md",
+      "label": "Joe & Mac (U) [T+Rus SergeyK(NewGame) (25.09.2002)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Judge Dredd (W) [T+Rus Shedevr (02.03.2003)].md",
+      "label": "Judge Dredd (W) [T+Rus Shedevr (02.03.2003)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/JuJu Densetsu (J) [T+Rus Pirate].md",
+      "label": "JuJu Densetsu (J) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/JuJu Densetsu (J) [T+Rus Pirate] (COLOR).md",
+      "label": "JuJu Densetsu (J) [T+Rus Pirate] (COLOR)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Jungle Book, The (U) [T+Rus1.02 Shedevr (10.12.2003)].md",
+      "label": "Jungle Book, The (U) [T+Rus1.02 Shedevr (10.12.2003)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Jungle Strike (UE) [T+Rus SergeyK(NewGame) (03.03.2002)].md",
+      "label": "Jungle Strike (UE) [T+Rus SergeyK(NewGame) (03.03.2002)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Jurassic Park (U) [T+Rus SergeyK(NewGame) (07.12.2001)][p1].md",
+      "label": "Jurassic Park (U) [T+Rus SergeyK(NewGame) (07.12.2001)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Jurassic Park - Rampage Edition (UE) [T+Rus SergeyK&Pirate (04.08.2005)].md",
+      "label": "Jurassic Park - Rampage Edition (UE) [T+Rus SergeyK&Pirate (04.08.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Klax (UE) (Tengen) [T+Rus0.1 Multisoft (03.02.2010)].md",
+      "label": "Klax (UE) (Tengen) [T+Rus0.1 Multisoft (03.02.2010)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Landstalker (U) [T+Rus2.0 tapk+Ghost+Umka (19.07.2013)].md",
+      "label": "Landstalker (U) [T+Rus2.0 tapk+Ghost+Umka (19.07.2013)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Langrisser (J) [T+Rus2.40 Shedevr&Chief-Net (24.06.2021)].md",
+      "label": "Langrisser (J) [T+Rus2.40 Shedevr&Chief-Net (24.06.2021)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Langrisser II (J) (REV02) [T+Rus1.40 Chief-Net (08.12.2022)].md",
+      "label": "Langrisser II (J) (REV02) [T+Rus1.40 Chief-Net (08.12.2022)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Life on Mars (W) (Unl) [f1][T-Rus0.9 TTL (02.04.2023)].md",
+      "label": "Life on Mars (W) (Unl) [f1][T-Rus0.9 TTL (02.04.2023)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Light Crusader (U) [T+Rus2.8 MagicTeam (10.12.2004)].md",
+      "label": "Light Crusader (U) [T+Rus2.8 MagicTeam (10.12.2004)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Lion King, The (W) [T+Rus SergeyK(NewGame) (08.08.2003)][p1].md",
+      "label": "Lion King, The (W) [T+Rus SergeyK(NewGame) (08.08.2003)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Lion King II, The (T) (Unl) [T+Rus NewGame].md",
+      "label": "Lion King II, The (T) (Unl) [T+Rus NewGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Lion King III, The (T) (Unl) [T+Rus SergeyK(NewGame) (10.11.2003)].md",
+      "label": "Lion King III, The (T) (Unl) [T+Rus SergeyK(NewGame) (10.11.2003)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Lord Monarch - Tokoton Sentou Densetsu (J) [T-Rus bybyc9lc9l (25.09.2013)].md",
+      "label": "Lord Monarch - Tokoton Sentou Densetsu (J) [T-Rus bybyc9lc9l (25.09.2013)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Lost Vikings, The (U) (V1.0) [T+Rus0.98a Shedevr (01.02.2001)].md",
+      "label": "Lost Vikings, The (U) (V1.0) [T+Rus0.98a Shedevr (01.02.2001)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Lost World, The - Jurassic Park (UE) [T+Rus SergeyK&Pirate (16.12.2004)].md",
+      "label": "Lost World, The - Jurassic Park (UE) [T+Rus SergeyK&Pirate (16.12.2004)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Lotus II (UE) [T+Rus Pirate].md",
+      "label": "Lotus II (UE) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Lotus Turbo Challenge (UE) [T+Rus Pirate].md",
+      "label": "Lotus Turbo Challenge (UE) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Magical Hat no Buttobi Turbo! Daibouken (J) [T+Rus1.7 MagicTeam (13.04.2005)].md",
+      "label": "Magical Hat no Buttobi Turbo! Daibouken (J) [T+Rus1.7 MagicTeam (13.04.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Mary Shelley's Frankenstein (U) [T+Rus SergeyK&Pirate (27.11.2004)].md",
+      "label": "Mary Shelley's Frankenstein (U) [T+Rus SergeyK&Pirate (27.11.2004)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Maximum Carnage (W) [T+Rus Pirate].md",
+      "label": "Maximum Carnage (W) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/McDonald's Treasure Land Adventure (U) [T-Rus uBAH009 (19.01.2019)].md",
+      "label": "McDonald's Treasure Land Adventure (U) [T-Rus uBAH009 (19.01.2019)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Michael Jackson's Moonwalker (UE) [T+Rus SergeyK(NewGame) (19.06.2002)][p1].md",
+      "label": "Michael Jackson's Moonwalker (UE) [T+Rus SergeyK(NewGame) (19.06.2002)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Mick & Mack as the Global Gladiators (U) [T+Rus Pirate].md",
+      "label": "Mick & Mack as the Global Gladiators (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Mickey Mania - The Timeless Adventures of Mickey Mouse (U) [T+Rus SergeyK(NewGame) (19.11.2002)][p1].md",
+      "label": "Mickey Mania - The Timeless Adventures of Mickey Mouse (U) [T+Rus SergeyK(NewGame) (19.11.2002)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Micro Machines (E) [a1][T+Rus Pirate].md",
+      "label": "Micro Machines (E) [a1][T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Micro Machines 2 - Turbo Tournament (E) [T+Rus SergeyK(NewGame) (27.10.2003)][p1].md",
+      "label": "Micro Machines 2 - Turbo Tournament (E) [T+Rus SergeyK(NewGame) (27.10.2003)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Midnight Resistance (U) [T+Rus Pirate].md",
+      "label": "Midnight Resistance (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Mig-29 Fighter Pilot (U) [T+Rus MC(NewGame) (20.04.2003)][p1].md",
+      "label": "Mig-29 Fighter Pilot (U) [T+Rus MC(NewGame) (20.04.2003)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Mighty Morphin Power Rangers - The Movie (U) [T+Rus Pirate (12.09.2002)][hl].md",
+      "label": "Mighty Morphin Power Rangers - The Movie (U) [T+Rus Pirate (12.09.2002)][hl]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Misplaced (PD) (Rus) [!].md",
+      "label": "Misplaced (PD) (Rus) [!]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/MK5 - Mortal Kombat Mythologies - Sub-Zero (T) (Unl) [T+Rus SergeyK(NewGame) (02.12.2003)].md",
+      "label": "MK5 - Mortal Kombat Mythologies - Sub-Zero (T) (Unl) [T+Rus SergeyK(NewGame) (02.12.2003)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Monopoly (U) [T+Rus Pirate].md",
+      "label": "Monopoly (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Monster World IV (J) [T+Rus1.1 Chief-Net (16.04.2016)].md",
+      "label": "Monster World IV (J) [T+Rus1.1 Chief-Net (16.04.2016)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Mortal Kombat (W) (REV00) [T+Rus0.99 SergeyK(V-Trans) (09.01.2004)][p1].md",
+      "label": "Mortal Kombat (W) (REV00) [T+Rus0.99 SergeyK(V-Trans) (09.01.2004)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Mortal Kombat 3 (U) [T+Rus SergeyK(NewGame) (15.07.2004)][p1].md",
+      "label": "Mortal Kombat 3 (U) [T+Rus SergeyK(NewGame) (15.07.2004)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Mortal Kombat II (W) [T+Rus SergeyK(NewGame) (03.10.2002)][p1].md",
+      "label": "Mortal Kombat II (W) [T+Rus SergeyK(NewGame) (03.10.2002)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Mr. Nutz (E) [T+Rus Pirate (01.09.2004)].md",
+      "label": "Mr. Nutz (E) [T+Rus Pirate (01.09.2004)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Mystical Fighter (U) [T-Rus uBAH009 (13.04.2018)].md",
+      "label": "Mystical Fighter (U) [T-Rus uBAH009 (13.04.2018)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/New Horizons (U) [T+Rus1.54 Chief-Net (04.03.2017)].md",
+      "label": "New Horizons (U) [T+Rus1.54 Chief-Net (04.03.2017)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/NHLPA Hockey 93 (UE) (REV01) [T+Rus SergeyK(NewGame) (24.04.2002)].md",
+      "label": "NHLPA Hockey 93 (UE) (REV01) [T+Rus SergeyK(NewGame) (24.04.2002)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Outlander (U) (Beta) [T+Rus Pirate].md",
+      "label": "Outlander (U) (Beta) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Pagemaster, The (U) [T+Rus MagicGame].md",
+      "label": "Pagemaster, The (U) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Paperboy (UE) [T+Rus Pirate].md",
+      "label": "Paperboy (UE) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Phantasy Star - Sennenki no Owari ni (J) [T+Rus1.1 bybyc9lc9l (23.12.2012)].md",
+      "label": "Phantasy Star - Sennenki no Owari ni (J) [T+Rus1.1 bybyc9lc9l (23.12.2012)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Phantasy Star II (UE) (REV02) [T+Rus Shedevr (20.11.2006)].md",
+      "label": "Phantasy Star II (UE) (REV02) [T+Rus Shedevr (20.11.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Phantasy Star III - Generations of Doom (UEK) [T+Rus Shedevr (12.06.2005)].md",
+      "label": "Phantasy Star III - Generations of Doom (UEK) [T+Rus Shedevr (12.06.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Phelios (U) [T+Rus0.99 Chief-Net (08.03.2017)].md",
+      "label": "Phelios (U) [T+Rus0.99 Chief-Net (08.03.2017)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Pink Goes to Hollywood (UE) [T+Rus MagicGame].md",
+      "label": "Pink Goes to Hollywood (UE) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Pinocchio (U) [T+Rus Shedevr (17.11.2006)].md",
+      "label": "Pinocchio (U) [T+Rus Shedevr (17.11.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Pirates! Gold (U) [T+Rus3.4 MagicTeam (28.03.2005)].md",
+      "label": "Pirates! Gold (U) [T+Rus3.4 MagicTeam (28.03.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Pirates of Dark Water, The (U) [T+Rus Shedevr(StudioGrand) (04.06.2002)].md",
+      "label": "Pirates of Dark Water, The (U) [T+Rus Shedevr(StudioGrand) (04.06.2002)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Pitfall - The Mayan Adventure (U) [T+Rus MagicGame].md",
+      "label": "Pitfall - The Mayan Adventure (U) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Pocahontas (U) [T+Rus Shedevr (10.10.2004)].md",
+      "label": "Pocahontas (U) [T+Rus Shedevr (10.10.2004)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Power Monger (UE) [T+Rus alexko85+gegmopo3 (29.01.2009)].md",
+      "label": "Power Monger (UE) [T+Rus alexko85+gegmopo3 (29.01.2009)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Predator 2 (UE) [T+Rus SergeyK&Pirate].md",
+      "label": "Predator 2 (UE) [T+Rus SergeyK&Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Primal Rage (UE) [T-Rus NewGame].md",
+      "label": "Primal Rage (UE) [T-Rus NewGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Prince of Persia (E) (Beta-2) [f1+C][T+Rus1.06b Shedevr (31.12.2003)][p1].md",
+      "label": "Prince of Persia (E) (Beta-2) [f1+C][T+Rus1.06b Shedevr (31.12.2003)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Prince of Persia 2 (E) (Proto-1995.02.20) [f1][T-Rus Unknown (14.02.2008)].md",
+      "label": "Prince of Persia 2 (E) (Proto-1995.02.20) [f1][T-Rus Unknown (14.02.2008)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Punisher, The (U) [T+Rus Pirate].md",
+      "label": "Punisher, The (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/QuackShot Starring Donald Duck (W) (REV00) [T+Rus0.2.3 Dr.MefistO (27.03.2016)].md",
+      "label": "QuackShot Starring Donald Duck (W) (REV00) [T+Rus0.2.3 Dr.MefistO (27.03.2016)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Radical Rex (U) [T+Rus Pirate (23.01.2005)][a1].md",
+      "label": "Radical Rex (U) [T+Rus Pirate (23.01.2005)][a1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Rambo III (UEK) [T+Rus MagicGame].md",
+      "label": "Rambo III (UEK) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Rastan Saga II (U) [T-Rus uBAH009 (13.01.2019)].md",
+      "label": "Rastan Saga II (U) [T-Rus uBAH009 (13.01.2019)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Red Zone (UE) [T+Rus tem(A) (27.01.2011)].md",
+      "label": "Red Zone (UE) [T+Rus tem(A) (27.01.2011)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Rings of Power (UE) [T+Rus2.00 Chief-Net&bybyc9lc9l (15.04.2023)].md",
+      "label": "Rings of Power (UE) [T+Rus2.00 Chief-Net&bybyc9lc9l (15.04.2023)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Rise of the Robots (E) [T+Rus SergeyK(NewGame) (26.01.2002)].md",
+      "label": "Rise of the Robots (E) [T+Rus SergeyK(NewGame) (26.01.2002)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Ristar (UE) [T+Rus MagicGame].md",
+      "label": "Ristar (UE) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/RoadBlasters (U) [T+Rus MagicGame].md",
+      "label": "RoadBlasters (U) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Road Rash (UE) [T+Rus Pirate].md",
+      "label": "Road Rash (UE) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Road Rash 3 (UE) [T+Rus Pirate].md",
+      "label": "Road Rash 3 (UE) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Road Rash II (UE) (REV00) [T+Rus SergeyK(NewGame) (06.03.2003)].md",
+      "label": "Road Rash II (UE) (REV00) [T+Rus SergeyK(NewGame) (06.03.2003)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/RoboCop 3 (UE) [T+Rus Pirate].md",
+      "label": "RoboCop 3 (UE) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Robocop Versus The Terminator (U) [T+Rus SergeyK(NewGame) (15.07.2002)].md",
+      "label": "Robocop Versus The Terminator (U) [T+Rus SergeyK(NewGame) (15.07.2002)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Rock n' Roll Racing (U) [T+Rus SergeyK(NewGame) (16.04.2004)][p1].md",
+      "label": "Rock n' Roll Racing (U) [T+Rus SergeyK(NewGame) (16.04.2004)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Rolling Thunder 3 (U) [T-Rus uBAH009 (21.11.2018)].md",
+      "label": "Rolling Thunder 3 (U) [T-Rus uBAH009 (21.11.2018)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Rolo to the Rescue (UE) [T+Rus MagicGame].md",
+      "label": "Rolo to the Rescue (UE) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Runark (JK) [T+Rus Pirate].md",
+      "label": "Runark (JK) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Scooby-Doo Mystery (U) [T+Rus1.25 Chief-Net (08.03.2018)].md",
+      "label": "Scooby-Doo Mystery (U) [T+Rus1.25 Chief-Net (08.03.2018)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Second Samurai (E) [T+Rus Pirate].md",
+      "label": "Second Samurai (E) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Separation Anxiety (UE) [T+Rus SergeyK(NewGame) (26.02.2002)][p1].md",
+      "label": "Separation Anxiety (UE) [T+Rus SergeyK(NewGame) (26.02.2002)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Shadowrun (U) [T+Rus1.05 Shedevr (09.04.2005)].md",
+      "label": "Shadowrun (U) [T+Rus1.05 Shedevr (09.04.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Shijou Saidai no Soukoban (J) [T+Rus Cool-Spot (12.12.2010)][f1].md",
+      "label": "Shijou Saidai no Soukoban (J) [T+Rus Cool-Spot (12.12.2010)][f1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Shining Force (U) [b1][T+Rus1.0 Shedevr (24.08.2005)][p1].md",
+      "label": "Shining Force (U) [b1][T+Rus1.0 Shedevr (24.08.2005)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Shining Force II (U) [T+Rus1.05fix Shedevr (10.04.2011)][p1][f1].md",
+      "label": "Shining Force II (U) [T+Rus1.05fix Shedevr (10.04.2011)][p1][f1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Shining in the Darkness (UE) [T-Rus0.3b Nick (09.10.2006)].md",
+      "label": "Shining in the Darkness (UE) [T-Rus0.3b Nick (09.10.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Shinobi III - Return of the Ninja Master (U) [T+Rus SergeyK(NewGame) (20.07.2002)][a1].md",
+      "label": "Shinobi III - Return of the Ninja Master (U) [T+Rus SergeyK(NewGame) (20.07.2002)][a1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Side Pocket (U) [T+Rus MagicGame].md",
+      "label": "Side Pocket (U) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Simpsons, The - Bart vs. the Space Mutants (UE) (REV01) [T+Rus0.95 Shedevr (27.11.2001)][p1].md",
+      "label": "Simpsons, The - Bart vs. the Space Mutants (UE) (REV01) [T+Rus0.95 Shedevr (27.11.2001)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Skeleton Krew (U) [T+Rus Shedevr (09.09.2003)].md",
+      "label": "Skeleton Krew (U) [T+Rus Shedevr (09.09.2003)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Snow Bros. - Nick & Tom (J) [T+Rus uBAH009 (12.04.2018)].md",
+      "label": "Snow Bros. - Nick & Tom (J) [T+Rus uBAH009 (12.04.2018)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Sonic & Knuckles (W) [T+Rus Nik_Pi (31.12.2022)].md",
+      "label": "Sonic & Knuckles (W) [T+Rus Nik_Pi (31.12.2022)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Sonic 3D Blast (UEK) [T+Rus SergeyK(NewGame) (07.12.2004)][p1].md",
+      "label": "Sonic 3D Blast (UEK) [T+Rus SergeyK(NewGame) (07.12.2004)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Sonic Jam 6 (T) (Unl) [f1][T+Rus MagicGame].md",
+      "label": "Sonic Jam 6 (T) (Unl) [f1][T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Sonic Spinball (U) [T+Rus Pirate (03.10.2003)].md",
+      "label": "Sonic Spinball (U) [T+Rus Pirate (03.10.2003)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Sonic the Hedgehog (UE) [T+Rus Cool-Spot (31.10.2010)].md",
+      "label": "Sonic the Hedgehog (UE) [T+Rus Cool-Spot (31.10.2010)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Sonic the Hedgehog 2 (W) (REV01) [T+Rus Pirate][p1].md",
+      "label": "Sonic the Hedgehog 2 (W) (REV01) [T+Rus Pirate][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Sonic the Hedgehog 3 (U) [T+Rus Pirate][p1].md",
+      "label": "Sonic the Hedgehog 3 (U) [T+Rus Pirate][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Spider-Man (UE) (Acclaim) [T+Rus SergeyK(NewGame) (15.07.2002)].md",
+      "label": "Spider-Man (UE) (Acclaim) [T+Rus SergeyK(NewGame) (15.07.2002)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Spider-Man (W) (Sega) [T+Rus NewGame][p1].md",
+      "label": "Spider-Man (W) (Sega) [T+Rus NewGame][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Splatterhouse 2 (U) [T+Rus1.0 MagicTeam (14.07.2011)].md",
+      "label": "Splatterhouse 2 (U) [T+Rus1.0 MagicTeam (14.07.2011)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Splatterhouse 3 (U) [T+Rus1.0 MagicTeam (24.03.2011)].md",
+      "label": "Splatterhouse 3 (U) [T+Rus1.0 MagicTeam (24.03.2011)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Spot Goes to Hollywood (E) [T+Rus SergeyK(NewGame) (10.01.2003)].md",
+      "label": "Spot Goes to Hollywood (E) [T+Rus SergeyK(NewGame) (10.01.2003)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Squirrel King (T) (Unl) [T+Rus Pirate (07.01.2005)].md",
+      "label": "Squirrel King (T) (Unl) [T+Rus Pirate (07.01.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Stargate (UE) [T+Rus0.99 Shedevr (08.12.2002)][p1].md",
+      "label": "Stargate (UE) [T+Rus0.99 Shedevr (08.12.2002)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Stone Protectors (U) (Proto) [T+Rus Pirate][p1].md",
+      "label": "Stone Protectors (U) (Proto) [T+Rus Pirate][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Story of Thor, The (E) [T+Rus1.03 Shedevr(Nick.oDIMM) (16.11.2003)].md",
+      "label": "Story of Thor, The (E) [T+Rus1.03 Shedevr(Nick.oDIMM) (16.11.2003)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Street Fighter II' Plus - Champion Edition (JK) [T+Rus SergeyK(NewGame) (23.05.2003)][p1].md",
+      "label": "Street Fighter II' Plus - Champion Edition (JK) [T+Rus SergeyK(NewGame) (23.05.2003)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Streets of Rage (W) (REV00) [T+Rus SergeyK(NewGame) (01.12.2003)][p1].md",
+      "label": "Streets of Rage (W) (REV00) [T+Rus SergeyK(NewGame) (01.12.2003)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Streets of Rage 2 (U) [T+Rus0.91 Shedevr (02.05.2002)].md",
+      "label": "Streets of Rage 2 (U) [T+Rus0.91 Shedevr (02.05.2002)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Streets of Rage 3 (U) (REV00) [T+Rus SergeyK&Pirate (09.12.2004)][p1].md",
+      "label": "Streets of Rage 3 (U) (REV00) [T+Rus SergeyK&Pirate (09.12.2004)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Sunset Riders (U) [T+Rus SergeyK&Pirate (27.12.2004)].md",
+      "label": "Sunset Riders (U) [T+Rus SergeyK&Pirate (27.12.2004)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Super Battleship - The Classic Naval Combat Game (U) [T+Rus SergeyK&Pirate (14.12.2004)].md",
+      "label": "Super Battleship - The Classic Naval Combat Game (U) [T+Rus SergeyK&Pirate (14.12.2004)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Super Donkey Kong 99 (T) (Unl) [T+Rus Pirate].md",
+      "label": "Super Donkey Kong 99 (T) (Unl) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Super Hang-On (E) [T+Rus MagicGame].md",
+      "label": "Super Hang-On (E) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Super Mario World (T) (Unl) [T+Rus SergeyK(NewGame) (19.08.2003)].md",
+      "label": "Super Mario World (T) (Unl) [T+Rus SergeyK(NewGame) (19.08.2003)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Super Mario World 64 (T) (Unl) [T+Rus Pirate].md",
+      "label": "Super Mario World 64 (T) (Unl) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Super Off Road (UE) (Unl) [T+Rus MagicGame (23.05.2005)].md",
+      "label": "Super Off Road (UE) (Unl) [T+Rus MagicGame (23.05.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Surging Aura (J) [T+Rus1.31 bybyc9lc9l (24.05.2015)].md",
+      "label": "Surging Aura (J) [T+Rus1.31 bybyc9lc9l (24.05.2015)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Syd of Valis (U) [T-Rus uBAH009 (22.12.2018)].md",
+      "label": "Syd of Valis (U) [T-Rus uBAH009 (22.12.2018)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Sylvester & Tweety in Cagey Capers (UE) [T+Rus SergeyK(NewGame) (19.04.2003)].md",
+      "label": "Sylvester & Tweety in Cagey Capers (UE) [T+Rus SergeyK(NewGame) (19.04.2003)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Syndicate (UE) [T+Rus1.00 Shedevr (05.01.2006)].md",
+      "label": "Syndicate (UE) [T+Rus1.00 Shedevr (05.01.2006)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/T2 - Terminator 2 - Judgment Day (UE) [T+Rus Pirate].md",
+      "label": "T2 - Terminator 2 - Judgment Day (UE) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/T2 - The Arcade Game (UE) [T+Rus NewGame][p1].md",
+      "label": "T2 - The Arcade Game (UE) [T+Rus NewGame][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/TaleSpin (UE) [T+Rus NewGame (05.12.2001)].md",
+      "label": "TaleSpin (UE) [T+Rus NewGame (05.12.2001)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Taz-Mania (W) [T+Rus SergeyK(NewGame) (26.05.2003)].md",
+      "label": "Taz-Mania (W) [T+Rus SergeyK(NewGame) (26.05.2003)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Taz in Escape from Mars (U) [T+Rus Pirate].md",
+      "label": "Taz in Escape from Mars (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/TechnoClash (UE) [T+Rus Pirate].md",
+      "label": "TechnoClash (UE) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Teenage Mutant Ninja Turtles - The Hyperstone Heist (U) [T+Rus SergeyK(NewGame) (17.07.2003)][p1].md",
+      "label": "Teenage Mutant Ninja Turtles - The Hyperstone Heist (U) [T+Rus SergeyK(NewGame) (17.07.2003)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Teenage Mutant Ninja Turtles - Tournament Fighters (U) [T+Rus SergeyK(NewGame) (10.09.2003)][p1].md",
+      "label": "Teenage Mutant Ninja Turtles - Tournament Fighters (U) [T+Rus SergeyK(NewGame) (10.09.2003)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Terminator, The (U) [T+Rus NewGame][p1].md",
+      "label": "Terminator, The (U) [T+Rus NewGame][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Test Drive II - The Duel (UE) (Unl) [T+Rus MagicGame].md",
+      "label": "Test Drive II - The Duel (UE) (Unl) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Tetris (J) [T+Rus Pirate].md",
+      "label": "Tetris (J) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Theme Park (UE) [T+Rus0.97 Shedevr (16.03.2001)].md",
+      "label": "Theme Park (UE) [T+Rus0.97 Shedevr (16.03.2001)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Tick, The (U) [T+Rus SergeyK(NewGame) (14.12.2004)][p1].md",
+      "label": "Tick, The (U) [T+Rus SergeyK(NewGame) (14.12.2004)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Tinhead (U) (V1.0) [T+Rus SergeyK(NewGame) (19.03.2003)][p1].md",
+      "label": "Tinhead (U) (V1.0) [T+Rus SergeyK(NewGame) (19.03.2003)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Tiny Toon Adventures - Buster's Hidden Treasure (U) [T+Rus MagicGame (27.12.2010)].md",
+      "label": "Tiny Toon Adventures - Buster's Hidden Treasure (U) [T+Rus MagicGame (27.12.2010)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/ToeJam & Earl (JE) (REV02) [T+Rus1.2 Chief-Net (25.03.2015)].md",
+      "label": "ToeJam & Earl (JE) (REV02) [T+Rus1.2 Chief-Net (25.03.2015)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Tom and Jerry - Frantic Antics! (U) (Beta) [T+Rus SergeyK(NewGame) (09.12.2002)][p1].md",
+      "label": "Tom and Jerry - Frantic Antics! (U) (Beta) [T+Rus SergeyK(NewGame) (09.12.2002)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Top Fighter 2000 MK VIII (T) (Unl) [f1][T-Rus SergeyK(NewGame) (18.11.2003)].md",
+      "label": "Top Fighter 2000 MK VIII (T) (Unl) [f1][T-Rus SergeyK(NewGame) (18.11.2003)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Top Gear 2 (U) [T+Rus Pirate].md",
+      "label": "Top Gear 2 (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Tougiou King Colossus (J) [T+Rus 1.1 bybyc9lc9l (23.12.2012)].md",
+      "label": "Tougiou King Colossus (J) [T+Rus 1.1 bybyc9lc9l (23.12.2012)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Toy Story (U) [T+Rus0.99 SergeyK(V-Trans) (10.01.2005)].md",
+      "label": "Toy Story (U) [T+Rus0.99 SergeyK(V-Trans) (10.01.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/True Lies (W) [T-Rus1.1 MagicTeam (14.07.2005)].md",
+      "label": "True Lies (W) [T-Rus1.1 MagicTeam (14.07.2005)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Turbo OutRun (JE) [T+Rus MagicGame].md",
+      "label": "Turbo OutRun (JE) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Twin Hawk (JE) [T-Rus uBAH009 (30.08.2019)].md",
+      "label": "Twin Hawk (JE) [T-Rus uBAH009 (30.08.2019)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Twinkle Tale (J) [T+Rus1.00 Chief-Net (31.12.2013)].md",
+      "label": "Twinkle Tale (J) [T+Rus1.00 Chief-Net (31.12.2013)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Two Tribes - Populous II (E) [T+Rus MC(NewGame) (03.05.2003)][p1].md",
+      "label": "Two Tribes - Populous II (E) [T+Rus MC(NewGame) (03.05.2003)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Tyrants - Fight Through Time (U) [T+Rus MagicGame].md",
+      "label": "Tyrants - Fight Through Time (U) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Ultimate Mortal Kombat 3 (U) [T+Rus Pirate].md",
+      "label": "Ultimate Mortal Kombat 3 (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Urban Strike (UE) [T+Rus SergeyK&Pirate (08.12.2004)].md",
+      "label": "Urban Strike (UE) [T+Rus SergeyK&Pirate (08.12.2004)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Valis (U) [T-Rus1.01 Shedevr (07.02.2002)].md",
+      "label": "Valis (U) [T-Rus1.01 Shedevr (07.02.2002)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Valis III (U) [T+Rus0.9b Shedevr (10.04.2001)][p1].md",
+      "label": "Valis III (U) [T+Rus0.9b Shedevr (10.04.2001)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Vectorman (UE) [T+Rus SergeyK(NewGame) (28.01.2003)].md",
+      "label": "Vectorman (UE) [T+Rus SergeyK(NewGame) (28.01.2003)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Vectorman 2 (U) [T+Rus SergeyK(NewGame) (22.02.2003)].md",
+      "label": "Vectorman 2 (U) [T+Rus SergeyK(NewGame) (22.02.2003)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Warlock (UE) [T-Rus SergeyK(NewGame) (15.05.2002)][p1].md",
+      "label": "Warlock (UE) [T-Rus SergeyK(NewGame) (15.05.2002)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Warsong (U) [T+Rus1.02 Shedevr&Chief-Net (26.12.2013)].md",
+      "label": "Warsong (U) [T+Rus1.02 Shedevr&Chief-Net (26.12.2013)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Waterworld (E) (Proto) [T+Rus SergeyK(NewGame) (19.06.2003)][p1].md",
+      "label": "Waterworld (E) (Proto) [T+Rus SergeyK(NewGame) (19.06.2003)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Whip Rush (U) [T-Rus uBAH009 (25.11.2018)].md",
+      "label": "Whip Rush (U) [T-Rus uBAH009 (25.11.2018)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Wolfchild (U) [T+Rus Pirate].md",
+      "label": "Wolfchild (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Wolverine - Adamantium Rage (UE) [T+Rus SergeyK(NewGame)&PAUK (27.10.2013)].md",
+      "label": "Wolverine - Adamantium Rage (UE) [T+Rus SergeyK(NewGame)&PAUK (27.10.2013)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/World of Illusion Starring Mickey Mouse and Donald Duck (E) [T+Rus SergeyK(NewGame) (26.04.2004)][p1].md",
+      "label": "World of Illusion Starring Mickey Mouse and Donald Duck (E) [T+Rus SergeyK(NewGame) (26.04.2004)][p1]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Worms (E) [T+Rus NewGame][p1] (REGION FREE).md",
+      "label": "Worms (E) [T+Rus NewGame][p1] (REGION FREE)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/X-Men (U) [T+Rus Pirate].md",
+      "label": "X-Men (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/X-Men 2 - Clone Wars (UE) [T+Rus SergeyK(NewGame)].md",
+      "label": "X-Men 2 - Clone Wars (UE) [T+Rus SergeyK(NewGame)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/X-Perts (U) [T+Rus1.1 Dr.MefistO (05.12.2009)].md",
+      "label": "X-Perts (U) [T+Rus1.1 Dr.MefistO (05.12.2009)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Yu Yu Hakusho - Makyou Toitsusen (J) [T+Rus1.0 OwlsGroup (02.05.2011)].md",
+      "label": "Yu Yu Hakusho - Makyou Toitsusen (J) [T+Rus1.0 OwlsGroup (02.05.2011)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Zero the Kamikaze Squirrel (U) [T+Rus Pirate].md",
+      "label": "Zero the Kamikaze Squirrel (U) [T+Rus Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Zero Tolerance (UE) (REV01) [T+Rus SergeyK&Pirate].md",
+      "label": "Zero Tolerance (UE) (REV01) [T+Rus SergeyK&Pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Zero Wing (E) [T-Rus uBAH009 (17.09.2019)].md",
+      "label": "Zero Wing (E) [T-Rus uBAH009 (17.09.2019)]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/retroarch/roms/GEN/ru-RU/Zombies Ate My Neighbors (U) [T+Rus MagicGame].md",
+      "label": "Zombies Ate My Neighbors (U) [T+Rus MagicGame]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    }
+  ]
+}

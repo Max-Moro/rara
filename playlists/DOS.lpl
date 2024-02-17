@@ -1,0 +1,285 @@
+{
+  "version": "1.5",
+  "default_core_path": "/retroarch/cores/dosbox_pure_libretro_libnx.nro",
+  "default_core_name": "DOS (DOSBox-Pure)",
+  "base_content_directory": "/retroarch/roms",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/AC_RUS/alleycat.com",
+      "label": "Alley Cat",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/AiTD/ALONECRK.COM",
+      "label": "Alone in the Dark",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/ALBION/albion.exe",
+      "label": "Albion",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/ALIEN/AI.COM",
+      "label": "Alien Incident",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/arnie2/arnie.exe",
+      "label": "Arnie Savage - Combat Commando",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/bloodnet/BLOODNET.COM",
+      "label": "BloodNet",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/BTHORNE/BTHORNEG.BAT",
+      "label": "Blackthorne",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/COLONIAL/aps.bat",
+      "label": "Colonial Project",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/DOTT/tentacle.exe",
+      "label": "Day of the Tentacle",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/dreamweb/oldgames.bat",
+      "label": "DreamWeb",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/DSTRIKE/dstrike.exe",
+      "label": "DragonStrike",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/DU/start.bat",
+      "label": "Dark Universe",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/Dune/dune_mt.bat",
+      "label": "Dune",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/Epi_RU/autoexec.bat",
+      "label": "Epidemic!",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/HIND/mi24.bat",
+      "label": "HIND - The Russian Combat Helicopter Simulation",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/Hocus/hocus.exe",
+      "label": "Hocus Pocus",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/JA/ja.exe",
+      "label": "Jagged Alliance",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/jitd/jack.bat",
+      "label": "Jack in the Dark",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/KGB/kgb.bat",
+      "label": "KGB",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/KK10/strus.exe",
+      "label": "King Kong 10",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/mm1/oldgames.bat",
+      "label": "Might and Magic I",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/mm4/xeen.exe",
+      "label": "Might and Magic IV",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/MOO/orion.exe",
+      "label": "Master of Orion",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/MRTE/mill.bat",
+      "label": "Millennium - Return to Earth",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/SHADOW.CD/shadow.exe",
+      "label": "Call of Cthulhu - Shadow of the Comet",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/SPEAR/oldgames.bat",
+      "label": "Spear of Destiny",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/TVEL/start.bat",
+      "label": "Terminal Velocity",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/Vikings/vikings.exe",
+      "label": "Lost Vikings",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/vod/oldgames.bat",
+      "label": "Veil of Darkness",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/WAR/oldgames.bat",
+      "label": "WarCraft - Orcs and Humans",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/WOE_RU/woe.exe",
+      "label": "Wrath of Earth",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/Wolf3D/oldgames.bat",
+      "label": "Wolfenstein 3D",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/ru-RU/X-COM2/terror.bat",
+      "label": "X-COM - Terror from the Deep",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/retroarch/roms/DOS/prehistorik2/pre2.exe",
+      "label": "Prehistorik 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    }
+  ]
+}

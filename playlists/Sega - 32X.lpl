@@ -1,0 +1,331 @@
+{
+  "version": "1.5",
+  "default_core_path": "/retroarch/cores/picodrive_libretro_libnx.nro",
+  "default_core_name": "Sega - MS/GG/MD/CD/32X (PicoDrive)",
+  "base_content_directory": "/retroarch/roms",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "scan_content_dir": "/retroarch/roms/32X",
+  "scan_file_exts": "32x",
+  "scan_dat_file_path": "",
+  "scan_search_recursively": true,
+  "scan_search_archives": true,
+  "scan_filter_dat_content": false,
+  "items": [
+    {
+      "path": "/retroarch/roms/32X/After Burner Complete.32x",
+      "label": "After Burner Complete",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/Amazing Spider-Man - Web of Fire.32x",
+      "label": "Amazing Spider-Man - Web of Fire",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/BC Racers.32x",
+      "label": "BC Racers",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/Blackthorne.32x",
+      "label": "Blackthorne",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/Brutal Unleashed - Above the Claw.32x",
+      "label": "Brutal Unleashed - Above the Claw",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/Cosmic Carnage.32x",
+      "label": "Cosmic Carnage",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/DarXide.32x",
+      "label": "DarXide",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/DOOM.32x",
+      "label": "DOOM",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/FIFA International Soccer 96.32x",
+      "label": "FIFA International Soccer 96",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/Golf Magazine Presents - 36 Great Holes Starring Fred Couples.32x",
+      "label": "Golf Magazine Presents - 36 Great Holes Starring Fred Couples",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/Knuckles' Chaotix.32x",
+      "label": "Knuckles' Chaotix",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/Kolibri.32x",
+      "label": "Kolibri",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/LuSID Dreams.32x",
+      "label": "LuSID Dreams",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/Metal Head.32x",
+      "label": "Metal Head",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/Mortal Kombat II.32x",
+      "label": "Mortal Kombat II",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/Motocross Championship.32x",
+      "label": "Motocross Championship",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/NBA Jam - Tournament Edition.32x",
+      "label": "NBA Jam - Tournament Edition",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/NFL Quarterback Club.32x",
+      "label": "NFL Quarterback Club",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/Pitfall - The Mayan Adventure.32x",
+      "label": "Pitfall - The Mayan Adventure",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/Primal Rage.32x",
+      "label": "Primal Rage",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/R.B.I. Baseball '95.32x",
+      "label": "R.B.I. Baseball '95",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/Shadow Squadron.32x",
+      "label": "Shadow Squadron",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/Sonic the Hedgehog.32x",
+      "label": "Sonic the Hedgehog",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/Sonic the Hedgehog 2.32x",
+      "label": "Sonic the Hedgehog 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/Soulstar X.32x",
+      "label": "Soulstar X",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/Space Harrier.32x",
+      "label": "Space Harrier",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/Star Trek - Starfleet Academy.32x",
+      "label": "Star Trek - Starfleet Academy",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/Star Wars Arcade.32x",
+      "label": "Star Wars Arcade",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/T-MEK.32x",
+      "label": "T-MEK",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/Tempo.32x",
+      "label": "Tempo",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/Toughman Contest.32x",
+      "label": "Toughman Contest",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/Virtua Fighter.32x",
+      "label": "Virtua Fighter",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/Virtua Hamster.32x",
+      "label": "Virtua Hamster",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/Virtua Racing Deluxe.32x",
+      "label": "Virtua Racing Deluxe",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/World Series Baseball '95.32x",
+      "label": "World Series Baseball '95",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/WWF RAW.32x",
+      "label": "WWF RAW",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/WWF WrestleMania - The Arcade Game.32x",
+      "label": "WWF WrestleMania - The Arcade Game",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/X-Men.32x",
+      "label": "X-Men",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/retroarch/roms/32X/Zaxxon's Motherbase 2000.32x",
+      "label": "Zaxxon's Motherbase 2000",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    }
+  ]
+}
