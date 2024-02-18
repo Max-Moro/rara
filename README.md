@@ -9,7 +9,7 @@
 
 ##  Состав сборки
 
-Сборка состоит только из плейлистов, набора ромов и превью изображений к играм и не включает в себя сам эмулятор **RetroArch**.
+Сборка состоит только из плейлистов, набора ромов и превью изображений к играм и не включает в себя саму программу **RetroArch**.
 
 Включены игры для следующих платформ:
 
@@ -184,7 +184,7 @@
 3. Превью к играм взяты из следующих источников в порядке приоритета:
    - Раздача [RetroArch (2022) [Ru] (1.15) Repack Scorpius Inc.](https://rutracker.org/forum/viewtopic.php?t=6383825)
    - Официальный репозиторий [libretro-thumbnails](https://github.com/libretro-thumbnails/libretro-thumbnails)
-4. Ромы русифицированных игры для консолей были взяты из раздач [AlexanderBal](https://rutracker.org/forum/tracker.php?rid=21818313).
+4. Ромы русифицированных игр для консолей были взяты из раздач [AlexanderBal](https://rutracker.org/forum/tracker.php?rid=21818313).
 5. Русифицированные игры для **DOS** и **ScummVM** были взяты из раздачи [Бюро переводов Old-Games](https://rutracker.org/forum/viewtopic.php?t=5588535).
 
 Полные описания ко всем играм можно прочитать на сайтах [emu-land.net](https://www.emu-land.net/) и [old-games.ru](https://www.old-games.ru/). Там же можно сортировать игры по рейтингу и фильтровать по жанрам.
