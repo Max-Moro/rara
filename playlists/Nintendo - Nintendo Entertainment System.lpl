@@ -360,14 +360,6 @@
       "db_name": "Nintendo - Nintendo Entertainment System.lpl"
     },
     {
-      "path": "/retroarch/roms/NES/ru-RU/Arkanoid 98 [p1][T+Rus Guyver&Multisoft (28.07.2009)].nes",
-      "label": "Arkanoid 98 [p1][T+Rus Guyver&Multisoft (28.07.2009)]",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "00000000|crc",
-      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
-    },
-    {
       "path": "/retroarch/roms/NES/ru-RU/Armadillo (J) [T+Rus1.01 Chief-Net (21.01.2019)].nes",
       "label": "Armadillo (J) [T+Rus1.01 Chief-Net (21.01.2019)]",
       "core_path": "DETECT",
@@ -3738,14 +3730,6 @@
     {
       "path": "/retroarch/roms/NES/ru-RU/Mega Man 3 (U) [T+Rus1.1 Rustranslate (16.02.2009)].nes",
       "label": "Mega Man 3 (U) [T+Rus1.1 Rustranslate (16.02.2009)]",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "00000000|crc",
-      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
-    },
-    {
-      "path": "/retroarch/roms/NES/ru-RU/Mega Man 3 (U) [T-Rus1.0 Rustranslate (06.06.2008)].nes",
-      "label": "Mega Man 3 (U) [T-Rus1.0 Rustranslate (06.06.2008)]",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "00000000|crc",
